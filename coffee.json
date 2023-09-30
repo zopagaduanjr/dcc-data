@@ -98,17 +98,6 @@
     },
     "elevation": 8.355263710021973
   },
-  "MYLK Cafe": {
-    "name": "MYLK Cafe",
-    "geometry": {
-      "location": { "lat": 7.0817159, "lng": 125.6016812 },
-      "viewport": {
-        "northeast": { "lat": 7.083097730291501, "lng": 125.6030645802915 },
-        "southwest": { "lat": 7.080399769708497, "lng": 125.6003666197085 }
-      }
-    },
-    "elevation": 14.06391334533691
-  },
   "Balay Juice & Coffee Co.": {
     "name": "Balay Juice & Coffee Co.",
     "geometry": {
@@ -119,5 +108,49 @@
       }
     },
     "elevation": 6.636610507965088
+  },
+  "Espresso Lab Cafe": {
+    "name": "Espresso Lab Cafe",
+    "geometry": {
+      "location": { "lat": 7.1009565, "lng": 125.6326449 },
+      "viewport": {
+        "northeast": { "lat": 7.102413380291502, "lng": 125.6339650802915 },
+        "southwest": { "lat": 7.099715419708498, "lng": 125.6312671197085 }
+      }
+    },
+    "elevation": 7.639552116394043
+  },
+  "espresson": {
+    "name": "espresson",
+    "geometry": {
+      "location": { "lat": 7.071206999999999, "lng": 125.6149513 },
+      "viewport": {
+        "northeast": { "lat": 7.072511630291501, "lng": 125.6162457302915 },
+        "southwest": { "lat": 7.069813669708497, "lng": 125.6135477697085 }
+      }
+    },
+    "elevation": 6.199999809265137
+  },
+  "Glasshouse Coffee": {
+    "name": "Glasshouse Coffee",
+    "geometry": {
+      "location": { "lat": 7.0664693, "lng": 125.6087919 },
+      "viewport": {
+        "northeast": { "lat": 7.067858080291502, "lng": 125.6101585302915 },
+        "southwest": { "lat": 7.065160119708497, "lng": 125.6074605697085 }
+      }
+    },
+    "elevation": 8.177531242370605
+  },
+  "MYLK Cafe": {
+    "name": "MYLK Cafe",
+    "geometry": {
+      "location": { "lat": 7.0817159, "lng": 125.6016812 },
+      "viewport": {
+        "northeast": { "lat": 7.083097730291501, "lng": 125.6030645802915 },
+        "southwest": { "lat": 7.080399769708497, "lng": 125.6003666197085 }
+      }
+    },
+    "elevation": 14.06391334533691
   }
 }

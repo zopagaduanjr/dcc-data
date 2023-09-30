@@ -1,0 +1,304 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [
+      {
+        "long_name": "J.P. Laurel Avenue",
+        "short_name": "J.P. Laurel Ave",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Agdao",
+        "short_name": "Agdao",
+        "types": ["sublocality_level_1", "sublocality", "political"]
+      },
+      {
+        "long_name": "Davao City",
+        "short_name": "Davao City",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Davao del Sur",
+        "short_name": "Davao del Sur",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Davao Region",
+        "short_name": "Davao Region",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "Philippines",
+        "short_name": "PH",
+        "types": ["country", "political"]
+      }
+    ],
+    "adr_address": "The Lanang Suites Hotel, Ground Floor, <span class=\"street-address\">J.P. Laurel Ave</span>, <span class=\"extended-address\">Agdao</span>, <span class=\"locality\">Davao City</span>, <span class=\"region\">Davao del Sur</span>, <span class=\"country-name\">Philippines</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": true,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "date": "2023-10-01", "day": 0, "time": "2200" },
+          "open": { "date": "2023-10-01", "day": 0, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-10-02", "day": 1, "time": "2200" },
+          "open": { "date": "2023-10-02", "day": 1, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-10-03", "day": 2, "time": "2200" },
+          "open": { "date": "2023-10-03", "day": 2, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-10-04", "day": 3, "time": "2200" },
+          "open": { "date": "2023-10-04", "day": 3, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-10-05", "day": 4, "time": "2200" },
+          "open": { "date": "2023-10-05", "day": 4, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-10-06", "day": 5, "time": "2200" },
+          "open": { "date": "2023-10-06", "day": 5, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-09-30", "day": 6, "time": "2200" },
+          "open": { "date": "2023-09-30", "day": 6, "time": "0900" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 10:00 PM",
+        "Tuesday: 9:00 AM – 10:00 PM",
+        "Wednesday: 9:00 AM – 10:00 PM",
+        "Thursday: 9:00 AM – 10:00 PM",
+        "Friday: 9:00 AM – 10:00 PM",
+        "Saturday: 9:00 AM – 10:00 PM",
+        "Sunday: 9:00 AM – 10:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "The Lanang Suites Hotel, Ground Floor, J.P. Laurel Ave, Agdao, Davao City, Davao del Sur, Philippines",
+    "formatted_phone_number": "0966 750 9282",
+    "geometry": {
+      "location": { "lat": 7.1009565, "lng": 125.6326449 },
+      "viewport": {
+        "northeast": { "lat": 7.102413380291502, "lng": 125.6339650802915 },
+        "southwest": { "lat": 7.099715419708498, "lng": 125.6312671197085 }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "international_phone_number": "+63 966 750 9282",
+    "name": "Espresso Lab Cafe",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "day": 0, "time": "2200" },
+          "open": { "day": 0, "time": "0900" }
+        },
+        {
+          "close": { "day": 1, "time": "2200" },
+          "open": { "day": 1, "time": "0900" }
+        },
+        {
+          "close": { "day": 2, "time": "2200" },
+          "open": { "day": 2, "time": "0900" }
+        },
+        {
+          "close": { "day": 3, "time": "2200" },
+          "open": { "day": 3, "time": "0900" }
+        },
+        {
+          "close": { "day": 4, "time": "2200" },
+          "open": { "day": 4, "time": "0900" }
+        },
+        {
+          "close": { "day": 5, "time": "2200" },
+          "open": { "day": 5, "time": "0900" }
+        },
+        {
+          "close": { "day": 6, "time": "2200" },
+          "open": { "day": 6, "time": "0900" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 10:00 PM",
+        "Tuesday: 9:00 AM – 10:00 PM",
+        "Wednesday: 9:00 AM – 10:00 PM",
+        "Thursday: 9:00 AM – 10:00 PM",
+        "Friday: 9:00 AM – 10:00 PM",
+        "Saturday: 9:00 AM – 10:00 PM",
+        "Sunday: 9:00 AM – 10:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 426,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102944572987417020185\">Espresso Lab Cafe</a>"
+        ],
+        "photo_reference": "ATJ83zjlfYyR78X5PyLHX7l3uXJ5zf4bk18uvkwGVPLX36Fha-YHCc6uivonhib9FvLB4GASCLV-DzPP3ZhHm4YEkGT3XYkPsDdE-51l3Rhat71oOB9IU9bgwTeoM3EwHoG6b8b1yJIQ5y-eSs-SZjXuN9evSdNOKAQ8VsU77uINAYSnYnyd",
+        "width": 756
+      },
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102944572987417020185\">Espresso Lab Cafe</a>"
+        ],
+        "photo_reference": "ATJ83zilxCinJhxEb3axXk4-WQfzbDIcAVOQn3jsZxDCC9oV32eJmKTtNZ3J50Ssv98kAkBPt6VhtzXP2F14HNWY6ZcHb-IVTOcrP9B9t5-A8Z1euCzPss14dVn5gXG2wD1e5WqI1q-NYLOVUlOzwKB3rul_OPAk_Y02FgoPfD5tyCKpxWLO",
+        "width": 1500
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103728639540111072908\">SY T</a>"
+        ],
+        "photo_reference": "ATJ83zitUNXbGxGxtUl89AQGlDHGUP5yRR5Gr5lh18-sWsyTFTs6LVqnutfrrt-cIPBJ7eubSoIfhwQ9L7fg_K-pveobCvHXt1irWweB3B-dyGgejXyQVpZwmNAnz_TrZI5ebkMw9IQ9MPSSx8hqAuMcmlWjQjRPjw4K6SRe22oKKymiwL0G",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103728639540111072908\">SY T</a>"
+        ],
+        "photo_reference": "ATJ83zjCMs_B89TPmdfET7FuXmL8dq2Il6hdwFUqC7AlPA3BPBkRdzDnrEvJDvqy8ptZM3xvs1yQaetsPYpLzLKA76dJMsJVxZV0pz25PZXDvF5MUVtllrQIv3KMtddaEMZSGw8P7zjBHPEG2gC41XJZFJHpsiybPxCxAepywsV50wOn43Rz",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102944572987417020185\">Espresso Lab Cafe</a>"
+        ],
+        "photo_reference": "ATJ83zhhOfge_0gBhZKGgUHMc7WsBOZIZyncsVnIdUlZ100VcXHmL0akhn0pyc2P8ZwU3g9HtMNbZk9USBxNT5Wi9_M_YY1e7rnUbvlCbuaT1CPaBPKuKxoNYxfq_wssAqZTJ-LDstseyiOAmmxCachZYJOLyX5zamDIf4IU7yJY2ccxy4nw",
+        "width": 3630
+      },
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111690021139462806713\">Yuda Kronos</a>"
+        ],
+        "photo_reference": "ATJ83zgBWpH8c6srJCW5WByAobus4tHi4bpmiVslIm4T7xygKTTLAq0PPRzNVLIj6MBbG7Q2kZ57N0Pnz7u7DuHl6ig8NNIogZ80OJczjJGEWIMq-ImM7bL9cYNOQq4rAz1VmyPaWzl_GV6E8ek6uJgDkdYVRP03hLaWZuMi6A-Q4cl2I18o",
+        "width": 4000
+      },
+      {
+        "height": 933,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102944572987417020185\">Espresso Lab Cafe</a>"
+        ],
+        "photo_reference": "ATJ83zhJ1t7x9gMrhoQNsiXxRi9GcNISi_8cHMRZpXZMIMZW0JmuZ5gPsgxRwcQesB-B6P-l7ef3bue5AZ_ZLj5YatxEBjCSXsXIszaqazWyTOgaCmqvFjvSBp6m-X6dg0Ma3f5tDRAEtDxHMmsG2YJeHkgt42RneXrl6tst2LP55EKAxhfk",
+        "width": 1400
+      },
+      {
+        "height": 760,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102944572987417020185\">Espresso Lab Cafe</a>"
+        ],
+        "photo_reference": "ATJ83zhwpcvc7_ZKCdWC54cPd8514f2yuF0eVJIr_HtjStADSrRjerGqRQHBv-fHHItX_8g9uaPHmzDeoIeMkbWCI5fh9hWTwfGJNLCj7icJWP06HgWs5WjqWIn6N3NpkLaR6miEMKab5IsAqqrYY9EFn-xvOxuXOOliqDcw3KG2e8KKmzQ2",
+        "width": 760
+      },
+      {
+        "height": 760,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102944572987417020185\">Espresso Lab Cafe</a>"
+        ],
+        "photo_reference": "ATJ83zh-grYEFQKS_QZrp1hZp__GPDaWD3UniyM4mGOvsYEn7Rlz0ADTrWcUZcwgv7bEUxwsmSRVExyssLaL5GPDc6nxQJt2mnIZcFMGVbl9K65GADgg_2vs1nT6FCaLjdvh_y72rbU87wr80GlSbK40nUrH8Uq9FIw8siqvxxNGSg17brJd",
+        "width": 760
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104526622295715764018\">Kyla G</a>"
+        ],
+        "photo_reference": "ATJ83zjTn_ZHBevQt18r4SMbq3VBUO9Z5yNpK4OFBRGoUCHAWrkrkejiwBaOv5wZSvIpNii9hQcdMo-VO8fvfkNiM-idqx_Trcu9gkzqV5bgM_HbyU7P48g4atKhrXjUPTIWsyoRmRhzBpNwPvuSJNa4nmG6JNHn9mII8kyTap6rphgm-Lkk",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ95SRsFlt-TIRqNIeyJnN-Fo",
+    "plus_code": {
+      "compound_code": "4J2M+93 Davao City, Davao del Sur, Philippines",
+      "global_code": "6QV74J2M+93"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ95SRsFlt-TIRqNIeyJnN-Fo",
+    "reservable": true,
+    "reviews": [
+      {
+        "author_name": "Kyla G",
+        "author_url": "https://www.google.com/maps/contrib/104526622295715764018/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-Z0u9Hi35b4fa6_RP9deGjMSP_G7Zi3MN5AXAb4St=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "5 months ago",
+        "text": "One of the better coffee shops in Davao. It's a great alternative to the chain coffee shops as it is just walking distance from SM Lanang. I ordered a Flat White, while my friends ordered a Latte. I would've wanted the Flat White to be a bit stronger. For a third wave coffee shop, the notes of the beans are not as pronounced as I hoped it would be. I also tried the cheesecake but it was a bit underwhelming for me. The vibe of the coffee shop is warm and dim, perfect for intimate get togethers. I also hope that the baristas would be a bit friendlier, they were a bit closed off and not as warm as the coffee shop intends to be. I hope they can improve on their coffee strength and customer service.",
+        "time": 1683076956,
+        "translated": false
+      },
+      {
+        "author_name": "SY T",
+        "author_url": "https://www.google.com/maps/contrib/103728639540111072908/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWelyDTUrdJhvQ52qS9OOZ2VYLX34udb_buWSf1GALt6X0=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "5 months ago",
+        "text": "I really like the interior of the place. Although the lighting is dim, it adds to the personality of the cafe. It's a nice place to just chill and wait for time to pass by. Would not recommend reading a book here though just because of the lighting, but you could always sit by the window to get that natural lighting.\n\nAs for the drinks, they offer a variety of choices which are not found in other cafés which was refreshing. I ordered their jeju matcha latte and it had this deep grassy taste which I liked, but it wasn't sweet so if you have a sweet tooth, you could probably ask for a packet of sugar to go with the latte. My boyfriend ordered their black vanilla which is basically just like a cold brew, but with vanilla flavoring. The vanilla was very rich combined with the cold brew which I enjoyed.\n\nWould definitely come back here.",
+        "time": 1681637009,
+        "translated": false
+      },
+      {
+        "author_name": "Robert Luthcke",
+        "author_url": "https://www.google.com/maps/contrib/108690195314815334121/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ77lyEF8C4sjrdoFN9YlfWFZlMFHaHxYbNC_mCVQ0D=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Excellent food, staff is so knowledgeable. I don't know much about coffee, but the staff knows there stuff so well and is able to make recommendation. I imagine if you are an avid coffee lover you will appreciate this place even more.",
+        "time": 1686065194,
+        "translated": false
+      },
+      {
+        "author_name": "Jill Patrick Fulleros",
+        "author_url": "https://www.google.com/maps/contrib/111480488792340718907/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvej8pJwuzuPc_GKUGVLmGIAAqqjg_EMPZ4yDDbOhoCzg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "There is this spot at the high table where you sit directly across their AC and the cold blowing on you is just unbearable that you'd have to transfer to another table or just leave by finishing your coffee in a hurry.",
+        "time": 1687462101,
+        "translated": false
+      },
+      {
+        "author_name": "Diane Blare Pleños",
+        "author_url": "https://www.google.com/maps/contrib/113967396072978625060/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVo5DmkdTDeVaSTeNE-FkyIKL2ikjed769echegW1M5fek=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "They offer different kinds of specialty coffees and all of their coffees are really great! Specialty experience! If you’re a coffee enthusiast you should check this out! My personal fave is their osmanthus latte, the taste and aroma of osmanthus hits differently.",
+        "time": 1660628455,
+        "translated": false
+      }
+    ],
+    "serves_breakfast": true,
+    "serves_dinner": true,
+    "serves_lunch": true,
+    "serves_vegetarian_food": true,
+    "takeout": true,
+    "types": ["cafe", "store", "food", "point_of_interest", "establishment"],
+    "url": "https://maps.google.com/?cid=6555215318008910504",
+    "user_ratings_total": 67,
+    "utc_offset": 480,
+    "vicinity": "The Lanang Suites Hotel, Ground Floor, J.P. Laurel Avenue, Agdao, Davao City",
+    "website": "https://espressolabcafe.business.site/?utm_source=gmb&utm_medium=referral"
+  },
+  "status": "OK"
+}

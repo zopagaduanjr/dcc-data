@@ -1,0 +1,299 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [
+      {
+        "long_name": "Rizal Street",
+        "short_name": "Rizal St",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Poblacion District",
+        "short_name": "Poblacion District",
+        "types": ["sublocality_level_1", "sublocality", "political"]
+      },
+      {
+        "long_name": "Davao City",
+        "short_name": "Davao City",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Davao del Sur",
+        "short_name": "Davao del Sur",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Davao Region",
+        "short_name": "Davao Region",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "Philippines",
+        "short_name": "PH",
+        "types": ["country", "political"]
+      }
+    ],
+    "adr_address": "At the Garden of Oboza Heritage House, 143, <span class=\"street-address\">Rizal St</span>, <span class=\"extended-address\">Poblacion District</span>, <span class=\"locality\">Davao City</span>, <span class=\"region\">Davao del Sur</span>, <span class=\"country-name\">Philippines</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "date": "2023-10-01", "day": 0, "time": "1900" },
+          "open": { "date": "2023-10-01", "day": 0, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-10-02", "day": 1, "time": "1900" },
+          "open": { "date": "2023-10-02", "day": 1, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-10-03", "day": 2, "time": "2100" },
+          "open": { "date": "2023-10-03", "day": 2, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-10-04", "day": 3, "time": "2100" },
+          "open": { "date": "2023-10-04", "day": 3, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-10-05", "day": 4, "time": "2100" },
+          "open": { "date": "2023-10-05", "day": 4, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-10-06", "day": 5, "time": "2100" },
+          "open": { "date": "2023-10-06", "day": 5, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-09-30", "day": 6, "time": "2100" },
+          "open": { "date": "2023-09-30", "day": 6, "time": "0900" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 7:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 9:00 PM",
+        "Sunday: 9:00 AM – 7:00 PM"
+      ]
+    },
+    "dine_in": true,
+    "formatted_address": "At the Garden of Oboza Heritage House, 143, Rizal St, Poblacion District, Davao City, Davao del Sur, Philippines",
+    "geometry": {
+      "location": { "lat": 7.0664693, "lng": 125.6087919 },
+      "viewport": {
+        "northeast": { "lat": 7.067858080291502, "lng": 125.6101585302915 },
+        "southwest": { "lat": 7.065160119708497, "lng": 125.6074605697085 }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Glasshouse Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "day": 0, "time": "1900" },
+          "open": { "day": 0, "time": "0900" }
+        },
+        {
+          "close": { "day": 1, "time": "1900" },
+          "open": { "day": 1, "time": "0900" }
+        },
+        {
+          "close": { "day": 2, "time": "2100" },
+          "open": { "day": 2, "time": "0900" }
+        },
+        {
+          "close": { "day": 3, "time": "2100" },
+          "open": { "day": 3, "time": "0900" }
+        },
+        {
+          "close": { "day": 4, "time": "2100" },
+          "open": { "day": 4, "time": "0900" }
+        },
+        {
+          "close": { "day": 5, "time": "2100" },
+          "open": { "day": 5, "time": "0900" }
+        },
+        {
+          "close": { "day": 6, "time": "2100" },
+          "open": { "day": 6, "time": "0900" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 7:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 9:00 PM",
+        "Sunday: 9:00 AM – 7:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117360881780860169848\">Cha De Paz</a>"
+        ],
+        "photo_reference": "ATJ83zhASmTgZMJvmb86WupN6VOAxW4PLbeDVhZ_JZJGDrBWr5k8dXLb2YImkaSjMOrIordaEEvLbc3TlUort0VPHCBgiSTLXISsxNml4z-ufF0yS6gJ9hfUWwHtWnI9a20tECrhDYNzZog2kFE8Y0OnetOEl1LRX0P4pytP59_LKmLWCUAX",
+        "width": 3264
+      },
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103415652254994297218\">Igosus</a>"
+        ],
+        "photo_reference": "ATJ83zifPeojtnoiuzVW_-n-7ygaN4MNIGNuwARP-NBA0Pm_63wX6473umqfbGHtS8A6vxe1E4sWLEtgA9CKd5Dz4m_DpDCcDTLbGC34w5ein4POi00aGwsNVyTbZS7Y-clStwdICTbxtfg6tTg9c1F0Kq9RjWiDDpMlwKMy0mE4OF0A4m4",
+        "width": 3648
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109757450812439859638\">Diego Mejia</a>"
+        ],
+        "photo_reference": "ATJ83zhhMg4UyVO7B6KeQIBDA5lb2NJz5BWrq5oLgncmER9omZbMh9ZIrIbys5pnqiwk68kIZ7PbIQMMrJBdphHoaZvk5DZXiJj6pYeWRRhe1-kFgEBfWAGocHxgeRaomHOyTxEyObWz3jmozpyXCw0ol6Xu-EYfySMo_nzGyvmj8X5sKdlp",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114424656160957491614\">cm fotographia</a>"
+        ],
+        "photo_reference": "ATJ83zhbJzKGIea-N9-RIsjukkYTz1ZLYhlOQ9T2TWFHahIk1GAogDcSljVAkVq29cAKo5TN6MsHJb093I0zC7qYfzhIrYGqrbWjfOLacHiwxzoVdlqVr7furboOR0gbnRiy2YKzWy3l_B6CPlBAZPN8_OmYEaCl4moYJmYoMMBmlWgahT6c",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101024390496831764069\">Ram Manlatican</a>"
+        ],
+        "photo_reference": "ATJ83zh1jNt5P_s8WBdI_dcgSgmsQ5eb_Xfs6DHZ3jdd4X0f2kLe_l4AMJ3ZCGI3KDeFYtlJ6LdpFr3eJySc338HCrMbQT7sDEQ5RU929DuFpAciEccfV4pMGekTfFAmeD17MjllhsyKCeZ-T_ktE_tgmasC8xGjscEfvJ-2SrfNIJ7eO1zf",
+        "width": 3024
+      },
+      {
+        "height": 1127,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110433000423245329924\">Gemma Montalban</a>"
+        ],
+        "photo_reference": "ATJ83ziIg0y__3bk8-jBATSwm8fPGdOF2aa_G0S8q16dgheSooz4bpuYtY4bA0MU3zIF1CP-MsbRu9WIH1XQu9JKZz2o5hMrt1cS0WlSppUhPztK-aFAzl4RmmLX5q5_rEm0Ayr0_96ZCw4vgFU3QrWM16peavqFLH1MtycV0l_m27dzu7kd",
+        "width": 1127
+      },
+      {
+        "height": 807,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110186788140260086070\">Jhon Errnan Doydoy</a>"
+        ],
+        "photo_reference": "ATJ83zhjjSrzp78mEKx4MvVMMoPfe4mXn6MzKiVXJH4NqDVpSCR6KphsPdjhX4TarAZnTQOyRDKHTBEPjVcL17Uq2pNoux3KtwfhVsu6VE2jevC1tEGZDYisHrEefplw2PQWrWfD4LSv4pSz89XTCSqRK3WR6lwgujqGNLh1vny5GuyIr-Zy",
+        "width": 828
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105549559932939025725\">John Henry Asuncion</a>"
+        ],
+        "photo_reference": "ATJ83zhf1cyELLYZ-HJ03W6KXCw8dgDdROyD8oehdA0iNZqcewT75XgYPj3j3eALSZ-h5T3irRLfR-Fthk4vPMETE_M0ddKfqxAMkzXAAX_shxcAMg4xRBysxI9HXeUrOPK0ssPCflVfObrnMZlrhhONITK0Xmv0Jp8OGpu0WV2daVCF4yfQ",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113983241297248612258\">Majoy Losorata</a>"
+        ],
+        "photo_reference": "ATJ83zgZjJ31Ul16IKeA_OCThpVNrGQMkHtTCiGC4LqTrFijvoFRZYPG6hD4-Z3ekRyu4QdV--78_iu4eFcCCWg2Qd1UmG7JRHRj71Rb9VuPNV774tEoqiG1tMfKPbSZrzKKgd3JBAvK_2VS-O2i9WGKtyGwFTpSsSGINNrIEubOgw2SmxPN",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116652803867314510395\">Pamela Soriano</a>"
+        ],
+        "photo_reference": "ATJ83zgshC8Ux7Y5hBuqexvyOZgs_PkjnQaYtFqVwYf9xXS4xzG79I-6SuiUEOITjXR6ZyNDhRVQISf9t9IZ_DkquUc48VQJPFYuFmTNcDIs-kcO1aO29eJ-6Y_2xl97P4U5wOXQriVZc6bWAqWeJ6AynnoghWrwn5OWxhWnH7htu-clLQHm",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJK_0zeFRt-TIRnEKT4jfqabQ",
+    "plus_code": {
+      "compound_code": "3J85+HG Davao City, Davao del Sur, Philippines",
+      "global_code": "6QV73J85+HG"
+    },
+    "rating": 4.6,
+    "reference": "ChIJK_0zeFRt-TIRnEKT4jfqabQ",
+    "reservable": true,
+    "reviews": [
+      {
+        "author_name": "Ram Manlatican",
+        "author_url": "https://www.google.com/maps/contrib/101024390496831764069/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXnxVMNSlCsUr866UWRYJuyqsoDCUcxtDuhFRl4UkJQbjQN=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Glasshouse Coffee is my go-to coffee shop in Davao City. I always order Iced Americano, paired it with plain croissant. I usually go here to pass time whenever I run some errands in the city or relax before mountain climbing the next day.\n\nThe location is a reminder of how green spaces make things even better. Trees around, ornamentals, flowers... I like the vibe.\n\nThe coffee shop is small and has a limited indoor seating capacity. It can accommodate around 10-15 people.",
+        "time": 1691250576,
+        "translated": false
+      },
+      {
+        "author_name": "Jecho Carlos (cryzereye)",
+        "author_url": "https://www.google.com/maps/contrib/101777935207948832670/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsjEntJMnzhzNoVsu7VkigFlqgEh8sb3Z0m0gDvv4dp10L=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Great coffee place! The claim of being a \"specialty coffee shop\" is legit and I love the shop already. It's so peaceful in here. I will definitely come back once I'm in Davao again.",
+        "time": 1692329200,
+        "translated": false
+      },
+      {
+        "author_name": "Isabelle V",
+        "author_url": "https://www.google.com/maps/contrib/108088726012352388195/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8C-gMl6mdkS89ukJRq5H5bF_a4iZNaOAxDn6vfJgG=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "What a coffee gem in Davao. The cafe is surrounded by a lush garden--trees and plants blooming. The wooden interiors give off a calming vibe. There was soft jazz and acoustics playing, too, so you'll really enjoy your stay.\n\nOrdered their bestselling Flat White and Carrot Walnut cake. Coffee was great! Bold coffee and just the right creaminess. Carrot cake was scrumptious, sarap ng cream cheese!\n\nThe lady who served me was very very kind and accommodating, assisting me with water and where the comfort room is.\n\nWorked here for 3 hours. No wifi but great data signal. Quiet and peaceful pa!",
+        "time": 1689135316,
+        "translated": false
+      },
+      {
+        "author_name": "Gemma Montalban",
+        "author_url": "https://www.google.com/maps/contrib/110433000423245329924/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZjRdoNUTlx-C-ZkuHrt0z9hbazk4pssoI3HmWcm1ItQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "2 months ago",
+        "text": "The highlight here is the ambiance of the cafe. Matcha drink I had was not good. Also, they’re quite pricey for their quality of offerings.",
+        "time": 1690342661,
+        "translated": false
+      },
+      {
+        "author_name": "hanzios",
+        "author_url": "https://www.google.com/maps/contrib/108384151439828517068/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgetGZZ7vAKTo_y1OJaNMJ9Pz3BcVVWymmkfmA98LFARVF=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "6 months ago",
+        "text": "the atmosphere is great. perfect for studying. ang mahal lang talaga ng drinks & they're not really that mindblowing. the matcha is good tho! i'd come back here again.",
+        "time": 1678178485,
+        "translated": false
+      }
+    ],
+    "serves_beer": false,
+    "serves_breakfast": true,
+    "serves_dinner": true,
+    "serves_wine": false,
+    "takeout": true,
+    "types": ["cafe", "food", "point_of_interest", "store", "establishment"],
+    "url": "https://maps.google.com/?cid=13000179325127049884",
+    "user_ratings_total": 143,
+    "utc_offset": 480,
+    "vicinity": "At the Garden of Oboza Heritage House, 143, Rizal Street, Poblacion District, Davao City"
+  },
+  "status": "OK"
+}

@@ -1,0 +1,184 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [
+      { "long_name": "89", "short_name": "89", "types": ["street_number"] },
+      { "long_name": "Jacinto", "short_name": "Jacinto", "types": ["route"] },
+      {
+        "long_name": "Poblacion District",
+        "short_name": "Poblacion District",
+        "types": ["sublocality_level_1", "sublocality", "political"]
+      },
+      {
+        "long_name": "Davao City",
+        "short_name": "Davao City",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Davao del Sur",
+        "short_name": "Davao del Sur",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Davao Region",
+        "short_name": "Davao Region",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "Philippines",
+        "short_name": "PH",
+        "types": ["country", "political"]
+      },
+      { "long_name": "8000", "short_name": "8000", "types": ["postal_code"] }
+    ],
+    "adr_address": "<span class=\"street-address\">89 Jacinto</span>, <span class=\"extended-address\">Poblacion District</span>, <span class=\"locality\">Davao City</span>, <span class=\"postal-code\">8000</span> <span class=\"region\">Davao del Sur</span>, <span class=\"country-name\">Philippines</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "date": "2023-10-01", "day": 0, "time": "2000" },
+          "open": { "date": "2023-10-01", "day": 0, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-10-02", "day": 1, "time": "2000" },
+          "open": { "date": "2023-10-02", "day": 1, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-10-03", "day": 2, "time": "2000" },
+          "open": { "date": "2023-10-03", "day": 2, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-10-04", "day": 3, "time": "2000" },
+          "open": { "date": "2023-10-04", "day": 3, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-10-05", "day": 4, "time": "2000" },
+          "open": { "date": "2023-10-05", "day": 4, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-10-06", "day": 5, "time": "2000" },
+          "open": { "date": "2023-10-06", "day": 5, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-09-30", "day": 6, "time": "2000" },
+          "open": { "date": "2023-09-30", "day": 6, "time": "0900" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 8:00 PM",
+        "Tuesday: 9:00 AM – 8:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 8:00 PM",
+        "Sunday: 9:00 AM – 8:00 PM"
+      ]
+    },
+    "dine_in": true,
+    "formatted_address": "89 Jacinto, Poblacion District, Davao City, 8000 Davao del Sur, Philippines",
+    "formatted_phone_number": "(082) 305 3393",
+    "geometry": {
+      "location": { "lat": 7.071206999999999, "lng": 125.6149513 },
+      "viewport": {
+        "northeast": { "lat": 7.072511630291501, "lng": 125.6162457302915 },
+        "southwest": { "lat": 7.069813669708497, "lng": 125.6135477697085 }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "international_phone_number": "+63 82 305 3393",
+    "name": "Residencia Del Marina Buslness Center",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "day": 0, "time": "2000" },
+          "open": { "day": 0, "time": "0900" }
+        },
+        {
+          "close": { "day": 1, "time": "2000" },
+          "open": { "day": 1, "time": "0900" }
+        },
+        {
+          "close": { "day": 2, "time": "2000" },
+          "open": { "day": 2, "time": "0900" }
+        },
+        {
+          "close": { "day": 3, "time": "2000" },
+          "open": { "day": 3, "time": "0900" }
+        },
+        {
+          "close": { "day": 4, "time": "2000" },
+          "open": { "day": 4, "time": "0900" }
+        },
+        {
+          "close": { "day": 5, "time": "2000" },
+          "open": { "day": 5, "time": "0900" }
+        },
+        {
+          "close": { "day": 6, "time": "2000" },
+          "open": { "day": 6, "time": "0900" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 8:00 PM",
+        "Tuesday: 9:00 AM – 8:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 8:00 PM",
+        "Sunday: 9:00 AM – 8:00 PM"
+      ]
+    },
+    "place_id": "ChIJuwq69Ztt-TIRFKDYd_I3tYw",
+    "plus_code": {
+      "compound_code": "3JC7+FX Davao City, Davao del Sur, Philippines",
+      "global_code": "6QV73JC7+FX"
+    },
+    "rating": 5,
+    "reference": "ChIJuwq69Ztt-TIRFKDYd_I3tYw",
+    "reviews": [
+      {
+        "author_name": "anelo pabuaya",
+        "author_url": "https://www.google.com/maps/contrib/115303147875690224239/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURP__xGQ4FjmUeDEOcpymmqKL_NVYeHanvtVk2DnpnDLM=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Very Nice",
+        "time": 1632350415,
+        "translated": false
+      },
+      {
+        "author_name": "Christa Murillo (Tala)",
+        "author_url": "https://www.google.com/maps/contrib/101793616564824763576/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjOQD3iIYY_1cbIOC2bARgkiqSJPv15zfVMoe1HGXcjA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "",
+        "time": 1664262582,
+        "translated": false
+      },
+      {
+        "author_name": "Atty. Raymond Batu",
+        "author_url": "https://www.google.com/maps/contrib/103007961603441541270/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6SBKl3SxVSSp8e0sKuUD3d_WKxfpmnRsix3gOrLzhAQY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "",
+        "time": 1504436557,
+        "translated": false
+      }
+    ],
+    "takeout": true,
+    "types": ["cafe", "store", "food", "point_of_interest", "establishment"],
+    "url": "https://maps.google.com/?cid=10139071650626838548",
+    "user_ratings_total": 3,
+    "utc_offset": 480,
+    "vicinity": "89 Jacinto, Poblacion District, Davao City"
+  },
+  "status": "OK"
+}
