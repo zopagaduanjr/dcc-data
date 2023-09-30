@@ -1,0 +1,304 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [
+      { "long_name": "4", "short_name": "4", "types": ["street_number"] },
+      {
+        "long_name": "J.P. Laurel Avenue",
+        "short_name": "J.P. Laurel Ave",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Poblacion District",
+        "short_name": "Poblacion District",
+        "types": ["sublocality_level_1", "sublocality", "political"]
+      },
+      {
+        "long_name": "Davao City",
+        "short_name": "Davao City",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Davao del Sur",
+        "short_name": "Davao del Sur",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Davao Region",
+        "short_name": "Davao Region",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "Philippines",
+        "short_name": "PH",
+        "types": ["country", "political"]
+      },
+      { "long_name": "8000", "short_name": "8000", "types": ["postal_code"] }
+    ],
+    "adr_address": "<span class=\"street-address\">4 J.P. Laurel Ave</span>, <span class=\"extended-address\">Poblacion District</span>, <span class=\"locality\">Davao City</span>, <span class=\"postal-code\">8000</span> <span class=\"region\">Davao del Sur</span>, <span class=\"country-name\">Philippines</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "date": "2023-10-02", "day": 1, "time": "0000" },
+          "open": { "date": "2023-10-01", "day": 0, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-10-03", "day": 2, "time": "0000" },
+          "open": { "date": "2023-10-02", "day": 1, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-10-04", "day": 3, "time": "0000" },
+          "open": { "date": "2023-10-03", "day": 2, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-10-05", "day": 4, "time": "0000" },
+          "open": { "date": "2023-10-04", "day": 3, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-10-06", "day": 5, "time": "0000" },
+          "open": { "date": "2023-10-05", "day": 4, "time": "0900" }
+        },
+        {
+          "close": {
+            "date": "2023-10-06",
+            "day": 5,
+            "time": "2359",
+            "truncated": true
+          },
+          "open": { "date": "2023-10-06", "day": 5, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-10-01", "day": 0, "time": "0000" },
+          "open": { "date": "2023-09-30", "day": 6, "time": "0900" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 12:00 AM",
+        "Tuesday: 9:00 AM – 12:00 AM",
+        "Wednesday: 9:00 AM – 12:00 AM",
+        "Thursday: 9:00 AM – 12:00 AM",
+        "Friday: 9:00 AM – 12:00 AM",
+        "Saturday: 9:00 AM – 12:00 AM",
+        "Sunday: 9:00 AM – 12:00 AM"
+      ]
+    },
+    "dine_in": true,
+    "formatted_address": "4 J.P. Laurel Ave, Poblacion District, Davao City, 8000 Davao del Sur, Philippines",
+    "geometry": {
+      "location": { "lat": 7.0923331, "lng": 125.6115573 },
+      "viewport": {
+        "northeast": { "lat": 7.093875830291503, "lng": 125.6127819802915 },
+        "southwest": { "lat": 7.091177869708498, "lng": 125.6100840197085 }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Glasshouse Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "day": 1, "time": "0000" },
+          "open": { "day": 0, "time": "0900" }
+        },
+        {
+          "close": { "day": 2, "time": "0000" },
+          "open": { "day": 1, "time": "0900" }
+        },
+        {
+          "close": { "day": 3, "time": "0000" },
+          "open": { "day": 2, "time": "0900" }
+        },
+        {
+          "close": { "day": 4, "time": "0000" },
+          "open": { "day": 3, "time": "0900" }
+        },
+        {
+          "close": { "day": 5, "time": "0000" },
+          "open": { "day": 4, "time": "0900" }
+        },
+        {
+          "close": { "day": 6, "time": "0000" },
+          "open": { "day": 5, "time": "0900" }
+        },
+        {
+          "close": { "day": 0, "time": "0000" },
+          "open": { "day": 6, "time": "0900" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 12:00 AM",
+        "Tuesday: 9:00 AM – 12:00 AM",
+        "Wednesday: 9:00 AM – 12:00 AM",
+        "Thursday: 9:00 AM – 12:00 AM",
+        "Friday: 9:00 AM – 12:00 AM",
+        "Saturday: 9:00 AM – 12:00 AM",
+        "Sunday: 9:00 AM – 12:00 AM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103728639540111072908\">SY T</a>"
+        ],
+        "photo_reference": "ATJ83zj7dtm7ffhDvs3T6TLvFKdUKhnYNRPuNeNy74xkh6K2KWrwT3g2UIDk-aBK58a5eq6SEhRLM0GKpciMNwvPUIGOpjEc94pXSeWPuHIfezv02rmjs_088nEL6vC1vEheVSkqmYnWXx9oj7JXBcj_xHAyEzv9MlEy38R1foWWIee9Ddsj",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103728639540111072908\">SY T</a>"
+        ],
+        "photo_reference": "ATJ83zj5MLgYMXFgEq9UA_170lcSNEvDrwbRHsURVu1hKLUnvfxkkoL_D8ywDcpdwjTk7H2tPY0UBIuNenRAp_dj49SZvhNQQsqmYCTOHMlRUQQdJjnhpbE9aJl9i9hRJVOo9tTNBTJS8QYeD2nZ6jKh6uySEsuzWgR3xSZClXfl0NyUvOdX",
+        "width": 3024
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100977651845468970608\">Richard Huber</a>"
+        ],
+        "photo_reference": "ATJ83zgTEifx-nmBxsFqlsQKA0jZl0k7JbQelOQvkYdjLNgFkG1Caz7iVex54rRQpa8KjBf53wPY_Tv63nMjMPjzb4FbWCvC33FzEHIC-ynLtiUoRS9TDTplaGbaEZrnXEhs9eXmEM8mkJtiu0mc3arZ4uNS2hJBjiSw7SYqJI7jagw3RZi8",
+        "width": 4080
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103226002807260170860\">Eva</a>"
+        ],
+        "photo_reference": "ATJ83ziyCV7XMuga9thKsyD2540k4i5EZc3wD-g_ecJEWXl1RpGV9oYkN1d7AR5i9ZrEb-6ms0sKAWOv7CTv9Y8ONLiSojrih14rw67V070TkEw6zNdVoZp6nlRrLgp7Cun49eo57qse8Jb1rgGnxprfE1-7C0Jlni93M9Jw0hHVfmEMXKgr",
+        "width": 4032
+      },
+      {
+        "height": 3825,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113392678529027960956\">Fetal Glee</a>"
+        ],
+        "photo_reference": "ATJ83zixw_qYDHnhVtSvPCGDPlWDhjgxkHgHtaKkVCV1J4xGRFE68zX4yNpW-nJenZh8KdKwPb46DT6O0wP_0tPGtrFlNWWhwHigly7fIxv_D_VzPKg8Fz2UGLY-0eRTa4QbrM3wpZK8f4d9phBzHfgNsxuAa2hL63uRJlcCI7HqXO6GqSyD",
+        "width": 2869
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105474427266652036804\">Ethan Brooke</a>"
+        ],
+        "photo_reference": "ATJ83zgpaiFJ0vMs7UkMtudMr4xJUKq9nijRu2vaFMEBIsV8dORr3f3brsv56nL93_ngPpHrkv8Zid99O4vRLLu5IduqakYh35frm_EU9KlkF4TOgiHe3j3xR2AkVk4y13cxaxG8XTNdSM-EsG3HCwso38a6mipinBDTz89AIPMWAaKq3zVY",
+        "width": 3024
+      },
+      {
+        "height": 3900,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113392678529027960956\">Fetal Glee</a>"
+        ],
+        "photo_reference": "ATJ83zillEBNLAeA8nhpfHZOdI-WSXLlibJ7oX7CBgGm4Nzm_5HYj98ZMi8KFmXSygnw4JTjYFXVlfOYChiCRBVrSQ_sP09wYwbWV3cYlB2KZZkr60lkN122mTG1RPli0x6EQ8wSzmuCMQCQYRcmG4m-r-lAGAxC4FALPtXPE-j9lsuogVK_",
+        "width": 2925
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108637436535176731374\">Lemuel Blaya</a>"
+        ],
+        "photo_reference": "ATJ83zig6V3GyRNBCzStEGkqBSRh5N2sddlCYR8Nvomz9zv9DYn7eAgsY5VGU4kQ29xUmFbZfqbxuKqUZlG_DmhEEVzfUwEodx0zGI-qwvEX-9EcfN5trQn6-Wki-vuaLk_nN06Pbv-s69lRUXOTrvbUYUGQI37zOf5dAJdqI9j429h_hMY",
+        "width": 2268
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103626190822272207593\">Abigail Cordero</a>"
+        ],
+        "photo_reference": "ATJ83zg7iAS5fEueYrdaZeXXzubATQj4PLDPRRXqlsG7gUXXCBdihqep3FdK-tME6nENRyJ6NMLRq-BWUbZpd9b6lC-kR0t3Ky4nuZ7ZUOqB34ETN1HxwuP1w5WG4yORNFrNO10diISQ-vWw-cGqTac0_Yx_l_7LzfxWXD9P4Gy4TVuNQkOh",
+        "width": 3024
+      },
+      {
+        "height": 1844,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111051385233952293785\">mike paul dan negru</a>"
+        ],
+        "photo_reference": "ATJ83zhycSbK3niqspzsCeTs_6WPJygMYcuNaFofXbGpPNhhaVWqFbpkM0gYkcioqtNzE-9Cdp7cKmkw9sqkTExV5AtCzguYUvXbEf82neroekqX8MRqVB5ekAvPbaCvNHM1Km6buLQohFb9_AVcjUEnyBjTgF5Y8i_d8oLlOw2IIOIPtxvM",
+        "width": 3280
+      }
+    ],
+    "place_id": "ChIJ_TTBBXJt-TIRv56ua0RBcqY",
+    "plus_code": {
+      "compound_code": "3JR6+WJ Davao City, Davao del Sur, Philippines",
+      "global_code": "6QV73JR6+WJ"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ_TTBBXJt-TIRv56ua0RBcqY",
+    "reservable": true,
+    "reviews": [
+      {
+        "author_name": "SY T",
+        "author_url": "https://www.google.com/maps/contrib/103728639540111072908/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWelyDTUrdJhvQ52qS9OOZ2VYLX34udb_buWSf1GALt6X0=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "5 months ago",
+        "text": "The place is aesthetically pleasing. It's a nice place to catch up with friends while waiting for the time to pass by. Would not recommend reading a book here though as the they have yellow lighting which can put a strain on your eyes.\n\nAs for their caffeinated beverages, they have a limited selection in terms of variety along with the sizing of the drink. My boyfriend ordered the double chocolate latte which tasted good whereas I ordered the oat based latte because it's one of their best sellers, but it wasn't my cup of tea. Aside from that, I would have wanted a tall glass of coffee, but as i said, they don't offer that sizing variety.\n\nWill try to go back to taste their other drinks.",
+        "time": 1681566994,
+        "translated": false
+      },
+      {
+        "author_name": "Ethan Brooke",
+        "author_url": "https://www.google.com/maps/contrib/105474427266652036804/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJvTaOhWKBt5ioleLT-XI-q89qVgh6sdtO7tTlZeRTh_mk=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Very chill cafe with a nice, quiet atmosphere. I can imagine this would be a great place to work or study!",
+        "time": 1689315681,
+        "translated": false
+      },
+      {
+        "author_name": "Lemuel Blaya",
+        "author_url": "https://www.google.com/maps/contrib/108637436535176731374/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvtmxtZ69WGgLcIT7IW8YYQw0uBjqs6LyiLatCh3RKrJs=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "8 months ago",
+        "text": "Coffee is superb. However, rating it 3 stars simply because of the decision to add a charging fee for your gadgets. 😛Other coffee shops freely do so.\n\nWiFi speeds are average, ISP is PLDT\n\nRecommendation is, if you plan to stay longer for your devices, there are a lot of other better places that include charging fee as a part of your payment.\n\nGreat ambience though. If you want to be treated back to the victorian era, it has different Instagrammable spots for your convenience and feed 🙌",
+        "time": 1675059312,
+        "translated": false
+      },
+      {
+        "author_name": "E U R _j",
+        "author_url": "https://www.google.com/maps/contrib/115956698256262308760/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwQGZ728ZvRZdKJbkM6uM-rHlxm3u2WE9hGmFfF896ZEw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Went there for the soft opening. Place had a different ambiance from the rizal branch. But same friendly staff and mostly GOOD COFFEE.\nTheir Sans Rival is a MUST TRY.",
+        "time": 1652279937,
+        "translated": false
+      },
+      {
+        "author_name": "Fetal Glee",
+        "author_url": "https://www.google.com/maps/contrib/113392678529027960956/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcOuqAnmkrZJYfnXHxxzizr4hxLr9Qot_VWM8eKw2DHn4=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 3,
+        "relative_time_description": "a year ago",
+        "text": "Went there at around lunch on a weekday. The place is quite peaceful. The coffee is good but a little pricey.",
+        "time": 1662709474,
+        "translated": false
+      }
+    ],
+    "serves_brunch": true,
+    "serves_dinner": true,
+    "takeout": true,
+    "types": ["cafe", "food", "point_of_interest", "store", "establishment"],
+    "url": "https://maps.google.com/?cid=11993720519761239743",
+    "user_ratings_total": 27,
+    "utc_offset": 480,
+    "vicinity": "4 J.P. Laurel Avenue, Poblacion District, Davao City"
+  },
+  "status": "OK"
+}

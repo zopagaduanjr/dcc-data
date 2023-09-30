@@ -1,0 +1,305 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [
+      {
+        "long_name": "Road 1",
+        "short_name": "Road 1",
+        "types": ["street_number"]
+      },
+      {
+        "long_name": "Bajada Flyover",
+        "short_name": "Bajada Flyover",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Poblacion District",
+        "short_name": "Poblacion District",
+        "types": ["sublocality_level_1", "sublocality", "political"]
+      },
+      {
+        "long_name": "Davao City",
+        "short_name": "Davao City",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Davao del Sur",
+        "short_name": "Davao del Sur",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Davao Region",
+        "short_name": "Davao Region",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "Philippines",
+        "short_name": "PH",
+        "types": ["country", "political"]
+      },
+      { "long_name": "8000", "short_name": "8000", "types": ["postal_code"] }
+    ],
+    "adr_address": "<span class=\"street-address\">Road 1 Bajada Flyover</span>, <span class=\"extended-address\">Poblacion District</span>, <span class=\"locality\">Davao City</span>, <span class=\"postal-code\">8000</span> <span class=\"region\">Davao del Sur</span>, <span class=\"country-name\">Philippines</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "date": "2023-10-01", "day": 0, "time": "2100" },
+          "open": { "date": "2023-10-01", "day": 0, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-10-02", "day": 1, "time": "2100" },
+          "open": { "date": "2023-10-02", "day": 1, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-10-03", "day": 2, "time": "2100" },
+          "open": { "date": "2023-10-03", "day": 2, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-10-04", "day": 3, "time": "2100" },
+          "open": { "date": "2023-10-04", "day": 3, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-10-05", "day": 4, "time": "2100" },
+          "open": { "date": "2023-10-05", "day": 4, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-10-06", "day": 5, "time": "2100" },
+          "open": { "date": "2023-10-06", "day": 5, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-09-30", "day": 6, "time": "2100" },
+          "open": { "date": "2023-09-30", "day": 6, "time": "0900" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 9:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 9:00 PM",
+        "Sunday: 9:00 AM – 9:00 PM"
+      ]
+    },
+    "dine_in": true,
+    "formatted_address": "Road 1 Bajada Flyover, Poblacion District, Davao City, 8000 Davao del Sur, Philippines",
+    "formatted_phone_number": "0966 288 5813",
+    "geometry": {
+      "location": { "lat": 7.084168000000001, "lng": 125.6100204 },
+      "viewport": {
+        "northeast": { "lat": 7.085539480291502, "lng": 125.6113141302915 },
+        "southwest": { "lat": 7.082841519708498, "lng": 125.6086161697085 }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "international_phone_number": "+63 966 288 5813",
+    "name": "Kanto Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "day": 0, "time": "2100" },
+          "open": { "day": 0, "time": "0900" }
+        },
+        {
+          "close": { "day": 1, "time": "2100" },
+          "open": { "day": 1, "time": "0900" }
+        },
+        {
+          "close": { "day": 2, "time": "2100" },
+          "open": { "day": 2, "time": "0900" }
+        },
+        {
+          "close": { "day": 3, "time": "2100" },
+          "open": { "day": 3, "time": "0900" }
+        },
+        {
+          "close": { "day": 4, "time": "2100" },
+          "open": { "day": 4, "time": "0900" }
+        },
+        {
+          "close": { "day": 5, "time": "2100" },
+          "open": { "day": 5, "time": "0900" }
+        },
+        {
+          "close": { "day": 6, "time": "2100" },
+          "open": { "day": 6, "time": "0900" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 9:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 9:00 PM",
+        "Sunday: 9:00 AM – 9:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110094944397295251287\">Vishnu Teja Reddy</a>"
+        ],
+        "photo_reference": "ATJ83zj2N515todSbs5Bc3xFwvr3Q1G3NGl9-tdQYefRSsE0X3muDOSvf2ub3BPfeSecUcsU4dFYVEi4DXNWE6NJZgu6IpQWe_GXY2BumKNItFCFVyCZbbqHoH29DjmcKloZ9qAgtSOkNAEHtWfWJcAjngPx0P-JkEVYS6fL20Tn9illaUrZ",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104716437889952489188\">Chunks Pude</a>"
+        ],
+        "photo_reference": "ATJ83zhsm-7ID6L-27z7t3rrVrkJKA-u23tHlulDliqcJMT3AfUTyzwq_z-84w8rO9jZEoRXDlneMqQzTXhsK7PgUzYTLQf8CedmSHiS0rTqWFMd6WUQZWdUR3UY3frGUOFOozfZ5soXbNINNX4vm9uoJViNC0DdAcMkON3N3UyGZdjOu40i",
+        "width": 3024
+      },
+      {
+        "height": 12000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100547408659019536605\">Antonio Felicilda</a>"
+        ],
+        "photo_reference": "ATJ83ziD6gjMd3oqKZx2KhAhijOBjkzl8AOy92ZMt8As-gfCnaroa_OGMtQfXs7k5TIRkGUqY7CNXZMTjItyfmIvcZtI4XOenXH0X7eWpB5y9EMYvirbP4mPsHUA88jxNkobXQLkF9itJsbX9ZmUhxxIuF_cKf-NMp2uRkoVHTsasCwjn4IW",
+        "width": 9000
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104716437889952489188\">Chunks Pude</a>"
+        ],
+        "photo_reference": "ATJ83zhIKHomUBh-_K9KRZ9DeWlfyANDhOs_hFrkQNNgUsDi0a7Q71dAykRiQbKFzuoHxElGddNxJRUHx1NzNxRPQnrRjbFQimNSsUbP_eM7Ks-r44n2acDlUm98l03llkV2M-2PyDHqv65OSac7x1edyX6f4W8-10krWEY6sMLxVAMwEsR_",
+        "width": 4032
+      },
+      {
+        "height": 3472,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103210216066270690912\">Hwang H</a>"
+        ],
+        "photo_reference": "ATJ83zhk3MPV0oZSogqHSQRmzpzqE9PdZSjy1Hq5q3bkv2Ihx9e7vEh32gEcrJPIdYQ9kBqgFlDhlGgygB9dVleynkel6S03sh5-VYmkgj5pI6DFiUXsiabO3Q-_f5PV5EW_Sj3IdQmMqxO3_MLXJxJmUCS6sZxOB8xGolSArrJs6l_u7zgi",
+        "width": 3472
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104716437889952489188\">Chunks Pude</a>"
+        ],
+        "photo_reference": "ATJ83ziCIrIGcn23U2c5j6HQ1yN6dbngAztkrzkDOa_IfuAVu7xRdNodlLNMsZFPmRQihyZ0R5U7EGn9EIiuSL1bRfMAHrldOoQYb4cwhT4v7KQFBuJsZTOS_LjU6WUYzvLmq5DT1_G8W55fyYfZTnwxQs7JRXqk0hEZJeBq-qpuKpPMGSeE",
+        "width": 1536
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104716437889952489188\">Chunks Pude</a>"
+        ],
+        "photo_reference": "ATJ83zj8cIFjbx_kmH2DD7Uobqy1uXAURuZgUzkYpSVOCxb7mvSf0G8KKIbpmRAPg9XmQPiZL9lWCMsK155gg7kKev7b509CvlIzzzwsLYEJoCujof1avbiFfCkuswGoB70PpoWNA6HgnEWYBN7_OwOVSYdWYvUBFqHp7pkWxTRaKPy4ir67",
+        "width": 3024
+      },
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114905830724527302837\">Fangirl Sam</a>"
+        ],
+        "photo_reference": "ATJ83ziGHJJGZgOXBNpKXEYkHYMWIxIOQA2dqURjdN9zgWG0bFF1hFvZzxj7JilFQB7TN8EchnKJSqVJPoIV0BzMJd2U5X-PDJfNoX_tZsBpWiOKvzIS8upqt3-V9b_SLOaXtE8h5KJcV-kmHs3H7sQiR1Bi29FVziWb0EJcL8hYPEcLfUKG",
+        "width": 4000
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116893131063511845817\">Will</a>"
+        ],
+        "photo_reference": "ATJ83zgwexlqBTL2jk6AiQXvlp5t4EnLugq30Cd5gAHId6AszYZq42m5r-nTX3O_vXbRzW8oVKc3e3ENv64ulkAp5xvaxwkEnFLRebxT5JDqJWaJPB6w810_3S_6LTbVvMz8yLq3jaJ-avjvSLTQAv9x7DSyxgzajm-vj3xiOTpBVoG3fxxu",
+        "width": 3452
+      },
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109502307526521002678\">barista mad_man</a>"
+        ],
+        "photo_reference": "ATJ83ziETtNL_NIBjmjWBMWxEoHNYqIZf4De_m31ob4MCHhSEpqIgV8zY4roOop_dR55n90DIsGA54YEi6Pc_x3ppzu7cet0UMMbvyhTPmBJvExgjKL9qS0g0PDvvspmEvzw_4AT4_G-mC864tmwRNodph07RtRkdVzN24zk5FGcIoNHasmH",
+        "width": 4096
+      }
+    ],
+    "place_id": "ChIJS2QVqJdt-TIRzaAnkdsI4fE",
+    "plus_code": {
+      "compound_code": "3JM6+M2 Davao City, Davao del Sur, Philippines",
+      "global_code": "6QV73JM6+M2"
+    },
+    "rating": 4.9,
+    "reference": "ChIJS2QVqJdt-TIRzaAnkdsI4fE",
+    "reviews": [
+      {
+        "author_name": "Versa Gem Jovellanos",
+        "author_url": "https://www.google.com/maps/contrib/118242516915326535605/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmwDSwG_mHqV484MJqg9ozjrzcQYAhFTd1xHAF5U61_ZkB=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Tiny coffee shop, great for a quick chill. Beans are fresh. It’s also a few steps away from a great barbershop too. So this is where I would wait for my husband while he gets his haircut.",
+        "time": 1682836886,
+        "translated": false
+      },
+      {
+        "author_name": "Antonio Felicilda",
+        "author_url": "https://www.google.com/maps/contrib/100547408659019536605/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWE9mTHRYrwO2r-bW7kcyBgeV_uMrFyzn0yTu6iyK70Fpe5=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Tiny local coffee footsteps away from my apartment. So far the coffee is very authentic  and delicious ✨✨✨ my friends love it",
+        "time": 1677836965,
+        "translated": false
+      },
+      {
+        "author_name": "andrei mahinay",
+        "author_url": "https://www.google.com/maps/contrib/100150626179391052476/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTNAXp0IqdT4ykHlSNk9ekGyvXN87D0itFvgoCkJnXFKo=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "4 months ago",
+        "text": "The taste of their coffee justifies their price",
+        "time": 1684052550,
+        "translated": false
+      },
+      {
+        "author_name": "Ge Asarce",
+        "author_url": "https://www.google.com/maps/contrib/111254360389075878975/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXANZVGQS4GkymA8Zk0bJMaMSfC0kh9V7PmS8tLVl0rIw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Small coffeeshop always have my heart and the best espresso base drinks, dunno why hehe",
+        "time": 1687421952,
+        "translated": false
+      },
+      {
+        "author_name": "Rowee Altura",
+        "author_url": "https://www.google.com/maps/contrib/108697041768155829774/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWyEpEpgkipLRLBTJ0-MqEPo8Mhs0FJAcI8krEmHh06dI0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "I’ve seen this brand on Tiktok million times so when I spotted KC in Bajada, I immediately purchased a cup of their Spanish Latte. I super like it! They use quality coffee beans and their business is backed by kind and approachable people.",
+        "time": 1672897705,
+        "translated": false
+      }
+    ],
+    "serves_beer": false,
+    "serves_wine": false,
+    "takeout": true,
+    "types": ["cafe", "store", "food", "point_of_interest", "establishment"],
+    "url": "https://maps.google.com/?cid=17429221772026683597",
+    "user_ratings_total": 21,
+    "utc_offset": 480,
+    "vicinity": "Road 1 Bajada Flyover, Davao City",
+    "website": "https://www.facebook.com/kantocoffee"
+  },
+  "status": "OK"
+}

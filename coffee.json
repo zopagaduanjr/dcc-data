@@ -142,6 +142,39 @@
     },
     "elevation": 8.177531242370605
   },
+  "Glasshouse Coffee JP": {
+    "name": "Glasshouse Coffee",
+    "geometry": {
+      "location": { "lat": 7.0923331, "lng": 125.6115573 },
+      "viewport": {
+        "northeast": { "lat": 7.093875830291503, "lng": 125.6127819802915 },
+        "southwest": { "lat": 7.091177869708498, "lng": 125.6100840197085 }
+      }
+    },
+    "elevation": 8.160253524780273
+  },
+  "Kanto Coffee": {
+    "name": "Kanto Coffee",
+    "geometry": {
+      "location": { "lat": 7.084168000000001, "lng": 125.6100204 },
+      "viewport": {
+        "northeast": { "lat": 7.085539480291502, "lng": 125.6113141302915 },
+        "southwest": { "lat": 7.082841519708498, "lng": 125.6086161697085 }
+      }
+    },
+    "elevation": 8.62789535522461
+  },
+  "Lot 38 Kape": {
+    "name": "Lot 38 Kape",
+    "geometry": {
+      "location": { "lat": 7.1520112, "lng": 125.5962804 },
+      "viewport": {
+        "northeast": { "lat": 7.153394080291503, "lng": 125.5976672302915 },
+        "southwest": { "lat": 7.150696119708498, "lng": 125.5949692697085 }
+      }
+    },
+    "elevation": 97.25406646728516
+  },
   "MYLK Cafe": {
     "name": "MYLK Cafe",
     "geometry": {

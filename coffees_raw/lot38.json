@@ -1,0 +1,284 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [
+      {
+        "long_name": "Deca Homes Indangan, Block 4, Lot 1, Phase I",
+        "short_name": "Deca Homes Indangan, Block 4, Lot 1, Phase I",
+        "types": ["premise"]
+      },
+      {
+        "long_name": "Buhangin",
+        "short_name": "Buhangin",
+        "types": ["sublocality_level_1", "sublocality", "political"]
+      },
+      {
+        "long_name": "Davao City",
+        "short_name": "Davao City",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Davao del Sur",
+        "short_name": "Davao del Sur",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Davao Region",
+        "short_name": "Davao Region",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "Philippines",
+        "short_name": "PH",
+        "types": ["country", "political"]
+      },
+      { "long_name": "8000", "short_name": "8000", "types": ["postal_code"] }
+    ],
+    "adr_address": "Lot 38 Block 4 Phase 1, Deca Homes Indangan, Block 4, Lot 1, Phase I, <span class=\"extended-address\">Buhangin</span>, <span class=\"locality\">Davao City</span>, <span class=\"postal-code\">8000</span> <span class=\"region\">Davao del Sur</span>, <span class=\"country-name\">Philippines</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "date": "2023-10-03", "day": 2, "time": "1900" },
+          "open": { "date": "2023-10-03", "day": 2, "time": "1200" }
+        },
+        {
+          "close": { "date": "2023-10-04", "day": 3, "time": "1900" },
+          "open": { "date": "2023-10-04", "day": 3, "time": "1200" }
+        },
+        {
+          "close": { "date": "2023-10-05", "day": 4, "time": "1900" },
+          "open": { "date": "2023-10-05", "day": 4, "time": "1200" }
+        },
+        {
+          "close": { "date": "2023-10-06", "day": 5, "time": "1900" },
+          "open": { "date": "2023-10-06", "day": 5, "time": "1200" }
+        },
+        {
+          "close": { "date": "2023-09-30", "day": 6, "time": "2100" },
+          "open": { "date": "2023-09-30", "day": 6, "time": "1300" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 12:00 – 7:00 PM",
+        "Wednesday: 12:00 – 7:00 PM",
+        "Thursday: 12:00 – 7:00 PM",
+        "Friday: 12:00 – 7:00 PM",
+        "Saturday: 1:00 – 9:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "Lot 38 Block 4 Phase 1, Deca Homes Indangan, Block 4, Lot 1, Phase I, Buhangin, Davao City, 8000 Davao del Sur, Philippines",
+    "formatted_phone_number": "0923 600 1718",
+    "geometry": {
+      "location": { "lat": 7.1520112, "lng": 125.5962804 },
+      "viewport": {
+        "northeast": { "lat": 7.153394080291503, "lng": 125.5976672302915 },
+        "southwest": { "lat": 7.150696119708498, "lng": 125.5949692697085 }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "international_phone_number": "+63 923 600 1718",
+    "name": "Lot 38 Kape",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "day": 2, "time": "1900" },
+          "open": { "day": 2, "time": "1200" }
+        },
+        {
+          "close": { "day": 3, "time": "1900" },
+          "open": { "day": 3, "time": "1200" }
+        },
+        {
+          "close": { "day": 4, "time": "1900" },
+          "open": { "day": 4, "time": "1200" }
+        },
+        {
+          "close": { "day": 5, "time": "1900" },
+          "open": { "day": 5, "time": "1200" }
+        },
+        {
+          "close": { "day": 6, "time": "2100" },
+          "open": { "day": 6, "time": "1300" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 12:00 – 7:00 PM",
+        "Wednesday: 12:00 – 7:00 PM",
+        "Thursday: 12:00 – 7:00 PM",
+        "Friday: 12:00 – 7:00 PM",
+        "Saturday: 1:00 – 9:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115243457880422264946\">Farrah Garcia</a>"
+        ],
+        "photo_reference": "ATJ83ziL-S1M6eqYAvSY6qLHItSWj5RUWxOMxunF5zF0ls-iR2cwOrcOx2QKY4qXD1-11IIob-HzpRGn_b9YWAZlGP80JV3rLWg3JmtWu6TW9M_FWoJp_4fdbC1BrDijLzT13YQ4A743QRaswhYS2iBWIn6uRh3t0AscrMp7-dhi4v_vWPcl",
+        "width": 3024
+      },
+      {
+        "height": 2856,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111252397091358341906\">Lot 38 Kape</a>"
+        ],
+        "photo_reference": "ATJ83zgiCrUY_j_kFi0QmeAHejJq5BcxKC6wkuSSqHDl0ks7-GN_FH9zKYuOE5-LV-DJbAx8_rtoCEDNHSvd0zcRdrJPdu0fSO3Q9iTS_ovxkACwjwhVw73m96mSbhbF9BZxzhncDgRpfQ7KBIvxwMe5_QJppBGdOMo04Qakrok7QQ5XyOnP",
+        "width": 4272
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115243457880422264946\">Farrah Garcia</a>"
+        ],
+        "photo_reference": "ATJ83zisX9O1qWwpyOoGqMDhPclj5UBh0coR8E5TqXGB43kXGXlBhRBBAZA2uCqYOYSap0HZnKDGROvAZU8Dm4AJ4WqYRKcBfsbXeSM_GZCJq98YJ_JXga6vl3zaWrm9qgNYFm4LyEG2-zHx6O6BO7mezq89VigDp1tN9h3zm28MFZSYBiNI",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108637436535176731374\">Lemuel Blaya</a>"
+        ],
+        "photo_reference": "ATJ83zg_47bac-rWeWCBTQCPxwLvzeZ2zh4m0UIqyGik1C4n8OeqcxmRp8YGpRtRo7NJFKKI-ISlRp7PnQM3LhOm0dWnAhi0L2TbloFrqR8ZJqlQt2j5FNQO9PnweR2pHBJgXRMvfzPFRn9ILqhhHMDLaLfFxob_e5G-dG6IuQmXqib_9ws",
+        "width": 4032
+      },
+      {
+        "height": 1800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106269877472129828547\">Gemima Guillen</a>"
+        ],
+        "photo_reference": "ATJ83zj3Bek9bX71ikjKzPuhnwV9ivLidjj1-JH2020BMRqXcsxzDHTtrdHFKS3FZaRauAkFZfDkF58Ugf39tJrhr2A_P5YULIchmpHbpO65EsRLj9_Py_2LafBQGBFq0V7d3FcN7qQNzu4WTiRxfpnc37wBG9ZZGFlth98f3WPb3ptweu6Y",
+        "width": 1440
+      },
+      {
+        "height": 3648,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104283761701258537168\">Kavin Fif Lavilla</a>"
+        ],
+        "photo_reference": "ATJ83zgxhMMqBUdbeV8S7m2An4c8P2EypZa7NclIugugz07tVIiwvnfKFwl1UN8s4sfYJ1T6n1-GlXZDKyn2U_7yTe5Z3NNCBAZ4UvibhVVjtv_-VsR87RjEYMJFDt-jATIOF8N9HNDNHs1Z28eVxDCtXKPKIMktvda15hsoqt9KykqaM5Wj",
+        "width": 2736
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117137838518787719235\">Genesis De Castro</a>"
+        ],
+        "photo_reference": "ATJ83zgco062_fgK7i4dJDFoJtdio4egRr434vJ_agKgY1XFOAVdcAchRCKPPrltcuH_AZx-l0_CPROLORhEVoB1ISJsAwMjQIRi2gav8_Mj84OJTvC7fJBF8UaHmn8P1dbaeHsFNZQF9EhD7ueUhvBmrl1pA5MsCFLCpvFWdW34RezmoBus",
+        "width": 3024
+      },
+      {
+        "height": 1800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106269877472129828547\">Gemima Guillen</a>"
+        ],
+        "photo_reference": "ATJ83zgNMmK-BDXsPfODLqDMbzZasLRFm9gT4z1LwKYVhSFEAKSx_qtmmELL0VrPqW80XH0_fvcWi7FdCP0zbqNvLGfTdRyF3d68XXCKVuDHSIzXkYw0GtXD2nF2l2tCSZlz5G5HbZGLTw6WLdP2M6DCXeIwxgljs1UtlckUtKMqTogE9L7b",
+        "width": 1440
+      },
+      {
+        "height": 5792,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110850229618229014935\">Nneka Rubia</a>"
+        ],
+        "photo_reference": "ATJ83zhSx7xPl_102J0gsIdzBzGO3Uk9JJMHFz9SCw_Xcc3A3p423Y64MHP5nrlYUHeSiIXeuIQvl56hYz5al67W1D0Nnd_T1KaSxv7F3WUaLLIgYBNSEPtzqG0H2K8EHc6QGYrEA-3x99GTxoFE0o3R5GFzryE489bra4w2Bnp749VrL0Xj",
+        "width": 4344
+      },
+      {
+        "height": 1800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106269877472129828547\">Gemima Guillen</a>"
+        ],
+        "photo_reference": "ATJ83zj23Y2qQPx6jiQ4VetMakQVGfdRLO6BMEyh3XyheIxlIu7FFIzaeGr4zum6b0iLGeOa_WCBWLtEMNclZ-MMmL9dU0rNCu8rKl1Dy1QrwGnDVvYzNUTZ_tz216ATFYz1TSA78MszhGj3tH1s40ll377Qc80OmRVr3zCrUAhYRK74-BQF",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJz0Ovgddr-TIRNeK-V6XnATE",
+    "plus_code": {
+      "compound_code": "5H2W+RG Davao City, Davao del Sur, Philippines",
+      "global_code": "6QV75H2W+RG"
+    },
+    "rating": 4.9,
+    "reference": "ChIJz0Ovgddr-TIRNeK-V6XnATE",
+    "reviews": [
+      {
+        "author_name": "Genesis De Castro",
+        "author_url": "https://www.google.com/maps/contrib/117137838518787719235/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgqc4asO5kBtO8WnwFkt30oufkfQVV6Mn9zHmnVEuEHHU=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "A coffee shop where you will enjoy every sip of your drink. Really good espresso coffee selection, pourover, frappes , and budget friendly at the same time. Great ambiance—perfect spot when you just want to chill and enjoy your coffee. Friendly owner/barista and staff. You will find yourself coming back every time. Just a little suggestion — contact the coffee shop thru their facebook page before going, for direction and changes of opening hours. Cheers!",
+        "time": 1677459705,
+        "translated": false
+      },
+      {
+        "author_name": "Lemuel Blaya",
+        "author_url": "https://www.google.com/maps/contrib/108637436535176731374/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvtmxtZ69WGgLcIT7IW8YYQw0uBjqs6LyiLatCh3RKrJs=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "Coffee is delicious and good, you have the option to choose your beans. They have two locally sourced beans and a special blend. The baristas are friendly too, and you could pay through GCash or Paymaya.\n\nDrink recommendation: If the color blue on your coffee isn't an issue, try their Europa.\n\nAmbience: Cozy and a breather from the traditional city. Wouldn't expect a picturesque view inside of a subdivision, but the cafe could really surprise you with its beautiful views.",
+        "time": 1666972375,
+        "translated": false
+      },
+      {
+        "author_name": "Gemima Guillen",
+        "author_url": "https://www.google.com/maps/contrib/106269877472129828547/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX-P1PbG31sbdbR-V20DUjWq9Gz8CjsGbh0uPXG8whHagA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Lot 38 is an exceptional coffee shop that is truly worth visiting!\n☕️ As my partner lives nearby, we have had the pleasure of visiting the place multiple times and tried most of the items on their menu. We loved everything we tried!\n\n📍 The cafe is located in a suburb-ish location and occupies a residential lot with a beautiful view of Mount Apo.\n\n👨🏻‍🍳 The owner/barista's passion and love for coffee is evident in every cup they serve, as they offer a selection of classic and inventive coffee drinks. On our first visit, it was during their soft opening, and we had a great conversation with the owner about coffee and art. He was very welcoming and the café itself has a cozy, industrial, and semi-finished vibe that really reflects the items on the menu - exquisite, constantly improving, and innovative.\n\n💵 Accepts cash and Gcash\n\nP.S. It was also the first time I've used the word \"beautiful\" to describe a beverage. (see image below) 😉",
+        "time": 1674463737,
+        "translated": false
+      },
+      {
+        "author_name": "Farrah Garcia",
+        "author_url": "https://www.google.com/maps/contrib/115243457880422264946/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYVZK2085TM7vcCofJeAENg5_8AaGuuCyXNZ9wEh3x2Yg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Lot 38 is a home cafe in Indangan. It’s out of the way, so people who come visit are really fans or are in it to try the cafe for the experience.\n\nI’d say the people behind Lot 38 make it worth the drive.\n\nI felt their passion while they talked about each drink. And they’re super nice too!\n\nLoved the place. It had a lot of interesting book and art (always a good sign!) and you can choose the mug you want your drink placed in (which I think they make themselves??)\n\nWe tried the Europa, which is their version of the Spanish latte. (No, the blue thing on top isn’t toothpaste. It’s icing!)\n\nReco: Try drinking the drink without mixing it first.\n\n💰: cash and gcash\n🪑: limited (but there’s a second floor, which we didn’t go to)\n\nI live quite nearby so will definitely be back :)",
+        "time": 1673166136,
+        "translated": false
+      },
+      {
+        "author_name": "Dodoy Laagan",
+        "author_url": "https://www.google.com/maps/contrib/112887937008010986371/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2Er_3ywL6ae8GP1ZOSmHJeoGZ3rr0W8CWSkJLYO06rms=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Place is serene. Located at the back portion of deca subdivision with an overlooking view. I'd be delighted to stay longer and simply enjoy the view. The crew were very friendly and they seemed to know the guests by name. The coffee was slightly acidic for my taste but it was iced so understandable. I had a gentleman's americano. A tangy spiced coffee with hints of umami. I like it but I have to say I had better. Not the best but good.",
+        "time": 1675781352,
+        "translated": false
+      }
+    ],
+    "serves_beer": false,
+    "serves_wine": false,
+    "takeout": true,
+    "types": ["cafe", "food", "point_of_interest", "establishment"],
+    "url": "https://maps.google.com/?cid=3531358280162927157",
+    "user_ratings_total": 16,
+    "utc_offset": 480,
+    "vicinity": "Deca Homes Indangan, Block 4, Lot 1, Phase I, Lot 38 Block 4 Phase 1, Davao City"
+  },
+  "status": "OK"
+}

@@ -63,4 +63,4 @@ async function search(placeName) {
   searchElevation(location);
 }
 
-search("Glasshouse Coffee");
+search("Lot 38 Kape");
