@@ -1,0 +1,242 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [
+      {
+        "long_name": "Obrero One Palma Gil Building",
+        "short_name": "Obrero One Palma Gil Building",
+        "types": ["premise"]
+      },
+      { "long_name": "One", "short_name": "One", "types": ["street_number"] },
+      {
+        "long_name": "Teodoro Palma Gil Street",
+        "short_name": "Teodoro Palma Gil St",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Poblacion District",
+        "short_name": "Poblacion District",
+        "types": ["sublocality_level_1", "sublocality", "political"]
+      },
+      {
+        "long_name": "Davao City",
+        "short_name": "Davao City",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Davao del Sur",
+        "short_name": "Davao del Sur",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Davao Region",
+        "short_name": "Davao Region",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "Philippines",
+        "short_name": "PH",
+        "types": ["country", "political"]
+      },
+      { "long_name": "8000", "short_name": "8000", "types": ["postal_code"] }
+    ],
+    "adr_address": "VNL DVO, Obrero One Palma Gil Building, <span class=\"street-address\">One Teodoro Palma Gil St</span>, <span class=\"extended-address\">Poblacion District</span>, <span class=\"locality\">Davao City</span>, <span class=\"postal-code\">8000</span> <span class=\"region\">Davao del Sur</span>, <span class=\"country-name\">Philippines</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": true,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "date": "2023-10-01", "day": 0, "time": "2000" },
+          "open": { "date": "2023-10-01", "day": 0, "time": "1400" }
+        },
+        {
+          "close": { "date": "2023-10-02", "day": 1, "time": "1900" },
+          "open": { "date": "2023-10-02", "day": 1, "time": "0800" }
+        },
+        {
+          "close": { "date": "2023-10-03", "day": 2, "time": "1900" },
+          "open": { "date": "2023-10-03", "day": 2, "time": "0800" }
+        },
+        {
+          "close": { "date": "2023-10-04", "day": 3, "time": "1900" },
+          "open": { "date": "2023-10-04", "day": 3, "time": "0800" }
+        },
+        {
+          "close": { "date": "2023-10-05", "day": 4, "time": "1900" },
+          "open": { "date": "2023-10-05", "day": 4, "time": "0800" }
+        },
+        {
+          "close": { "date": "2023-10-06", "day": 5, "time": "1900" },
+          "open": { "date": "2023-10-06", "day": 5, "time": "0800" }
+        },
+        {
+          "close": { "date": "2023-09-30", "day": 6, "time": "1900" },
+          "open": { "date": "2023-09-30", "day": 6, "time": "0800" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 7:00 PM",
+        "Tuesday: 8:00 AM – 7:00 PM",
+        "Wednesday: 8:00 AM – 7:00 PM",
+        "Thursday: 8:00 AM – 7:00 PM",
+        "Friday: 8:00 AM – 7:00 PM",
+        "Saturday: 8:00 AM – 7:00 PM",
+        "Sunday: 2:00 – 8:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "VNL DVO, Obrero One Palma Gil Building, One Teodoro Palma Gil St, Poblacion District, Davao City, 8000 Davao del Sur, Philippines",
+    "formatted_phone_number": "0919 095 5578",
+    "geometry": {
+      "location": { "lat": 7.0834886, "lng": 125.6162173 },
+      "viewport": {
+        "northeast": { "lat": 7.084832280291502, "lng": 125.6175706802915 },
+        "southwest": { "lat": 7.082134319708497, "lng": 125.6148727197085 }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "international_phone_number": "+63 919 095 5578",
+    "name": "VNL.DVO",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "day": 0, "time": "2000" },
+          "open": { "day": 0, "time": "1400" }
+        },
+        {
+          "close": { "day": 1, "time": "1900" },
+          "open": { "day": 1, "time": "0800" }
+        },
+        {
+          "close": { "day": 2, "time": "1900" },
+          "open": { "day": 2, "time": "0800" }
+        },
+        {
+          "close": { "day": 3, "time": "1900" },
+          "open": { "day": 3, "time": "0800" }
+        },
+        {
+          "close": { "day": 4, "time": "1900" },
+          "open": { "day": 4, "time": "0800" }
+        },
+        {
+          "close": { "day": 5, "time": "1900" },
+          "open": { "day": 5, "time": "0800" }
+        },
+        {
+          "close": { "day": 6, "time": "1900" },
+          "open": { "day": 6, "time": "0800" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 7:00 PM",
+        "Tuesday: 8:00 AM – 7:00 PM",
+        "Wednesday: 8:00 AM – 7:00 PM",
+        "Thursday: 8:00 AM – 7:00 PM",
+        "Friday: 8:00 AM – 7:00 PM",
+        "Saturday: 8:00 AM – 7:00 PM",
+        "Sunday: 2:00 – 8:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108711103867601220511\">VNL.DVO</a>"
+        ],
+        "photo_reference": "ATJ83zi_yLSROVSHLRbptsL-KXVSl4zuYRdDkWSe6K2FU4n2NMoR8Vl0wWuQA4WaUIwdJyAVssVbDCi66wgdkmyKvXg_FIkBkVe5yP915qDYupDs8gBoe4KIEdHtgmBhvmq2Jra4kCQ93k--fH9QWvxMnKkHl8YO_5o3QTq9lfI7vl4QpNTW",
+        "width": 3024
+      },
+      {
+        "height": 818,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108711103867601220511\">VNL.DVO</a>"
+        ],
+        "photo_reference": "ATJ83ziYCu6x_iEcjkohCONAlUnWSu4ondxtKMIBZY4STMNLjFJzT1fdt7BVf-7WdN5_v2B6wEan2U0NKkabjNgaiST3YblRikYo_MX6TyNlaDkn12SCo7BoBYq_aaGh7H4vCDLZqXLTpgA2Lkv0v2TWDu52D9pwX5HfpuOet-L9ZEt1lKAG",
+        "width": 828
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108711103867601220511\">VNL.DVO</a>"
+        ],
+        "photo_reference": "ATJ83zgY-_doaJLHdOgZ7FkRE7Opt3a5DmF5sGSbq3yc2Y9ffI1mId6p1Xc8ycABO5rP3nppBeVcVo4t-M2Xxmbya33dhAY429PeQ3laKYu5HBsEde-Agncx37zd2sP89MY2y9uFvvMD1syqqRwdhePM2L-EkIIiB_8fRCp_S1vmGJMA591N",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115243457880422264946\">Farrah Garcia</a>"
+        ],
+        "photo_reference": "ATJ83zjppJlOL9Fs23T24B8bxYfyJv74Q466nx_bWfSrgWOye5JJpvqegUbSgPOZHfkfb_CuDioKDjpxn405T2wmnucENWfblhUt1rcVmj05CX5fkOCFGsP7uJA5G920vbtYg9kRbGkFtKPfNjzdMgSFu-IZ7ScWTfhmA2KiMwD7CUQDMn4p",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115243457880422264946\">Farrah Garcia</a>"
+        ],
+        "photo_reference": "ATJ83zivoP8u99OeiK_zYopEvW23Nw1f47xF5EP9_teaxn8UJAf74EFzgWN-WU3Yr3OyJIb2SQ5Rxcs8Drv_uOJaVWFnsFpE2uglY-mVG5W-RjBX6pF0C5g_9Wjoq972TiiCK8uoakMIOBw0iul2Wz0MI0yU8jVLbW0CfNodyC8F2gY8ZaiN",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115243457880422264946\">Farrah Garcia</a>"
+        ],
+        "photo_reference": "ATJ83ziA1poO2_0yn-Qlj_46E7FDl8RuVncBzvOiHH7XviHKUcFHi7xHDVWmyO3IgFDNZ-o7F4Lsx58xo-SgRGULuoVAt_VFUNqGuEjjgOJBhjagMakWGQmcv-P46r8BMemTPpWF_Re7tmvhK7NBB3n2R9sMzOdx5Lk_pSNvMraNgneO4SwM",
+        "width": 3024
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115243457880422264946\">Farrah Garcia</a>"
+        ],
+        "photo_reference": "ATJ83zjRFRI-lVJLTSzy6kwSWeTe6mtyqtN2QQMw0omyQyutthGNAx9Ed1tCNooJsxTVGLUudOFj6WyVEmihcAdVoj8cixsZr1eRlXYZykfP4y6celmzCF6I2MZEOwvw27Yp6-JoS5sDPpKbWmXKWGfcjTqhUFCLhrPRBhZUSLjuXsD5NWYq",
+        "width": 1080
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115243457880422264946\">Farrah Garcia</a>"
+        ],
+        "photo_reference": "ATJ83ziL3O4LO6LsILMK3nr5KlqAfBstOmTjSk9yu24CkoB2D_AgPD3Bot6Hz_SB76zs_uR3jmkLgTU-QvKInOe2tAtixzGIL_Xyc5O4VLs8rM4iKm6wlXAEPyqFh-x8sazH3kljzawboF4yG2ukPNvQzXQdFhVgxbvPk7-8cuhG_l3sKv1z",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJDSm-BNxt-TIRwd1C2P_ktQ0",
+    "plus_code": {
+      "compound_code": "3JM8+9F Davao City, Davao del Sur, Philippines",
+      "global_code": "6QV73JM8+9F"
+    },
+    "rating": 5,
+    "reference": "ChIJDSm-BNxt-TIRwd1C2P_ktQ0",
+    "reviews": [
+      {
+        "author_name": "Farrah Garcia",
+        "author_url": "https://www.google.com/maps/contrib/115243457880422264946/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYVZK2085TM7vcCofJeAENg5_8AaGuuCyXNZ9wEh3x2Yg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "Small cozy place in Obrero. Unique drinks (got a campfire latte which had marshmallow cream I think) and a great playlist.\n\nNice owners.\n\nSockets available but I didn’t know at the time 😂\n\nNot sure if there was WiFi as well cause I used my own data.",
+        "time": 1693998412,
+        "translated": false
+      }
+    ],
+    "takeout": true,
+    "types": ["cafe", "store", "food", "point_of_interest", "establishment"],
+    "url": "https://maps.google.com/?cid=987947480773746113",
+    "user_ratings_total": 1,
+    "utc_offset": 480,
+    "vicinity": "Obrero One Palma Gil Building, VNL DVO, One Teodoro Palma Gil Street, Davao City",
+    "website": "https://web.facebook.com/vnl.dvo/"
+  },
+  "status": "OK"
+}

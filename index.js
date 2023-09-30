@@ -63,4 +63,4 @@ async function search(placeName) {
   searchElevation(location);
 }
 
-search("Lot 38 Kape");
+search("VNL.DVO");

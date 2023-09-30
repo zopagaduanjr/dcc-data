@@ -185,5 +185,27 @@
       }
     },
     "elevation": 14.06391334533691
+  },
+  "Onse Kopi": {
+    "name": "Onse Kopi",
+    "geometry": {
+      "location": { "lat": 7.053036000000001, "lng": 125.594934 },
+      "viewport": {
+        "northeast": { "lat": 7.054340830291504, "lng": 125.5962938802915 },
+        "southwest": { "lat": 7.051642869708499, "lng": 125.5935959197085 }
+      }
+    },
+    "elevation": 8.188749313354492
+  },
+  "VNL.DVO": {
+    "name": "VNL.DVO",
+    "geometry": {
+      "location": { "lat": 7.0834886, "lng": 125.6162173 },
+      "viewport": {
+        "northeast": { "lat": 7.084832280291502, "lng": 125.6175706802915 },
+        "southwest": { "lat": 7.082134319708497, "lng": 125.6148727197085 }
+      }
+    },
+    "elevation": 6.166751861572266
   }
 }
