@@ -1,0 +1,293 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [
+      {
+        "long_name": "Phase 1",
+        "short_name": "Phase 1",
+        "types": ["subpremise"]
+      },
+      { "long_name": "6", "short_name": "6", "types": ["street_number"] },
+      { "long_name": "A st", "short_name": "A st", "types": ["route"] },
+      {
+        "long_name": "Talomo",
+        "short_name": "Talomo",
+        "types": ["sublocality_level_1", "sublocality", "political"]
+      },
+      {
+        "long_name": "Davao City",
+        "short_name": "Davao City",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Davao del Sur",
+        "short_name": "Davao del Sur",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Davao Region",
+        "short_name": "Davao Region",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "Philippines",
+        "short_name": "PH",
+        "types": ["country", "political"]
+      },
+      { "long_name": "8000", "short_name": "8000", "types": ["postal_code"] }
+    ],
+    "adr_address": "319, ecoland, Phase 1, <span class=\"street-address\">6 A st</span>, <span class=\"extended-address\">Talomo</span>, <span class=\"locality\">Davao City</span>, <span class=\"postal-code\">8000</span> <span class=\"region\">Davao del Sur</span>, <span class=\"country-name\">Philippines</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": true,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "date": "2023-10-02", "day": 1, "time": "1900" },
+          "open": { "date": "2023-10-02", "day": 1, "time": "1100" }
+        },
+        {
+          "close": { "date": "2023-10-03", "day": 2, "time": "1900" },
+          "open": { "date": "2023-10-03", "day": 2, "time": "1100" }
+        },
+        {
+          "close": { "date": "2023-10-04", "day": 3, "time": "1900" },
+          "open": { "date": "2023-10-04", "day": 3, "time": "1100" }
+        },
+        {
+          "close": { "date": "2023-10-05", "day": 4, "time": "1900" },
+          "open": { "date": "2023-10-05", "day": 4, "time": "1100" }
+        },
+        {
+          "close": { "date": "2023-10-06", "day": 5, "time": "1900" },
+          "open": { "date": "2023-10-06", "day": 5, "time": "1100" }
+        },
+        {
+          "close": { "date": "2023-09-30", "day": 6, "time": "1900" },
+          "open": { "date": "2023-09-30", "day": 6, "time": "1100" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 7:00 PM",
+        "Tuesday: 11:00 AM – 7:00 PM",
+        "Wednesday: 11:00 AM – 7:00 PM",
+        "Thursday: 11:00 AM – 7:00 PM",
+        "Friday: 11:00 AM – 7:00 PM",
+        "Saturday: 11:00 AM – 7:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "319, ecoland, Phase 1, 6 A st, Talomo, Davao City, 8000 Davao del Sur, Philippines",
+    "geometry": {
+      "location": { "lat": 7.051081099999998, "lng": 125.5949911 },
+      "viewport": {
+        "northeast": { "lat": 7.052392380291502, "lng": 125.5963494302915 },
+        "southwest": { "lat": 7.049694419708497, "lng": 125.5936514697085 }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "olo. Coffee And Concepts",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "day": 1, "time": "1900" },
+          "open": { "day": 1, "time": "1100" }
+        },
+        {
+          "close": { "day": 2, "time": "1900" },
+          "open": { "day": 2, "time": "1100" }
+        },
+        {
+          "close": { "day": 3, "time": "1900" },
+          "open": { "day": 3, "time": "1100" }
+        },
+        {
+          "close": { "day": 4, "time": "1900" },
+          "open": { "day": 4, "time": "1100" }
+        },
+        {
+          "close": { "day": 5, "time": "1900" },
+          "open": { "day": 5, "time": "1100" }
+        },
+        {
+          "close": { "day": 6, "time": "1900" },
+          "open": { "day": 6, "time": "1100" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 7:00 PM",
+        "Tuesday: 11:00 AM – 7:00 PM",
+        "Wednesday: 11:00 AM – 7:00 PM",
+        "Thursday: 11:00 AM – 7:00 PM",
+        "Friday: 11:00 AM – 7:00 PM",
+        "Saturday: 11:00 AM – 7:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103617463797942485572\">Adi Leuterio</a>"
+        ],
+        "photo_reference": "ATJ83zj4yoYpyOf_HKJ3knb2TfX-nVhpaa40IpUuDxKnh3-Hn_cNdyFqWQK5Ft7okXTlvn8nh5e81wwFgcO-u7W2ABWcWQX5q4IpACEp8uqCKH71jGeWrqP9Ykd87EvD2v4rPxRfC3mhPIBV1iSJeX2ClGWWpbFtGBXjKvONVOc9Xcf58zR0",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113498638844329503850\">Arthuro Secuya</a>"
+        ],
+        "photo_reference": "ATJ83zhggFVE4tn4qhpDhfcotb022DGyPmTl5BpoUug7e0NaEPvHnMNihNEFwQwaASJBJQKKu2W-sZ9RwjQeKgzUpOS08Dhi7igtnQ0IAgitqaPV_dGaBqzE84rXyE-thCC0db_BSd9xZeb9cRhImvh5typaWsyx3tc_5ANRVDfCh61q_4Do",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116639202005691516664\">Elaine Velasco</a>"
+        ],
+        "photo_reference": "ATJ83ziW1MHqP4QJhp8emtPwa39Mwu8oXSYjwA8EJGz5yKzfoxA7xjVNqDTvv2QJ7P2zcYmXcwvFKblF4BzUJFCGOV_a0Liw0uzo5EQfKSE2OWFBR4JxcFooLsVjza4ztjZE51VtAuyf13GuX_yL1KCj_xJ_2XZ12Y0RVo99EjLqtu4MzSk",
+        "width": 3024
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114947714311741347415\">Aileen Gajo</a>"
+        ],
+        "photo_reference": "ATJ83zhTYU6t2JRllwNywlHrPkZaVVvfCW-TNJ7_WjlHCzjZoq_t6wIC-AS6MfmCYmx8Ydip-gq5XDlVwlPKfQ-GUkTWBnNjSdRr1n878iw4J2Z3G_oQPp9zMLP8xmhErk3jaVmf0bPf5c6SbbUsB6f4lT2fsKLPHg5yv2QJFfPprpNjbBgA",
+        "width": 4000
+      },
+      {
+        "height": 1800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111480488792340718907\">Jill Patrick Fulleros</a>"
+        ],
+        "photo_reference": "ATJ83zg_1aXQCLdGEpH7gUjKZWtqyDOxDXooZshMkvVW92VGwbnX9vDL0Uvvn-dtSXSel4ey9Afrk_iJxaJlthN_ZbFF92gh6pQN4hL3wM8ZVc10D3S-COHesL-VAna-xm_JPDeZhQwi4oxWCLiWkEIaRKFC43hf25LYYsk_xpLPxAjczm89",
+        "width": 1350
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103617463797942485572\">Adi Leuterio</a>"
+        ],
+        "photo_reference": "ATJ83zjb87C5eQqdpIP0odIutY1xIf2KCE4vFCQxm9BKabKzG74MXr_yAJdqt3cA060S7nQZduFnvsE89JUzkIdFR0y4Wads5vRMJlJ3pr7KI2dwI6NGPAn7fFkwq5Kyp7BzXeyHSkpB1Bm979D_4Ua1NB8sCDujM0VYFy7-VjC2YumX6q5U",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113498638844329503850\">Arthuro Secuya</a>"
+        ],
+        "photo_reference": "ATJ83zhZj-kL4PVOt8pvnpIzemxB2mTg1J5xjuNQI5sTwRCNNnPggoWuDKheI4IhRx7s2wgZo9CdCsEZtNR7VynuglZ7N0TDBLC4gJHBkguMqkzwPxV4tmBt68-2GNbCX76-XLZ-qNK5oce2C7T7P1orJ-hScc5TbnecSpz43auXZ1uRtBo3",
+        "width": 4032
+      },
+      {
+        "height": 2934,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113498638844329503850\">Arthuro Secuya</a>"
+        ],
+        "photo_reference": "ATJ83zhRhhH9ZrmDijv-MGlYsdfPNWgsNYnNCa9QvJ9wDR-QktGquJREkYGq0oI8ULM7lp-XffbWzZ8dTqvU2aTdvHruGjKLDd8PNRXKRJEuoH9_xQA6fmcC98TepnGN4vxbKF0clbVzk8VrXzSvpfZ2TOwyK9xAW2Fl8RKmD_L0qg-gwjzo",
+        "width": 3912
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113498638844329503850\">Arthuro Secuya</a>"
+        ],
+        "photo_reference": "ATJ83zjl-0bj6g7CcWZtlCu4Vw8SE4WtdA0Xs-KGOqwxvZ2PzbUswPXGtejnMIxycoFXPqoW1X2A9NtdemG6z7c86Ln3-iROpehXCw3HOHpu04zDESWtg8bwyeYzvTPdUARz0zlwc4vTk2MOXC8ZAKHRwn0Bo2TF6npE-H3AKyPEPU3anwiV",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108030246531119358212\">mel legaspi</a>"
+        ],
+        "photo_reference": "ATJ83zhbu_fZvuWk2FrJJte0kShffumSAVovxskl3FPLU5hn8yJ2N_aMnm1bBli9oQ-c0ZW3ZoK5CBHClxMTzf2YkH7H5Zrr4BDnoueq9J1jLen5CfctYeKz9EX7v4fIuQbUV-HGm97Ae-g-BRlCHmWaXCT842g_Uw6spSXxe6atoL_eKpEv",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJwbxkvyRz-TIRNWfaTrsxujQ",
+    "plus_code": {
+      "compound_code": "3H2V+CX Davao City, Davao del Sur, Philippines",
+      "global_code": "6QV73H2V+CX"
+    },
+    "rating": 4.6,
+    "reference": "ChIJwbxkvyRz-TIRNWfaTrsxujQ",
+    "reviews": [
+      {
+        "author_name": "flat earth-er",
+        "author_url": "https://www.google.com/maps/contrib/102977415161468280568/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjViDEQab4jvjkXUI2thUuZy2c6EZBsFWNdRGP4qOl44EOg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "The place was cool and nice with the chairs and tables perfectly placed inside and outside the shop. It was really the experience of sitting under the big mango tree that amused me because we rarely have coffee shops in the city that prioritized the comfort of customers over aesthetics, but this one did both. A really good place to catch-up and drink good coffee with friends. The baristas were very accommodating and the price of the drinks were student friendly. I highly recommend this place for coffee goers and nature lovers.",
+        "time": 1691921889,
+        "translated": false
+      },
+      {
+        "author_name": "Jill Patrick Fulleros",
+        "author_url": "https://www.google.com/maps/contrib/111480488792340718907/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvej8pJwuzuPc_GKUGVLmGIAAqqjg_EMPZ4yDDbOhoCzg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Cute coffee bar. I like their coffee. I wish there were more seats at the back then. And so we just sat at the front.",
+        "time": 1687458636,
+        "translated": false
+      },
+      {
+        "author_name": "Eloise SMT",
+        "author_url": "https://www.google.com/maps/contrib/114910954004342140136/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1CxiGggY4ySrNCXSIaNa8_91rCi-IvvB8KxApqXopxA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "5 months ago",
+        "text": "Coffee was good. I wasn't able to try any pastries, too crowded to order inside. Would go again on less crowded time. Too hot to sit outside.",
+        "time": 1681199285,
+        "translated": false
+      },
+      {
+        "author_name": "Mabel C.",
+        "author_url": "https://www.google.com/maps/contrib/110674246862952994251/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpG7gw0RloV6_RxVeISg0kL9IyQhCISBd4CKRaUgohk--X=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "This place is located inside a subdivision and if you're not familiar with the turns, you might end up getting lost. So, getting a Grab or riding a tricycle would be your best option.\n\nThe day we got there, there were a few unavailable drinks 🥲 they also only have a considerable amount of snacks to eat together with the coffee. However, it didn't affect our good time here",
+        "time": 1670919228,
+        "translated": false
+      },
+      {
+        "author_name": "Adi Leuterio",
+        "author_url": "https://www.google.com/maps/contrib/103617463797942485572/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVTnQnHbctgRyYtcjkzgSKszraWuAlsHD1WG3b3mIy3wvj=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "a year ago",
+        "text": "Lovely quaint cafe. Coffee is good too. Can get hot outside and there might be mosquitoes. 😅 Nicer late afternoon or at night.",
+        "time": 1662450496,
+        "translated": false
+      }
+    ],
+    "serves_beer": false,
+    "serves_wine": false,
+    "takeout": true,
+    "types": ["cafe", "food", "point_of_interest", "establishment"],
+    "url": "https://maps.google.com/?cid=3799403916192016181",
+    "user_ratings_total": 31,
+    "utc_offset": 480,
+    "vicinity": "Phase 1, 319, ecoland, 6 A st, Davao City"
+  },
+  "status": "OK"
+}

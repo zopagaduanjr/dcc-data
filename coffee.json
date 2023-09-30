@@ -54,6 +54,50 @@
     },
     "elevation": 7.885401725769043
   },
+  "HisHer by Purge Coffee": {
+    "name": "HisHer by Purge Coffee",
+    "geometry": {
+      "location": { "lat": 7.102906199999999, "lng": 125.6440543 },
+      "viewport": {
+        "northeast": { "lat": 7.104357430291501, "lng": 125.6455741802915 },
+        "southwest": { "lat": 7.101659469708497, "lng": 125.6428762197085 }
+      }
+    },
+    "elevation": 7.183873653411865
+  },
+  "Lerus Coffee": {
+    "name": "Lerus Coffee",
+    "geometry": {
+      "location": { "lat": 7.087082700000001, "lng": 125.6148069 },
+      "viewport": {
+        "northeast": { "lat": 7.088479780291502, "lng": 125.6162197302915 },
+        "southwest": { "lat": 7.085781819708497, "lng": 125.6135217697085 }
+      }
+    },
+    "elevation": 6.597042560577393
+  },
+  "olo. Coffee And Concepts": {
+    "name": "olo. Coffee And Concepts",
+    "geometry": {
+      "location": { "lat": 7.051081099999998, "lng": 125.5949911 },
+      "viewport": {
+        "northeast": { "lat": 7.052392380291502, "lng": 125.5963494302915 },
+        "southwest": { "lat": 7.049694419708497, "lng": 125.5936514697085 }
+      }
+    },
+    "elevation": 8.018280982971191
+  },
+  "REVEL by Confex": {
+    "name": "REVEL by Confex",
+    "geometry": {
+      "location": { "lat": 7.0637191, "lng": 125.5925805 },
+      "viewport": {
+        "northeast": { "lat": 7.065054180291503, "lng": 125.5938728802915 },
+        "southwest": { "lat": 7.062356219708499, "lng": 125.5911749197085 }
+      }
+    },
+    "elevation": 8.355263710021973
+  },
   "MYLK Cafe": {
     "name": "MYLK Cafe",
     "geometry": {

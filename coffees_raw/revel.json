@@ -1,0 +1,302 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [
+      {
+        "long_name": "DBP Village",
+        "short_name": "DBP Village",
+        "types": ["premise"]
+      },
+      {
+        "long_name": "Don Julian Rodriguez Sr. Avenue",
+        "short_name": "Don Julian Rodriguez Sr. Ave",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Talomo",
+        "short_name": "Talomo",
+        "types": ["sublocality_level_1", "sublocality", "political"]
+      },
+      {
+        "long_name": "Davao City",
+        "short_name": "Davao City",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Davao del Sur",
+        "short_name": "Davao del Sur",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Davao Region",
+        "short_name": "Davao Region",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "Philippines",
+        "short_name": "PH",
+        "types": ["country", "political"]
+      },
+      { "long_name": "8000", "short_name": "8000", "types": ["postal_code"] }
+    ],
+    "adr_address": "DBP Village, <span class=\"street-address\">Don Julian Rodriguez Sr. Ave</span>, <span class=\"extended-address\">Talomo</span>, <span class=\"locality\">Davao City</span>, <span class=\"postal-code\">8000</span> <span class=\"region\">Davao del Sur</span>, <span class=\"country-name\">Philippines</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": true,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "date": "2023-10-02", "day": 1, "time": "2100" },
+          "open": { "date": "2023-10-02", "day": 1, "time": "1300" }
+        },
+        {
+          "close": { "date": "2023-10-03", "day": 2, "time": "2100" },
+          "open": { "date": "2023-10-03", "day": 2, "time": "1300" }
+        },
+        {
+          "close": { "date": "2023-10-04", "day": 3, "time": "2100" },
+          "open": { "date": "2023-10-04", "day": 3, "time": "1300" }
+        },
+        {
+          "close": { "date": "2023-10-05", "day": 4, "time": "2100" },
+          "open": { "date": "2023-10-05", "day": 4, "time": "1300" }
+        },
+        {
+          "close": { "date": "2023-10-06", "day": 5, "time": "2100" },
+          "open": { "date": "2023-10-06", "day": 5, "time": "1300" }
+        },
+        {
+          "close": { "date": "2023-09-30", "day": 6, "time": "2100" },
+          "open": { "date": "2023-09-30", "day": 6, "time": "1300" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 1:00 – 9:00 PM",
+        "Tuesday: 1:00 – 9:00 PM",
+        "Wednesday: 1:00 – 9:00 PM",
+        "Thursday: 1:00 – 9:00 PM",
+        "Friday: 1:00 – 9:00 PM",
+        "Saturday: 1:00 – 9:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "DBP Village, Don Julian Rodriguez Sr. Ave, Talomo, Davao City, 8000 Davao del Sur, Philippines",
+    "formatted_phone_number": "0993 833 8931",
+    "geometry": {
+      "location": { "lat": 7.0637191, "lng": 125.5925805 },
+      "viewport": {
+        "northeast": { "lat": 7.065054180291503, "lng": 125.5938728802915 },
+        "southwest": { "lat": 7.062356219708499, "lng": 125.5911749197085 }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "international_phone_number": "+63 993 833 8931",
+    "name": "REVEL by Confex",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "day": 1, "time": "2100" },
+          "open": { "day": 1, "time": "1300" }
+        },
+        {
+          "close": { "day": 2, "time": "2100" },
+          "open": { "day": 2, "time": "1300" }
+        },
+        {
+          "close": { "day": 3, "time": "2100" },
+          "open": { "day": 3, "time": "1300" }
+        },
+        {
+          "close": { "day": 4, "time": "2100" },
+          "open": { "day": 4, "time": "1300" }
+        },
+        {
+          "close": { "day": 5, "time": "2100" },
+          "open": { "day": 5, "time": "1300" }
+        },
+        {
+          "close": { "day": 6, "time": "2100" },
+          "open": { "day": 6, "time": "1300" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 1:00 – 9:00 PM",
+        "Tuesday: 1:00 – 9:00 PM",
+        "Wednesday: 1:00 – 9:00 PM",
+        "Thursday: 1:00 – 9:00 PM",
+        "Friday: 1:00 – 9:00 PM",
+        "Saturday: 1:00 – 9:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3910,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111911015431000875583\">dmmaknae</a>"
+        ],
+        "photo_reference": "ATJ83zjYZ5KoAD76bt4TbrhrmSvftQNrTbhYRoBGXfOEAkhZjx0YI6SQGX7lBDNZlnwEGKGfzcOBuhJZrJ34FnGDbVvAu7BboLRejjs9KEJMOrqmrtHjC1XwSBRq_Mls5t_fafLtMUvOXJyD4K6I6uHfAQo30p5dp7zwGdWj68bdwM1n_Jf4",
+        "width": 2932
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109683007223279607456\">Andrew dela Serna</a>"
+        ],
+        "photo_reference": "ATJ83zgJ73Se6NLOf0B3_0nH6RLVRjq-bI9_fY3X6Bmtnl-mZ_iyqQ7F1y9mUA7Mj1_ktBT3X_lKOYPRhbGuPfspwc7TS5fQQ8wIOwNQDc30CWLYlob-7WCj_VWCv9VMR3EHV_W911r9yLXHaTU1WUNIgMMC7If2XTtZzDMUfDpL4KMNaxgW",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111911015431000875583\">dmmaknae</a>"
+        ],
+        "photo_reference": "ATJ83zjTSZuVGPRxbifg5qFn9gwDBzxp1JBTl4xTKE42ysgqLTF563YHafRtbKjaNfIGMT79cdEShp53SJIwrXFrz53KYZ-zh3LK_jkF3bgMv2bagdZn38Ge-UNkcQExg4TTbIgnWao_4wgpFsY1Icf2XstMOhAhbmxwIuJVgM7gQ9ehH53J",
+        "width": 3024
+      },
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101435929151738188518\">Lito Lepardo</a>"
+        ],
+        "photo_reference": "ATJ83zhR4EbkRnmQs1aWRLsGf4zIzMTsjsDUbyu9dd-ocETh_ULP2ErS-F77RJMqYhV39dYNmF9rNt_4l0lklZuUZ8mgn5eZDnpDeZkWybcKLu-5esNocLsvvAqdujH9oRYdz6ADc9cZtqg8eFewXhqix92eN1tcmgcIS1SrQNYL80Xipv2a",
+        "width": 3072
+      },
+      {
+        "height": 3006,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111911015431000875583\">dmmaknae</a>"
+        ],
+        "photo_reference": "ATJ83zgTfcQqRuRa1ZXRx8aIJX53SpH9zv6xZ3HK0cJy6ZCsTlO4BL3l6HrciNWQX2j1bPQw6z4_5iBf5ai6BS1aByCXWn3nhMb_pwJvapEl5ztXKAQ7w2RnrZSr5Lj1sNtro3n5Vo9pVgiECiTHrCTmtektFNw3VpImohmbnVS02Tu0lgEo",
+        "width": 3006
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113253351608414983465\">Janice April Veloso</a>"
+        ],
+        "photo_reference": "ATJ83zj_DGYB4OI4sI2RPwWskkm4QBNp7Hpvg3BsN482cslEbHTkWkEsVlAPjM3RcRjX_ABhHHK1iAPkWDgToCo_u7gIW_SrfUnmWG_rasilWrRD6jyq7RMoM5xj5lwMKLiA9nGd9OwvEJcQVA03ABqhyk0U9MXMl30RRnJoZieHXGelEroA",
+        "width": 4032
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113253351608414983465\">Janice April Veloso</a>"
+        ],
+        "photo_reference": "ATJ83zg7-z5_iOt7pHrKh17jWA0gyVTEzg77tyNaVt76WFD5YgmGgeRhqvIbL_Q3Jmm9TzWUDr9lykhjN1knbmvq6Vopmcp25l1Zdms2fHqGXBIt0rTW2VLzStlRnY0HwwREH933E8uHXAGkEQ7HukClcpnU20irEpmVujZlGUQrdfXq9QTV",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111911015431000875583\">dmmaknae</a>"
+        ],
+        "photo_reference": "ATJ83zjpiSVOGVrM0sOHrdz4JNNWGFfkCHNKfiVNUQ6ak2tL0VLIEaOPaNIDnAg8rSoQO1HoEeTTmBSIN6-3VMeHvgWYz7rZOuBOxOGkgSwdVej9Z1irntKkvT6wbqtXeOmKCbDFgPY8Wg49QOSOumvWwVXGv1_eXvYqVk0Vsh-GnUleR5GJ",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109683007223279607456\">Andrew dela Serna</a>"
+        ],
+        "photo_reference": "ATJ83ziAdsqsRn1vPUgS4KGCFUEqYY-6uPYa9n7Si8m0PXdkT2rMPkqO9vXNMKFrjVfKibrLeiqwZSHwJiWapVytNDk4FVAOGdczt3JFI-3ITAelFyXjbsveKtEqkbDnuZX_qamStyuEm3QgrRpcFib-fyzTApNEHmn0hyZ5BhTtIT4o-DxP",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113253351608414983465\">Janice April Veloso</a>"
+        ],
+        "photo_reference": "ATJ83zhHcQY-fI8xID2bvYGMpoI3L-0ZZhCYDiDhULy_MThEhwftZBK7seoDG2CBRlV2B2RCIbP22YzqFBBZ__-StrM0tisp6mqbN5D3cp5vcvpkLiS0wAloujX6RXOSggh6oOgAgU6uKlqDL5K_y43mOiO5c1azUVTRoHz4VXTyUTGngeKh",
+        "width": 2268
+      }
+    ],
+    "place_id": "ChIJfSZ946Ft-TIRw7JZzk5G7oI",
+    "plus_code": {
+      "compound_code": "3H7V+F2 Davao City, Davao del Sur, Philippines",
+      "global_code": "6QV73H7V+F2"
+    },
+    "rating": 4.8,
+    "reference": "ChIJfSZ946Ft-TIRw7JZzk5G7oI",
+    "reservable": true,
+    "reviews": [
+      {
+        "author_name": "Janice April Veloso",
+        "author_url": "https://www.google.com/maps/contrib/113253351608414983465/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsksku7WxZucA9u9a24xnMLTYXgBRb-ZKSlQESSsl2h4U=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "3 months ago",
+        "text": "Nice place. Loved the baked goods display. Yummy goodies as well. No internet connection.",
+        "time": 1685948747,
+        "translated": false
+      },
+      {
+        "author_name": "Abegail Rebuyon",
+        "author_url": "https://www.google.com/maps/contrib/100284641647662760925/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1FYDt3gnVW109pC9vais4z9bnKQc_RbzNlTfZojlFJh9g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Feels cozy. Staff are very friendly and welcoming. Aside from good place and staff, they also have delicious treats and drinks!\n\n(The pictures might not justify the products and place tho, sorry ‘bout that 😂)",
+        "time": 1663667404,
+        "translated": false
+      },
+      {
+        "author_name": "Andrew dela Serna",
+        "author_url": "https://www.google.com/maps/contrib/109683007223279607456/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3qCDaDauKfk7MeiSxBbdqcwcxGwANEZ7s0ad8od0GKxdl=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Nice, cozy ambiance. Enjoyed their Matcha Strawberry Milk and Einspanner Latte. Their Pecan Bar was great too! I look forward to coming back.",
+        "time": 1659791466,
+        "translated": false
+      },
+      {
+        "author_name": "dmmaknae",
+        "author_url": "https://www.google.com/maps/contrib/111911015431000875583/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVIcwgT6wpeeFsZRy820qYGaaIKqgamDwuimNc6koA6ISg6=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I've been here twice. The owner and its staff are very welcoming and accommodating; I guarantee you'll love going back for their coffee and pastries 🥰",
+        "time": 1658382529,
+        "translated": false
+      },
+      {
+        "author_name": "Ada Masse",
+        "author_url": "https://www.google.com/maps/contrib/101831463136469721331/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0M5iZ0OA-h8esL15Lil3-YxgQAElBzGykPIfjrodfCWM=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Cute, quiet place. Very straightforward. Coffee shop with pastries. And art plastered on the wall!\n\nIt's not a really big place but it's convenient and easy to locate being just in front of S&R. Although, it's hard to park your car since the cafe is just along the highway. But there's a street just before the cafe so we just parked there.\n\nI love their caramel latte and their biscoff cookie is soo good!",
+        "time": 1681182261,
+        "translated": false
+      }
+    ],
+    "serves_beer": false,
+    "serves_brunch": true,
+    "serves_dinner": true,
+    "serves_wine": false,
+    "takeout": true,
+    "types": ["cafe", "food", "point_of_interest", "establishment"],
+    "url": "https://maps.google.com/?cid=9434555573671146179",
+    "user_ratings_total": 22,
+    "utc_offset": 480,
+    "vicinity": "DBP Village, Don Julian Rodriguez Sr. Avenue, Davao City",
+    "website": "http://facebook.com/revelbyconfex"
+  },
+  "status": "OK"
+}

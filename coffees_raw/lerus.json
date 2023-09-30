@@ -1,0 +1,295 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [
+      {
+        "long_name": "beside Paper Bowl",
+        "short_name": "beside Paper Bowl",
+        "types": ["point_of_interest", "establishment"]
+      },
+      { "long_name": "cor", "short_name": "cor", "types": ["street_number"] },
+      {
+        "long_name": "Cervantes Street",
+        "short_name": "Cervantes St",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Bo. Obrero",
+        "short_name": "Bo. Obrero",
+        "types": ["sublocality_level_1", "sublocality", "political"]
+      },
+      {
+        "long_name": "Davao City",
+        "short_name": "Davao City",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Davao del Sur",
+        "short_name": "Davao del Sur",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Davao Region",
+        "short_name": "Davao Region",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "Philippines",
+        "short_name": "PH",
+        "types": ["country", "political"]
+      },
+      { "long_name": "8000", "short_name": "8000", "types": ["postal_code"] }
+    ],
+    "adr_address": "Door A, Lim Building, Lacson, beside Paper Bowl, <span class=\"street-address\">cor Cervantes St</span>, <span class=\"extended-address\">Bo. Obrero</span>, <span class=\"locality\">Davao City</span>, <span class=\"postal-code\">8000</span> <span class=\"region\">Davao del Sur</span>, <span class=\"country-name\">Philippines</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "date": "2023-10-01", "day": 0, "time": "2100" },
+          "open": { "date": "2023-10-01", "day": 0, "time": "1300" }
+        },
+        {
+          "close": { "date": "2023-10-03", "day": 2, "time": "2100" },
+          "open": { "date": "2023-10-03", "day": 2, "time": "1300" }
+        },
+        {
+          "close": { "date": "2023-10-04", "day": 3, "time": "2100" },
+          "open": { "date": "2023-10-04", "day": 3, "time": "1300" }
+        },
+        {
+          "close": { "date": "2023-10-05", "day": 4, "time": "2100" },
+          "open": { "date": "2023-10-05", "day": 4, "time": "1300" }
+        },
+        {
+          "close": { "date": "2023-10-06", "day": 5, "time": "2100" },
+          "open": { "date": "2023-10-06", "day": 5, "time": "1300" }
+        },
+        {
+          "close": { "date": "2023-09-30", "day": 6, "time": "2100" },
+          "open": { "date": "2023-09-30", "day": 6, "time": "1300" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 1:00 – 9:00 PM",
+        "Wednesday: 1:00 – 9:00 PM",
+        "Thursday: 1:00 – 9:00 PM",
+        "Friday: 1:00 – 9:00 PM",
+        "Saturday: 1:00 – 9:00 PM",
+        "Sunday: 1:00 – 9:00 PM"
+      ]
+    },
+    "dine_in": true,
+    "formatted_address": "Door A, Lim Building, Lacson, beside Paper Bowl, cor Cervantes St, Bo. Obrero, Davao City, 8000 Davao del Sur, Philippines",
+    "geometry": {
+      "location": { "lat": 7.087082700000001, "lng": 125.6148069 },
+      "viewport": {
+        "northeast": { "lat": 7.088479780291502, "lng": 125.6162197302915 },
+        "southwest": { "lat": 7.085781819708497, "lng": 125.6135217697085 }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Lerus Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "day": 0, "time": "2100" },
+          "open": { "day": 0, "time": "1300" }
+        },
+        {
+          "close": { "day": 2, "time": "2100" },
+          "open": { "day": 2, "time": "1300" }
+        },
+        {
+          "close": { "day": 3, "time": "2100" },
+          "open": { "day": 3, "time": "1300" }
+        },
+        {
+          "close": { "day": 4, "time": "2100" },
+          "open": { "day": 4, "time": "1300" }
+        },
+        {
+          "close": { "day": 5, "time": "2100" },
+          "open": { "day": 5, "time": "1300" }
+        },
+        {
+          "close": { "day": 6, "time": "2100" },
+          "open": { "day": 6, "time": "1300" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 1:00 – 9:00 PM",
+        "Wednesday: 1:00 – 9:00 PM",
+        "Thursday: 1:00 – 9:00 PM",
+        "Friday: 1:00 – 9:00 PM",
+        "Saturday: 1:00 – 9:00 PM",
+        "Sunday: 1:00 – 9:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106253178897512778411\">Kimberly Lariosa</a>"
+        ],
+        "photo_reference": "ATJ83zgabDhjCXOOwDj5gKO_6lunUODmpRO_q5azkTekIcEVkw0Sx7JqtDBspkmi-iZH6XsDiGH2g62l5toEqxRP_idk9tWYywtUiJlJUWOCwrLeIXbikBuR9AFrqQv1XpBUBmi7ealsw_Q6eFlg2DUfSEsME3PMGyPIwmevMjg7wAsrSSF-",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113552201219767037346\">Lerus Coffee</a>"
+        ],
+        "photo_reference": "ATJ83zi6P45zrQhkfxqA-Mxq3K9gH9f-gCpR9WylmOYXvI-lS8srynwKYXHeGJkQ0UY7B9RSsR9zsWq9WyXsxgQNj1T_pBMSrPtmvRpPLqd21A4sJx55nEBI_Zo-9V8pIA7MSHXOI2wFEm9K9WbCkntZnUeYnjcJWecuB-QhNA9CDObCHCPc",
+        "width": 1080
+      },
+      {
+        "height": 1800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106253178897512778411\">Kimberly Lariosa</a>"
+        ],
+        "photo_reference": "ATJ83zjN4rXFQTcjdYYqDLy16x7hGBRewLn3V3GZqBPjMsfUKerni314Fx0FQse2ET92Xr2acPqOAbdSEQBg7Y4uCC6afN33jfB42JfQVm0Kh5WpzugW_QJq984EHqMR5ZY7oc179DJN6aLw1ZHeCG5fdSF3mSgdr8HlOdMHsMPMYRbt1WvB",
+        "width": 1440
+      },
+      {
+        "height": 3249,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111911015431000875583\">dmmaknae</a>"
+        ],
+        "photo_reference": "ATJ83zhLKPTwdH1QRXt_kMGvUm-IdrGNwUjmtY8GAOg7oNQbegf2bzmY7YRIpLxZ2BfXgqMgCBmT8F2ES-zyeQnmxKE1esEKCjzAZPW2-BejBQBQF6Q1PrgjOzBZi0NuU0wDGyEl561TdzA0o9xI8N1SvsgdaBBLxmkISSKKpuPBuAL3QJE0",
+        "width": 2437
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110094944397295251287\">Vishnu Teja Reddy</a>"
+        ],
+        "photo_reference": "ATJ83zj-USFxVAGjMyzh0xD-T0X9UHgYDrOPRvOC0WKHqpdvaeXOa90E6zEC-NlQWkUjnWT5DdiRF6FY2_kKvsHYVWzIe2wKeAfnA52OBuZVHtbebYwwZnvH296CXtIqsYoVxsLykBzwGrM14Zss7zB4Vn5Cai7Y9kla_SeneJbDl-1nj2qd",
+        "width": 3024
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104841525586036226435\">Decevy Caballes</a>"
+        ],
+        "photo_reference": "ATJ83zjQvaJQFA4FLcOkKMLNnwKjtt7GKjBrEdEBxZfFqvvq5MCWFnVtlZCJXM8vjFb9BBAr8yTfzWRvn5tE7xE8BmIufdSUdLGMI427Bem9s4olhTbNvX3snEQpWdOiNHeaLICDJnwkG7bU2Du6PDM0KiHYvDPzA7q_cEt0Og6KGWIWb_NA",
+        "width": 4000
+      },
+      {
+        "height": 3769,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106253178897512778411\">Kimberly Lariosa</a>"
+        ],
+        "photo_reference": "ATJ83zgDdN3xyqJFtTFqYj7zk_wXbv9R5ktTHv4fMWwj6Gb5dVhESf56uEgYEUEu1r6ZY30MpfbMsCycIKqgyGzE9AGpCJ25-Jdcn9jTlUwLl6Yv1kVufvJIUCPk6oc6I2w4pKM_iNNJdLlohEs4apr3mtL9kz8ai-petSzGFFOD2KdlEPj-",
+        "width": 2827
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110094944397295251287\">Vishnu Teja Reddy</a>"
+        ],
+        "photo_reference": "ATJ83ziAYWhrETHxrgBOkeAo-skye-ZErodbc-zXeiBhpymG_zPWq5lSZoVPE4idCiUjMqaOcm1aqH63aSAn4ik5HzTTzd21-cz_zhITnIpGy52TNgSYfydykFpi3P3w7TxvmPfoVMWXI1Ej-ezGjZl_269ulC-DodvMqFzjqvoEkbBvI_Al",
+        "width": 4032
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111911015431000875583\">dmmaknae</a>"
+        ],
+        "photo_reference": "ATJ83ziSQ_Uw4UMB9CQsQoSgBS7k7zWmQSDWMwj3Rmq38BBzgXZ01_5Y5IhX6kGd-A5DZTtRI55yMzTAIQieRneNyno4JBxjrqbChyPklbMKYkxEJau8Qe1OkG_YZgTTMK95b97CokBoWafu7-_Gfh5x6bcEteK3YWDPKDHhm2lEfgXXzZLz",
+        "width": 3120
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110094944397295251287\">Vishnu Teja Reddy</a>"
+        ],
+        "photo_reference": "ATJ83zj0rIpbx-doInTbmCWyHX85_lBs5F-4UWwntNKYxlBVl9UyjcTE0EFdFL-xmuWSfbCCL7UwJOrQyXVKyTmn5L6ypmZggcIa2c_Qlli3iaOvqlal9AWIddksYSVO15RCCKplTcyQwcpB-c148e0s4BnEgojPyrDonf8D2nZJhP6sVWgl",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJFaWAC0dt-TIRwPEVYRzutiU",
+    "plus_code": {
+      "compound_code": "3JP7+RW Davao City, Davao del Sur, Philippines",
+      "global_code": "6QV73JP7+RW"
+    },
+    "rating": 4.6,
+    "reference": "ChIJFaWAC0dt-TIRwPEVYRzutiU",
+    "reviews": [
+      {
+        "author_name": "Herbert Bureros",
+        "author_url": "https://www.google.com/maps/contrib/115518207031769546262/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgP9k3Gt94bUlH06HFzLVx1cqoyBdLLWHFQB3rcub_nyo=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "I'm a big fan of matcha, and I've been on the hunt for a good ceremonial matcha in my area for a while. I finally found it at this small coffee shop near my house. If you're looking for a great place to get a ceremonial matcha, I highly recommend this coffee shop. You won't be disappointed!",
+        "time": 1694125012,
+        "translated": false
+      },
+      {
+        "author_name": "dmmaknae",
+        "author_url": "https://www.google.com/maps/contrib/111911015431000875583/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVIcwgT6wpeeFsZRy820qYGaaIKqgamDwuimNc6koA6ISg6=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Just checking out the newly opened coffee shop in Obrero neighborhood. Felt pleasantly comfy & cozy while sipping my Matcha Einspanner & munching their Cinnamon Croffle 😊",
+        "time": 1661990732,
+        "translated": false
+      },
+      {
+        "author_name": "Decevy Caballes",
+        "author_url": "https://www.google.com/maps/contrib/104841525586036226435/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV35F-aYrG48UVxoLKklbKkQSBJduIEhULqX8IwlqS7zEM=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Great food. Affordable. They have coffee and non-coffee options.",
+        "time": 1679619377,
+        "translated": false
+      },
+      {
+        "author_name": "Archeia Janelle Sumajit",
+        "author_url": "https://www.google.com/maps/contrib/107930858136270833025/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxFOkK3Pf9dboZgR0ui9Jz9MSbR_scS3hZsmCB4ZzR=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Good food, good people!",
+        "time": 1688469000,
+        "translated": false
+      },
+      {
+        "author_name": "Jaime Aldeguer",
+        "author_url": "https://www.google.com/maps/contrib/110767948323760765889/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWq-u7IQ0eARnMAxYbnKnsOUQZ0m13B_AozsI7-X3LNbQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "7 months ago",
+        "text": "It6all about coffee",
+        "time": 1675642339,
+        "translated": false
+      }
+    ],
+    "serves_brunch": true,
+    "takeout": true,
+    "types": ["cafe", "store", "food", "point_of_interest", "establishment"],
+    "url": "https://maps.google.com/?cid=2717621230819996096",
+    "user_ratings_total": 8,
+    "utc_offset": 480,
+    "vicinity": "beside Paper Bowl, Door A, Lim Building, Lacson, cor Cervantes Street, Bo. Obrero, Davao City"
+  },
+  "status": "OK"
+}

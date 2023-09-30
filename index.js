@@ -63,4 +63,4 @@ async function search(placeName) {
   searchElevation(location);
 }
 
-search("Hid'n Coffee");
+search("REVEL by Confex");

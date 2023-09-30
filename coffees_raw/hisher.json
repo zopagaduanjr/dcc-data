@@ -1,0 +1,308 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [
+      {
+        "long_name": "Unit 1 Upper Ground Floor",
+        "short_name": "Unit 1 Upper Ground Floor",
+        "types": ["subpremise"]
+      },
+      {
+        "long_name": "Azuela Cove",
+        "short_name": "Azuela Cove",
+        "types": ["point_of_interest", "establishment"]
+      },
+      {
+        "long_name": "G-Center",
+        "short_name": "G-Center",
+        "types": ["premise"]
+      },
+      {
+        "long_name": "Lanang",
+        "short_name": "Lanang",
+        "types": ["sublocality_level_1", "sublocality", "political"]
+      },
+      {
+        "long_name": "Davao City",
+        "short_name": "Davao City",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Davao del Sur",
+        "short_name": "Davao del Sur",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Davao Region",
+        "short_name": "Davao Region",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "Philippines",
+        "short_name": "PH",
+        "types": ["country", "political"]
+      },
+      { "long_name": "8000", "short_name": "8000", "types": ["postal_code"] }
+    ],
+    "adr_address": "Unit 1 Upper Ground Floor, Azuela Cove, G-Center, <span class=\"extended-address\">Lanang</span>, <span class=\"locality\">Davao City</span>, <span class=\"postal-code\">8000</span> <span class=\"region\">Davao del Sur</span>, <span class=\"country-name\">Philippines</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "date": "2023-10-01", "day": 0, "time": "2100" },
+          "open": { "date": "2023-10-01", "day": 0, "time": "1000" }
+        },
+        {
+          "close": { "date": "2023-10-02", "day": 1, "time": "2100" },
+          "open": { "date": "2023-10-02", "day": 1, "time": "1000" }
+        },
+        {
+          "close": { "date": "2023-10-03", "day": 2, "time": "2100" },
+          "open": { "date": "2023-10-03", "day": 2, "time": "1000" }
+        },
+        {
+          "close": { "date": "2023-10-04", "day": 3, "time": "2100" },
+          "open": { "date": "2023-10-04", "day": 3, "time": "1000" }
+        },
+        {
+          "close": { "date": "2023-10-05", "day": 4, "time": "2100" },
+          "open": { "date": "2023-10-05", "day": 4, "time": "1000" }
+        },
+        {
+          "close": { "date": "2023-10-06", "day": 5, "time": "2100" },
+          "open": { "date": "2023-10-06", "day": 5, "time": "1000" }
+        },
+        {
+          "close": { "date": "2023-09-30", "day": 6, "time": "2100" },
+          "open": { "date": "2023-09-30", "day": 6, "time": "1000" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 9:00 PM",
+        "Tuesday: 10:00 AM – 9:00 PM",
+        "Wednesday: 10:00 AM – 9:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 9:00 PM",
+        "Sunday: 10:00 AM – 9:00 PM"
+      ]
+    },
+    "dine_in": true,
+    "formatted_address": "Unit 1 Upper Ground Floor, Azuela Cove, G-Center, Lanang, Davao City, 8000 Davao del Sur, Philippines",
+    "geometry": {
+      "location": { "lat": 7.102906199999999, "lng": 125.6440543 },
+      "viewport": {
+        "northeast": { "lat": 7.104357430291501, "lng": 125.6455741802915 },
+        "southwest": { "lat": 7.101659469708497, "lng": 125.6428762197085 }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "HisHer by Purge Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "day": 0, "time": "2100" },
+          "open": { "day": 0, "time": "1000" }
+        },
+        {
+          "close": { "day": 1, "time": "2100" },
+          "open": { "day": 1, "time": "1000" }
+        },
+        {
+          "close": { "day": 2, "time": "2100" },
+          "open": { "day": 2, "time": "1000" }
+        },
+        {
+          "close": { "day": 3, "time": "2100" },
+          "open": { "day": 3, "time": "1000" }
+        },
+        {
+          "close": { "day": 4, "time": "2100" },
+          "open": { "day": 4, "time": "1000" }
+        },
+        {
+          "close": { "day": 5, "time": "2100" },
+          "open": { "day": 5, "time": "1000" }
+        },
+        {
+          "close": { "day": 6, "time": "2100" },
+          "open": { "day": 6, "time": "1000" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 9:00 PM",
+        "Tuesday: 10:00 AM – 9:00 PM",
+        "Wednesday: 10:00 AM – 9:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 9:00 PM",
+        "Sunday: 10:00 AM – 9:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104648330340861849784\">Art Uy</a>"
+        ],
+        "photo_reference": "ATJ83zhtajxZNABrTd8vDo7QIsUuP1-6Yse768B_LAc2zU0Wd0ieLpr_FM_dSJ3GyTlRWyDQBAebexsxvW-WPUzgidz8rN27wi-rPeuj0qJlwseWv1DIjLrMZXEOoH7tq7GpDClCiFD5wBCyl7rigAjbrUT_CUX7j7VZh_VD7yOOM3mS22Kx",
+        "width": 4000
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113259967465883692869\">Ban Kim</a>"
+        ],
+        "photo_reference": "ATJ83zjFxsRedMh2aq7bv1hJ70Y8AE77JfDGc6D0P51VupYBvGG4ylPO_sAOv-QdnybYKH2nnupran8OS2EdtBfJ2knpCkLfD8khTMu5tEynpTxugP48l3QatJJ42kr2H1yX8TP3oKDlYBNn4pb2TFKngWaIQyxGkoZlYhkAujMcN7DmITs",
+        "width": 4032
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104648330340861849784\">Art Uy</a>"
+        ],
+        "photo_reference": "ATJ83zh7SwJtItnGvUa8Ze_YT4CIBe5rvYoJv-jA4cx8q_RjrMaUddQ1aujPMfrnmF9MVJKGA4sWnUOf7q2bs4HvQscjIV9hbyu6_MJmC7zK64lft1Qqj6BWrqk82rW__Mvqm1LQfIsgOEs5TufzC2AuYsuIL0as26GmNgac3GiJvhCgXLq4",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104648330340861849784\">Art Uy</a>"
+        ],
+        "photo_reference": "ATJ83zidiuNo2BIy3dwDJjXZPvCLfIwQYgdYfvJjA5DNMxKQVEIU2v8fLUmsKDiV7dKJdburZ5AB4k3VjBVK-DOiL9OgxVv0frC_F76UQGiNRZNDeFr8RDiAING9Ctr6GP-9qpO3KgYBhrdEbdHIBMfKWPL0DEafFT1dy7Afm6rcycezi3j7",
+        "width": 3000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100708801946496347038\">Anjel Es</a>"
+        ],
+        "photo_reference": "ATJ83ziNCsR3TnCI4BYtnU5BG8o3WTgz345Pe_kDHAlpEvxxZWg7xh9zm1YSZ4cQMfVs57A_HoamoB1uFzty3jS1Mru4vafkeQ7ji2OIhR3CsvHuWZGJaab7PjMzLUuoaPEalWMnl19EsxCEqezOK3f72ypRZB0EdkN3e3NFlE2qXUCveQJh",
+        "width": 2268
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104648330340861849784\">Art Uy</a>"
+        ],
+        "photo_reference": "ATJ83zjCocFWtOP4a-wwdMEzqduuC7d1H3-fF2ojEmOh1pP2NefKL9Kny2E4cS4P1gOorNF_sSbViTpiQBRF-7SS1Q3BI0fjIApmoYuO9xwv4vDjjzI6eKmEgoSSYkUAIaWqwGljrfTW0pERtMvp1cjnROPCQHw-ZYSSPrB1VqNLxLl9rwsk",
+        "width": 4000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104648330340861849784\">Art Uy</a>"
+        ],
+        "photo_reference": "ATJ83zhRWa60ni6WiZn0P4xd1xggnSR6jQVGS_c69V5LwJ6RztTGWnXnlEss837OYK4wMvSZf7fgrVEga5SxLo-mqbbBk4FONwwcdvIFrh4Be-M9kkCODvDtfKrxfXPvAk6N6-Cpw-hvSNGDENJJJmvVc6QMdCT4fTBauQQ8genhUk-DvrvV",
+        "width": 3000
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104648330340861849784\">Art Uy</a>"
+        ],
+        "photo_reference": "ATJ83zidC02Wkq2u8QgdGu-OiYyTCeXog-wB1GCLCbwjEL-BljJ0zoJzCbLB3vZDBEyIQCltbjmup_M7EmuvFeFf2LRdN5-f5n0_dHsxfi9FSLVX-0eEtobnDkMsiJc39J5W1i5hogstqHDoXDK2qAmv9E8yqjaRs7nek5bqqqj3BG4fHEFA",
+        "width": 4000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109261473883905458619\">Miguel Ramirez</a>"
+        ],
+        "photo_reference": "ATJ83zg0Ys5ZARnJ38i2N_eya2VpWytYazUuPBsrdUxo7Qn8jHyblEB5gwJSb5ej0eaY-EAzSdnB_2Uxhwn06oyF0fmb2NYKyiu_7A7n0HOFF5MVZF6lGIH1ArxMcKRrkNhqhEOeNXLNq_sguMO4m9t1Spc7x0lRWDDp5WtPD8uD7h6gJQXE",
+        "width": 3000
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100708801946496347038\">Anjel Es</a>"
+        ],
+        "photo_reference": "ATJ83zjDP-bc_RY80P19Enkubvs5mg38o_cO-bl9EQnEbr-Qw8VrXIVtBOvFFbF00Q15dt58QED7vCWBtxVHIH2OG4GDTNm_2iG4otHx0jroELm8_tK_75DoTjxj0sRz5QxP0bo4MujT11IHWSixUFkmKLlpcOS9Zj7UH8uDFE8uG1_GQcRC",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJX5YsTdAX-TIRUQUhuD5B0Hw",
+    "plus_code": {
+      "compound_code": "4J3V+5J Davao City, Davao del Sur, Philippines",
+      "global_code": "6QV74J3V+5J"
+    },
+    "rating": 4.1,
+    "reference": "ChIJX5YsTdAX-TIRUQUhuD5B0Hw",
+    "reviews": [
+      {
+        "author_name": "Art Uy",
+        "author_url": "https://www.google.com/maps/contrib/104648330340861849784/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9O18MWy9Op9fAbVvpExkT-Ay7bXNxJmnd49wj4eKnEHk=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Our go-to coffee shop, now in Lanang area. Hurrah!\nAs usual, I can recommend White Peak and Iced Mocha (and Mocha Lava if you like your coffee with ice cream). I also recommend the Chicken Pesto Pasta. Enjoy!",
+        "time": 1675781629,
+        "translated": false
+      },
+      {
+        "author_name": "Anjel Es",
+        "author_url": "https://www.google.com/maps/contrib/100708801946496347038/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7Kx02Oec_JXkFsSIDJPceBirkVGsWfJm81_kxRKu2uJU=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Service is amazing! Small lang ang place but its okay. Have not tried their food maybe next time. Purge never dissappoints! 😍",
+        "time": 1678024069,
+        "translated": false
+      },
+      {
+        "author_name": "Ed Figueroa",
+        "author_url": "https://www.google.com/maps/contrib/105758877463583914545/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0MDehQAtYhjue-FCv9DkxZYFX_RZvQXKekeStqxOw8w=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "Coffee is average. Space is too small and cramped here. Baristas were friendly.",
+        "time": 1691275154,
+        "translated": false
+      },
+      {
+        "author_name": "Ban Kim",
+        "author_url": "https://www.google.com/maps/contrib/113259967465883692869/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwV8YvoW6f-qm7vYVP15fvbSy3FS59RnZZragzW6by8w=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "2 weeks ago",
+        "text": "Pasta was really good. Coffee was overpriced considering the taste",
+        "time": 1694669980,
+        "translated": false
+      },
+      {
+        "author_name": "Joyce Roxanne",
+        "author_url": "https://www.google.com/maps/contrib/118088835459880242981/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFJKPIJjZvhDKMRe5SgeHraemaxutc6CGR91-9RirPVPc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Great ambience. Perfect place to chill out and have coffee and cakes. The quality of the coffee beans is excellent.",
+        "time": 1674976519,
+        "translated": false
+      }
+    ],
+    "serves_breakfast": true,
+    "serves_brunch": true,
+    "takeout": true,
+    "types": ["cafe", "food", "store", "point_of_interest", "establishment"],
+    "url": "https://maps.google.com/?cid=8993760193491830097",
+    "user_ratings_total": 7,
+    "utc_offset": 480,
+    "vicinity": "Unit 1 Upper Ground Floor, Azuela Cove, G-Center, Lanang, Davao City"
+  },
+  "status": "OK"
+}
