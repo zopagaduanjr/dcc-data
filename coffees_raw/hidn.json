@@ -1,0 +1,305 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [
+      {
+        "long_name": "Palm Village",
+        "short_name": "Palm Village",
+        "types": ["premise"]
+      },
+      {
+        "long_name": "Nicasio Torres Street",
+        "short_name": "Nicasio Torres St",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Obrero",
+        "short_name": "Obrero",
+        "types": ["sublocality_level_1", "sublocality", "political"]
+      },
+      {
+        "long_name": "Davao City",
+        "short_name": "Davao City",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Davao del Sur",
+        "short_name": "Davao del Sur",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Davao Region",
+        "short_name": "Davao Region",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "Philippines",
+        "short_name": "PH",
+        "types": ["country", "political"]
+      },
+      { "long_name": "8000", "short_name": "8000", "types": ["postal_code"] }
+    ],
+    "adr_address": "Palm Village, <span class=\"street-address\">Nicasio Torres St</span>, <span class=\"extended-address\">Obrero</span>, <span class=\"locality\">Davao City</span>, <span class=\"postal-code\">8000</span> <span class=\"region\">Davao del Sur</span>, <span class=\"country-name\">Philippines</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "date": "2023-10-01", "day": 0, "time": "2100" },
+          "open": { "date": "2023-10-01", "day": 0, "time": "0600" }
+        },
+        {
+          "close": { "date": "2023-10-02", "day": 1, "time": "2100" },
+          "open": { "date": "2023-10-02", "day": 1, "time": "1300" }
+        },
+        {
+          "close": { "date": "2023-10-03", "day": 2, "time": "2100" },
+          "open": { "date": "2023-10-03", "day": 2, "time": "1300" }
+        },
+        {
+          "close": { "date": "2023-10-04", "day": 3, "time": "2100" },
+          "open": { "date": "2023-10-04", "day": 3, "time": "1300" }
+        },
+        {
+          "close": { "date": "2023-10-05", "day": 4, "time": "2100" },
+          "open": { "date": "2023-10-05", "day": 4, "time": "0600" }
+        },
+        {
+          "close": { "date": "2023-10-06", "day": 5, "time": "2100" },
+          "open": { "date": "2023-10-06", "day": 5, "time": "0600" }
+        },
+        {
+          "close": { "date": "2023-09-30", "day": 6, "time": "2100" },
+          "open": { "date": "2023-09-30", "day": 6, "time": "0600" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 1:00 – 9:00 PM",
+        "Tuesday: 1:00 – 9:00 PM",
+        "Wednesday: 1:00 – 9:00 PM",
+        "Thursday: 6:00 AM – 9:00 PM",
+        "Friday: 6:00 AM – 9:00 PM",
+        "Saturday: 6:00 AM – 9:00 PM",
+        "Sunday: 6:00 AM – 9:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "Palm Village, Nicasio Torres St, Obrero, Davao City, 8000 Davao del Sur, Philippines",
+    "geometry": {
+      "location": { "lat": 7.090085600000001, "lng": 125.6146544 },
+      "viewport": {
+        "northeast": { "lat": 7.091424080291503, "lng": 125.6159796802915 },
+        "southwest": { "lat": 7.088726119708499, "lng": 125.6132817197085 }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Hid'n Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "day": 0, "time": "2100" },
+          "open": { "day": 0, "time": "0600" }
+        },
+        {
+          "close": { "day": 1, "time": "2100" },
+          "open": { "day": 1, "time": "1300" }
+        },
+        {
+          "close": { "day": 2, "time": "2100" },
+          "open": { "day": 2, "time": "1300" }
+        },
+        {
+          "close": { "day": 3, "time": "2100" },
+          "open": { "day": 3, "time": "1300" }
+        },
+        {
+          "close": { "day": 4, "time": "2100" },
+          "open": { "day": 4, "time": "0600" }
+        },
+        {
+          "close": { "day": 5, "time": "2100" },
+          "open": { "day": 5, "time": "0600" }
+        },
+        {
+          "close": { "day": 6, "time": "2100" },
+          "open": { "day": 6, "time": "0600" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 1:00 – 9:00 PM",
+        "Tuesday: 1:00 – 9:00 PM",
+        "Wednesday: 1:00 – 9:00 PM",
+        "Thursday: 6:00 AM – 9:00 PM",
+        "Friday: 6:00 AM – 9:00 PM",
+        "Saturday: 6:00 AM – 9:00 PM",
+        "Sunday: 6:00 AM – 9:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102537057055851732067\">TheWildLifeAU Wayne</a>"
+        ],
+        "photo_reference": "ATJ83zgxLVLwU7UBmvBMsYOQ5W0nrhTX4O3qYx0H0FphfLayi6M6zyJxP6bAebNtH0xu48G_uSzxjU7fBSYA5qwj48p0eNMHFBm-Gg_CKVb75QDZ3p7yppTDSQ99heaiOlnrpBg22LFi-ui-pOocIVvtWhgfPf3Fke90n7dYLYtEHFnvHm-h",
+        "width": 4608
+      },
+      {
+        "height": 2624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105218262602865414864\">Hid&#39;n Coffee</a>"
+        ],
+        "photo_reference": "ATJ83zixQF7tA3osxeW5UVqfzxThEe3gNnbuEo3egpur1svMkQf1qf_DYPO8FCAna_9XF8T6ATP9u5s55n_R_81xKA1JUqC0yPf3WXHSOc2HYi2p3pdVLSZvQBcO9EemV39qQvPFx7APw09mGmGYvFDKAcqy9G65rsltioVsHXksypo_seND",
+        "width": 1968
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115243457880422264946\">Farrah Garcia</a>"
+        ],
+        "photo_reference": "ATJ83zi3_EXZBKl0pMcEgzRnFdaOb4dzwwsx_MBlIM0QC_1K-ZUT2b9WoF08HMI6Y7jELvTyk0JfcqowrcH7Lclv5ellvTMYUM4gOJxUQGBii-FtWMcdY4LFk93sDgXwUFKQEoSdxYThWRfUPjTmzKbglWKi15AGfct5ZypUTiDE-TNtuNi-",
+        "width": 3024
+      },
+      {
+        "height": 2553,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105218262602865414864\">Hid&#39;n Coffee</a>"
+        ],
+        "photo_reference": "ATJ83zicxs3CHxXyoNL79g8D6uGg9MZxWOHkK9H_k6v8APUGItbvv2UPmnJu2jJ2p2X9VOnBfIfJUkqLAq_Oq8M87SorivmPRt3g0sLfqN3j9YArH6g1tJ72hjsIPzLYF66ec4C8eYQyNRqBmnYh9XNcARwtl7tSNKEK_8pm6bSbtQoFWVTw",
+        "width": 2553
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115243457880422264946\">Farrah Garcia</a>"
+        ],
+        "photo_reference": "ATJ83zh-t0TDo0CaW5hiZhhwryIEoqXxwwM5SNos0JdMkW9UljKRQIPU1gmlNePhOxJqzp1iuRtWFWvf6t5SyG4leElO3iSjfwoTWfusBzOs_cnhyUOZPaDxUWTqDmyXYIf0w7iGa3PLWW-UIkWM09Y8IqGHtsJqkXAANGLJdl2ap58uj9gi",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110094944397295251287\">Vishnu Teja Reddy</a>"
+        ],
+        "photo_reference": "ATJ83zgMqk3OYFELUIELLlPRNsyzAeJb1L6uacoX89KjL66lMZrhmR05x3pYM8llrHoL1CcA2ZLk9-GmphUa5rcvyMKbYpId1cFv9bQDKZwNizDmcS3HMArcRDnSLiN209Suif__BA8ZBQOCtrm5jFgITQpHfVGodchyuvRxulcw-Znen5sr",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115243457880422264946\">Farrah Garcia</a>"
+        ],
+        "photo_reference": "ATJ83zgAImOnxqbkNqLQeOpxLd3XwvP0J20lTs5SPjtAcCPMu3EN6Ij0HbYnmGpnVwE1VTnkmBXq42IHAjFYItzAT9et-4rvDFwZ6TirmiiwuPPvgnQBDEdfeCRLOKtYrNrVz1I74AiBMYlL92oP8fYEK19CAK3pCbFxhovdWmcYOs2amh4T",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106292956720406774507\">Sarah Dayrit</a>"
+        ],
+        "photo_reference": "ATJ83zheiI7JoYlP5s1wTMgU-27fZFS0SAV1wDsxJx0SOkevRnmZqTS9sn5sOAFXBHVDDatAPg5ver7JWQ8ZW9a8VHavZxjADU-AsPI5UoIwVqiL2Fwr-U11iPIi2Ok6JR0pCgz_U2mrjaK0-NSeJy7jWeDY--65o6UTT5H86YnLGigRSOBE",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103626190822272207593\">Abigail Cordero</a>"
+        ],
+        "photo_reference": "ATJ83ziukJmDB5nAUTa8tu4NALKIkC62jIgDuf-QDSlPdlA1iy9MwJDdn_1NWEPX-0Ts7l3rjliHQBR05dopDGYjb-SzYy4zN_xaUEypVsY7s9Qyjuuuv0hp3bD2xoBBYG_ZLcl-_Gwasx5_nV3weHqGfyV0yiZ7j9dsib568LwzdIaMawPd",
+        "width": 4032
+      },
+      {
+        "height": 2922,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111911015431000875583\">dmmaknae</a>"
+        ],
+        "photo_reference": "ATJ83zhkBf71VDEGTWiwZC-30oTYbqszrw8S6H7KldxhAmJAl4tpIaNALbkbFmR9S2SA1B-iYLPzXkkU1iQDgw4g5lMbhhraDkKJsvaduul8kXaJZwTIcSSbP4lGbuIwFdBRPVXl3buhwsIRYKzadAA-C4zuRuw6EOBpa6IxZxEznSHnBbHO",
+        "width": 2922
+      }
+    ],
+    "place_id": "ChIJwZI84Q1t-TIRrTNN-j2cWjA",
+    "plus_code": {
+      "compound_code": "3JR7+2V Davao City, Davao del Sur, Philippines",
+      "global_code": "6QV73JR7+2V"
+    },
+    "rating": 4.7,
+    "reference": "ChIJwZI84Q1t-TIRrTNN-j2cWjA",
+    "reviews": [
+      {
+        "author_name": "Farrah Garcia",
+        "author_url": "https://www.google.com/maps/contrib/115243457880422264946/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYVZK2085TM7vcCofJeAENg5_8AaGuuCyXNZ9wEh3x2Yg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "The first time I visited, I brought my grandma, mom and aunts and they all enjoyed it.\n\nLoved the garden feels, though others might find it hot or difficult to eat cause of the low table (though they provide a high tray naman)🪴\n\nGreat coffee from Hid’n ☕️ + great breakfast from Before Weekend. 🥞\n\nWhat more can you ask for?\n\nWill be back for sure!",
+        "time": 1694000482,
+        "translated": false
+      },
+      {
+        "author_name": "Wander Philippines",
+        "author_url": "https://www.google.com/maps/contrib/107593607223541445846/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDGRA3SOLPCHa1Ip_rLRADBvqfNZbf2EaiGXLh0HkYJws=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "in the last week",
+        "text": "Nestled quitely along the busy street of N. Torres is the  @hidncoffeedvo 🍵\n\nA trendy coffeeshop with its food truck concept, the place offers a cozy setting for meet ups and bonding time with loved ones.\n\nI ordered a calming Matcha Latte, safe to say it was really good.\n\nWe dropped by around 7pm-ish on a Friday night, a bit disappointed that all their pasta, sandwich, and cookies were sold out...must be that good. 😋\n\n📍Palm Village, Nicasio Torres St, Obrero, Davao City\n🔆 Opens at 6am, closes at 9pm.\n☕️ A regular Matcha Latte and Cappuccino costs P250 in total.",
+        "time": 1695524691,
+        "translated": false
+      },
+      {
+        "author_name": "Sarah Dayrit",
+        "author_url": "https://www.google.com/maps/contrib/106292956720406774507/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXozWuvD1dX7wzRWdKEqMo8noNKQkFRftraa2nmoQIIbg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Visited this place x number of times and I love love how the mood changes throughout the day. I mean, thanks Mother Earth!\n\nOrder your favorite coffee and matcha, you wont regret it! :) Free parking, good drinks, cashless payment option, clean CR",
+        "time": 1684745021,
+        "translated": false
+      },
+      {
+        "author_name": "Sarah Dayrit",
+        "author_url": "https://www.google.com/maps/contrib/101985576053367294160/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWPKm0qbRqVez53NqXEcUcGlCSmxZE3RHPbT9xxIbrkX_Q=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "One of Davao’s go-to for coffee. While people go gaga about Spanish Latte, I’d recommend their Iced Americano 👌🏼\n\nThey also have non-coffee options: Pink Milk, Milo Dino, and House Iced Tea.",
+        "time": 1684744722,
+        "translated": false
+      },
+      {
+        "author_name": "Kaye G",
+        "author_url": "https://www.google.com/maps/contrib/100831926097570590309/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJNqmfqmHpIBVvzvOeyicP_DEQWTRYVzhFViZ5MwXuTiA=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "6 months ago",
+        "text": "The place is great! Very refreshing mahangin and alot of greens to see. Plus the ice caramel is soo good. Recommended talaga! We ordered the filipino platter as well masarap din naman. I only gave 4 stars since medyo mainit na sya when wen there around 730 am. So we hope to have more protection sa sun hehe. But overall very nice place!!",
+        "time": 1678586412,
+        "translated": false
+      }
+    ],
+    "serves_beer": false,
+    "serves_breakfast": true,
+    "serves_brunch": true,
+    "serves_wine": false,
+    "takeout": true,
+    "types": ["cafe", "store", "food", "point_of_interest", "establishment"],
+    "url": "https://maps.google.com/?cid=3484269051730801581",
+    "user_ratings_total": 42,
+    "utc_offset": 480,
+    "vicinity": "Palm Village, Nicasio Torres Street, Obrero, Davao City"
+  },
+  "status": "OK"
+}

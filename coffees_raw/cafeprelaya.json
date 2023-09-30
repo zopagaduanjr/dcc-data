@@ -1,0 +1,298 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [
+      {
+        "long_name": "Sputnik Street",
+        "short_name": "Sputnik St",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Poblacion District",
+        "short_name": "Poblacion District",
+        "types": ["sublocality_level_1", "sublocality", "political"]
+      },
+      {
+        "long_name": "Davao City",
+        "short_name": "Davao City",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Davao del Sur",
+        "short_name": "Davao del Sur",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Davao Region",
+        "short_name": "Davao Region",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "Philippines",
+        "short_name": "PH",
+        "types": ["country", "political"]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">Sputnik St</span>, <span class=\"extended-address\">Poblacion District</span>, <span class=\"locality\">Davao City</span>, <span class=\"region\">Davao del Sur</span>, <span class=\"country-name\">Philippines</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "date": "2023-10-01", "day": 0, "time": "2200" },
+          "open": { "date": "2023-10-01", "day": 0, "time": "1200" }
+        },
+        {
+          "close": { "date": "2023-10-02", "day": 1, "time": "2200" },
+          "open": { "date": "2023-10-02", "day": 1, "time": "1200" }
+        },
+        {
+          "close": { "date": "2023-10-03", "day": 2, "time": "2200" },
+          "open": { "date": "2023-10-03", "day": 2, "time": "1200" }
+        },
+        {
+          "close": { "date": "2023-10-04", "day": 3, "time": "2200" },
+          "open": { "date": "2023-10-04", "day": 3, "time": "1200" }
+        },
+        {
+          "close": { "date": "2023-10-05", "day": 4, "time": "2200" },
+          "open": { "date": "2023-10-05", "day": 4, "time": "1200" }
+        },
+        {
+          "close": { "date": "2023-10-06", "day": 5, "time": "2200" },
+          "open": { "date": "2023-10-06", "day": 5, "time": "1200" }
+        },
+        {
+          "close": { "date": "2023-09-30", "day": 6, "time": "2200" },
+          "open": { "date": "2023-09-30", "day": 6, "time": "1200" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 – 10:00 PM",
+        "Tuesday: 12:00 – 10:00 PM",
+        "Wednesday: 12:00 – 10:00 PM",
+        "Thursday: 12:00 – 10:00 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 10:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "Sputnik St, Poblacion District, Davao City, Davao del Sur, Philippines",
+    "geometry": {
+      "location": { "lat": 7.081040299999999, "lng": 125.6076352 },
+      "viewport": {
+        "northeast": { "lat": 7.082423880291502, "lng": 125.6089569802915 },
+        "southwest": { "lat": 7.079725919708498, "lng": 125.6062590197085 }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Cafe Prelaya by The Joaquins’ Cheesecakes",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "day": 0, "time": "2200" },
+          "open": { "day": 0, "time": "1200" }
+        },
+        {
+          "close": { "day": 1, "time": "2200" },
+          "open": { "day": 1, "time": "1200" }
+        },
+        {
+          "close": { "day": 2, "time": "2200" },
+          "open": { "day": 2, "time": "1200" }
+        },
+        {
+          "close": { "day": 3, "time": "2200" },
+          "open": { "day": 3, "time": "1200" }
+        },
+        {
+          "close": { "day": 4, "time": "2200" },
+          "open": { "day": 4, "time": "1200" }
+        },
+        {
+          "close": { "day": 5, "time": "2200" },
+          "open": { "day": 5, "time": "1200" }
+        },
+        {
+          "close": { "day": 6, "time": "2200" },
+          "open": { "day": 6, "time": "1200" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 – 10:00 PM",
+        "Tuesday: 12:00 – 10:00 PM",
+        "Wednesday: 12:00 – 10:00 PM",
+        "Thursday: 12:00 – 10:00 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 10:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105340483083137473430\">Maria Raeshiel Regalado</a>"
+        ],
+        "photo_reference": "ATJ83zjWll2bw7oJ-EaV0RPTFdAf8n5Nf0IICc6dMwiHBEgF7n5PlmcDTF1uEiq76dakfYZGn6e3JVURcCuJu6uUwQqUsOhyyQnAsGG_aCttlpPMh0C1lWRy2_MM1oE-8SnDolsiC-rwwcmBxHWvKYhrnw3LP8T9y6mxzyqim61WoDqtnPag",
+        "width": 4032
+      },
+      {
+        "height": 1800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106972339070743016629\">Cafe Prelaya by The Joaquins’ Cheesecakes</a>"
+        ],
+        "photo_reference": "ATJ83zgpNvfV_yJXTZuUrUY1jC1c9OwDMQaNInv0CDQVBFzMBzf0-9qDNbAhxMldgf3uufiAJk307fP9WyXo6sHWHz5KKAeJe4vobnZdLNjLkEHJB2pfhbSE3XLy2U5KnuCeYnBm0-PsrANSNvefc8_13O9Exfo-DvB6q_2lVg4QkOMpSjS3",
+        "width": 1440
+      },
+      {
+        "height": 2609,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100732482169328037607\">Jo Rena Inding</a>"
+        ],
+        "photo_reference": "ATJ83zhxNBVKG9oqdKkw9_iJXTbwYbs2K7uTm8GMdV1tTAiKG6KrgeO5Xb7WcE04PnA4hDulq2Iv8-2g2aLGuGiiAF0y2S9cSyOeUkinlCFHFE923L7yx_ztNQu2dGr0gJddJlYSVXlQumL80uNyqH3zfiBo2rl81TIQqOzrRTpQgDUnFE4j",
+        "width": 2609
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105340483083137473430\">Maria Raeshiel Regalado</a>"
+        ],
+        "photo_reference": "ATJ83zi1sgNu5NwHzYj6VaOcP1ZM7NvNsxl0lKQ_R45Lk-1G672gg2fGtJyld6OcZTfoLv_lY9N4fa9meFZj4_YSkyO6GmIy5Iic7fr4i7hlmvCGxwlGNifP5Hat9TlS74OzcQdFuqXeypGDt74Y44pPs0HQ0ya9XWQeA5RRoV3Toyodep4z",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110094944397295251287\">Vishnu Teja Reddy</a>"
+        ],
+        "photo_reference": "ATJ83ziztd5GEASW__bUzKTTQRePBj4F75Op0C6bv1t2lVl-AQQmJ_l1lTs7osmwzU_s0yTGf2CXpMg7dwf3SwdmfpZLZy5IWW4BSNfe2mOF11-MWWHfG2-DcS-_0M94w7_DpCzOVKdnbQzO5_ikXeRAAMA211TCJdpuNSufuhfgMXeKr-aU",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104457421599308990038\">Mr. Manager</a>"
+        ],
+        "photo_reference": "ATJ83ziEjV8p5bnsCOFhRG62N3ItLmP50yPhiTHDi7S2N77dk_veisIGiGPUVfQ2Ty01UgINJCfin6TT6pr0QT5mp1qchVMeV9qw5Py_uLwkwrr0K99ucXH8fGx3AB1iXQI928S2QG-288UHAhFbCEyJpd_lsBoZVH6csdyUcS-qKiI5Knt2",
+        "width": 4032
+      },
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104325610246987106420\">Rowena Vibar</a>"
+        ],
+        "photo_reference": "ATJ83zjYZBPCTyjdOCtCl798kTP0SxUAkzlLseKnQKJ0fPDE9luuTcazPeBG9uTu2unJqPyrv_XTp1I6mWTo7HCPmh94Zl7WuDSrD1P-DDBeVW4_P5bwt-y4V5-ewxRQJN1Mxig3e9yDRLT45UFUXRuMCYMrQr4xlOurxqbp8TVfWxvLGVhj",
+        "width": 3472
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107890533395684940969\">Arianne Albit</a>"
+        ],
+        "photo_reference": "ATJ83zhgKcZ1sJlkj7Gv6MWM7Ex041lB9mG0TD35ymju1nuutpIIoUg7rh_tfQ4nk8OwE0ZX-B9WJSbuftIrA5g8NTN_7hZRzBeqAtO0xXvcEiqyA7qSdM_fSO4RKpDQMLuy_xMhiHyJSdY-Rx7dn4TEt7AUKOfFzI2fwvL5kr8XmnBv2Axm",
+        "width": 3024
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102834710774091826164\">Marion Delos Santos-Palabrica</a>"
+        ],
+        "photo_reference": "ATJ83zjlVpMB1J816en3LOoZuZYiCVHnpHAGovDeXYVnHmOu-1Yv20s1qFjwiMrW--wMUOzyIq-IDjk_nnI77lo14br-aEWLRLTtJELVUYcF6C0DgtQm84pifvstOJEhD5KdF5kCXZneHLoWUH_hAfkAk7nyEtPizrT5pSpHpSfUuXRNjwVf",
+        "width": 3000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104457421599308990038\">Mr. Manager</a>"
+        ],
+        "photo_reference": "ATJ83zithJJVxFv_v5njaGuysNgLY_bFjWXIrBbZmPJIJtCM41jEZvr5qz_AHNNNHZc9BzQJaDqGahvRtt5nRRVk70g_XtmHyAERC7_U8QhyjeHyQedukQLfuqbX0d3YHDB6daxwSMXiNd-MLReo0LelZaREuaSIyMH-QY-EoEDymcLQFbJj",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJp5L8L_dt-TIRpwXEu1d1uUc",
+    "plus_code": {
+      "compound_code": "3JJ5+C3 Davao City, Davao del Sur, Philippines",
+      "global_code": "6QV73JJ5+C3"
+    },
+    "rating": 4.7,
+    "reference": "ChIJp5L8L_dt-TIRpwXEu1d1uUc",
+    "reviews": [
+      {
+        "author_name": "Aubert Ebero",
+        "author_url": "https://www.google.com/maps/contrib/117159691884943294410/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUuQsT5wYEFzyT70bQHaHKBsjJTDKIwEwX7_CCQe1bhJn4=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "4 months ago",
+        "text": "The atmosphere was pleasant. The staff were so friendly and helpful. Contrary to the info that received regarding the being owner so strict.\n\nIt is a good place to spend time with friends or  loosen up with a sip of coffee.\n\nDuring our visit, it drizzled and the staff were quick to assist us in transferring inside and helped us carry our things",
+        "time": 1683733267,
+        "translated": false
+      },
+      {
+        "author_name": "Rowena Vibar",
+        "author_url": "https://www.google.com/maps/contrib/104325610246987106420/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlqzXOrONiNV4cpfGh-ZRST8xqqhZnfPuJsLCWu6AFsg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Great for chilling and relaxation. Good food esp the cheese cakes and good vibes..",
+        "time": 1693309658,
+        "translated": false
+      },
+      {
+        "author_name": "Adrian Mantilla",
+        "author_url": "https://www.google.com/maps/contrib/109884025059493694958/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWp7OplBXM6YeN95q8BDCOUKSmpre0W0Ec9-SlA2ENMn14=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I’m not really into cheesecakes but their cheesecake makes an exception. I love that they are not that sweet and the variant with the roasted pecan topping is divine. Their caffeinated drinks are also not that sweet and goes well with the cheesecake. Easily a recommended cafe in Davao City.",
+        "time": 1662049929,
+        "translated": false
+      },
+      {
+        "author_name": "Marion Delos Santos-Palabrica",
+        "author_url": "https://www.google.com/maps/contrib/102834710774091826164/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKHFxQBYLwTeZz-Nq8HynNVyl9TZyuVDTwjhLylmUenJEk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "The hibiscus espresso tonic was so good 🥰 ambiance was windy too",
+        "time": 1686892748,
+        "translated": false
+      },
+      {
+        "author_name": "Jan Kyle Dismas (Kyle)",
+        "author_url": "https://www.google.com/maps/contrib/106803464113083628834/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMdI72f0g7zAtJuAa5clQwte91p1p3ENedcD-8cPv3sJzZ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "The place looks incredible, i went here with my family to try out their coffee and desserts, me and my family liked it so much. I suggest you go here at night or at dawn.",
+        "time": 1666192975,
+        "translated": false
+      }
+    ],
+    "serves_beer": false,
+    "serves_wine": false,
+    "takeout": true,
+    "types": ["cafe", "store", "food", "point_of_interest", "establishment"],
+    "url": "https://maps.google.com/?cid=5168291067057145255",
+    "user_ratings_total": 41,
+    "utc_offset": 480,
+    "vicinity": "Sputnik Street, Poblacion District, Davao City"
+  },
+  "status": "OK"
+}

@@ -1,0 +1,303 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [
+      { "long_name": "20E", "short_name": "20E", "types": ["street_number"] },
+      {
+        "long_name": "Teodoro Palma Gil Street",
+        "short_name": "Teodoro Palma Gil St",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Poblacion District",
+        "short_name": "Poblacion District",
+        "types": ["sublocality_level_1", "sublocality", "political"]
+      },
+      {
+        "long_name": "Davao City",
+        "short_name": "Davao City",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Davao del Sur",
+        "short_name": "Davao del Sur",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Davao Region",
+        "short_name": "Davao Region",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "Philippines",
+        "short_name": "PH",
+        "types": ["country", "political"]
+      },
+      { "long_name": "8000", "short_name": "8000", "types": ["postal_code"] }
+    ],
+    "adr_address": "<span class=\"street-address\">20E Teodoro Palma Gil St</span>, <span class=\"extended-address\">Poblacion District</span>, <span class=\"locality\">Davao City</span>, <span class=\"postal-code\">8000</span> <span class=\"region\">Davao del Sur</span>, <span class=\"country-name\">Philippines</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": true,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "date": "2023-10-01", "day": 0, "time": "2030" },
+          "open": { "date": "2023-10-01", "day": 0, "time": "0930" }
+        },
+        {
+          "close": { "date": "2023-10-02", "day": 1, "time": "2030" },
+          "open": { "date": "2023-10-02", "day": 1, "time": "1030" }
+        },
+        {
+          "close": { "date": "2023-10-03", "day": 2, "time": "2030" },
+          "open": { "date": "2023-10-03", "day": 2, "time": "1030" }
+        },
+        {
+          "close": { "date": "2023-10-04", "day": 3, "time": "2030" },
+          "open": { "date": "2023-10-04", "day": 3, "time": "1030" }
+        },
+        {
+          "close": { "date": "2023-10-05", "day": 4, "time": "2030" },
+          "open": { "date": "2023-10-05", "day": 4, "time": "1030" }
+        },
+        {
+          "close": { "date": "2023-10-06", "day": 5, "time": "2130" },
+          "open": { "date": "2023-10-06", "day": 5, "time": "1030" }
+        },
+        {
+          "close": { "date": "2023-09-30", "day": 6, "time": "2130" },
+          "open": { "date": "2023-09-30", "day": 6, "time": "0930" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:30 AM – 8:30 PM",
+        "Tuesday: 10:30 AM – 8:30 PM",
+        "Wednesday: 10:30 AM – 8:30 PM",
+        "Thursday: 10:30 AM – 8:30 PM",
+        "Friday: 10:30 AM – 9:30 PM",
+        "Saturday: 9:30 AM – 9:30 PM",
+        "Sunday: 9:30 AM – 8:30 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "20E Teodoro Palma Gil St, Poblacion District, Davao City, 8000 Davao del Sur, Philippines",
+    "formatted_phone_number": "0920 431 2287",
+    "geometry": {
+      "location": { "lat": 7.081566699999999, "lng": 125.6142682 },
+      "viewport": {
+        "northeast": { "lat": 7.083022180291501, "lng": 125.6155615302915 },
+        "southwest": { "lat": 7.080324219708496, "lng": 125.6128635697085 }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "international_phone_number": "+63 920 431 2287",
+    "name": "Balay Juice & Coffee Co.",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "day": 0, "time": "2030" },
+          "open": { "day": 0, "time": "0930" }
+        },
+        {
+          "close": { "day": 1, "time": "2030" },
+          "open": { "day": 1, "time": "1030" }
+        },
+        {
+          "close": { "day": 2, "time": "2030" },
+          "open": { "day": 2, "time": "1030" }
+        },
+        {
+          "close": { "day": 3, "time": "2030" },
+          "open": { "day": 3, "time": "1030" }
+        },
+        {
+          "close": { "day": 4, "time": "2030" },
+          "open": { "day": 4, "time": "1030" }
+        },
+        {
+          "close": { "day": 5, "time": "2130" },
+          "open": { "day": 5, "time": "1030" }
+        },
+        {
+          "close": { "day": 6, "time": "2130" },
+          "open": { "day": 6, "time": "0930" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:30 AM – 8:30 PM",
+        "Tuesday: 10:30 AM – 8:30 PM",
+        "Wednesday: 10:30 AM – 8:30 PM",
+        "Thursday: 10:30 AM – 8:30 PM",
+        "Friday: 10:30 AM – 9:30 PM",
+        "Saturday: 9:30 AM – 9:30 PM",
+        "Sunday: 9:30 AM – 8:30 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1307,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108208821790297745756\">Balay Juice &amp; Coffee Co.</a>"
+        ],
+        "photo_reference": "ATJ83zjS27_kfYd7p-7aQUdUJw5ZklewjCo-vAQLT3eoidUXOS2G7T2y3mihEQ7_U8Jj94QoORex0SAo6_dmLMhjt9NONEQZkBSa9rxW3vwszJro-vNTzumMeQIruhLS0g1SEjlUbU5BWRIGGVZ5U_shBKGIeCnZyNpJWoNGh7v-Vc14Vu52",
+        "width": 1961
+      },
+      {
+        "height": 2008,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108208821790297745756\">Balay Juice &amp; Coffee Co.</a>"
+        ],
+        "photo_reference": "ATJ83zhvmlGw5UNNXmb84KXSNsgRsjqsXQYmhsGJWRNQ2381-Ajb4jv-nb---_eDX7Ymzao0oIK753hf90m_XxMHIj-TG2tbcxOKRfyyNo8b0jel-MCaOEKGqGcJGa_EiLz6T_28_HWtNOazPM6jIJewZrbqJEcGF8pDwt-OxFy4xu_Z9uk9",
+        "width": 1339
+      },
+      {
+        "height": 1094,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108208821790297745756\">Balay Juice &amp; Coffee Co.</a>"
+        ],
+        "photo_reference": "ATJ83ziE3ulmrXxeXuouFlW78J7ijEKynBXjp76WOoztWFOuzlsgJ-m-uWcbGmeESwebpVdU1gvy5f0TjBEkyvDmiALLpZhrTaTeVj5zEn3Slgqrv-CDeaxsRoqXse905W8pzn0DUDIuB85a9Adb7JHbRluGCXqBn5ORvWAwRM4BT5JqzX3o",
+        "width": 1944
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110112391219222774485\">Ren Tidalgo</a>"
+        ],
+        "photo_reference": "ATJ83zhqtASqx5UhtH9dq3VRgbG_nCYhJLgsDH5vzsE8rQN-KoZCJVtLXS0xc-3q6hSI5bdQd0YBa1MOH9KaZqjdn15FaX-qsJBiJ61ShbZAe6Eh8dcdFfEk96OxDyxhzfAeHxMpqeRFaCx5N5bb2ZXvBZzEhuZjjLUY5A7wYqVBOlbElSg3",
+        "width": 2992
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110094944397295251287\">Vishnu Teja Reddy</a>"
+        ],
+        "photo_reference": "ATJ83zhP1mp28ncOsGR-wuIryJJbNkLA2gtpn1nLQjfUugYf52Ni8UxR3RkhcbzD1mHMytDXC5dkQmUxvjetmkNyYNe7-JMi4evjQrjJ4t3ANd_ENO_BGGurYGbC-yHgKy-v1uncfupU7sz3P7vhC9K3Ftc5kI1o-Qo_bU0QN8BgWPxto1pF",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108208821790297745756\">Balay Juice &amp; Coffee Co.</a>"
+        ],
+        "photo_reference": "ATJ83zjXdei1EjLJANCgbGJb1UU4M33BUevuADHQK_Rm_TOgmzY8H_0FHlMWqitBg8z02ANtj5ZIvbtOdewEpcYZpY6wd-smViBqnevh1BIWUNAJbh7cKhl6FzPgS_iTTnZXRRRAqdto_9Ld3XNktY5YlQwXWTHXtc3ejnggPrD2stzYbIta",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108208821790297745756\">Balay Juice &amp; Coffee Co.</a>"
+        ],
+        "photo_reference": "ATJ83zi-jAg5GUiJq1YI1YnZd2R9VhU2ZEFH5E-rGcwtV6shzgqrB2PwyhX3ZFg-pKaoAwqNgCJDRjMGgwhlvLE1vyUl9cM4_eXKyZc62UVe5F2ll5-WKANZXjCeXyE8xZK01m0NTqJP8HbYdWHv1Bdr1M1hfMPSl7d6H_zV4QzQuH7hX4iA",
+        "width": 4032
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108208821790297745756\">Balay Juice &amp; Coffee Co.</a>"
+        ],
+        "photo_reference": "ATJ83zjs2gLclTQOhdfUTISvygPpR5S6iFbxJ3ORZLDuZtdFp7WpyPRx15bt7X-2OS1LaMvsEK_0huglTxg_4tf2aomRHGJmIF-ZamYaEiQo_mYp9UoZ-xyJvNOFE3QjwaUutc0iYn5GnF-yzwuFwJOazYbO9mpyi8c3n_ADJ9MEPALJxiMU",
+        "width": 1080
+      },
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108208821790297745756\">Balay Juice &amp; Coffee Co.</a>"
+        ],
+        "photo_reference": "ATJ83ziPG9D4KlsXQL6zpNHeRZTv0vkX4qXOgFpQ8esbD9axqNiaU-vCib53NIwH_upTME-Gmg6VH5eSWD6KrvIbrrFLplUAfS1XfhdQXvmw3lQDgweCDJgcJGPweu0c3z-nZv5QstTkqLv5-s_ojSu4l_v-UsTuqe7QUjbuRwsZDEvbMr4t",
+        "width": 2048
+      },
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108208821790297745756\">Balay Juice &amp; Coffee Co.</a>"
+        ],
+        "photo_reference": "ATJ83ziM4FPdGFzFbadUDwCohVzSsG694sxLxm0nNgb6c4I4Nje1r409iQ8lyyvRFl8IBLIGkDeGClYg82DcBUrLPEsgH6uqOvItKABbwqgKhHPpeI3FDAEj9MY4jC9_jczNNUipvUekyg8IhmMrx0zC5WhXLMBWxRDT1Q2tpaR4VdxPTScL",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJRUi1RFsT-TIRypkJ8ZUwNfk",
+    "plus_code": {
+      "compound_code": "3JJ7+JP Davao City, Davao del Sur, Philippines",
+      "global_code": "6QV73JJ7+JP"
+    },
+    "rating": 4.8,
+    "reference": "ChIJRUi1RFsT-TIRypkJ8ZUwNfk",
+    "reviews": [
+      {
+        "author_name": "Ren Tidalgo",
+        "author_url": "https://www.google.com/maps/contrib/110112391219222774485/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6BZ-nO3G9wnsOKMoXfax4f-HUHW-c3ynboAWav06_zw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "It's always a pleasant time when hanging out at Balay. Great people, great beverages. Truly an excellent experience that you wouldn't normally expect from a humble storefront. Only downside I guess is the location as there isn't really much space to park a bigger vehicle as it's, quite literally, a humble storefront. Very accessible by foot, trike, and motorcycle, though.\nHighly recommend their orange juice as an Orange Juice lover myself. Their Nitro Cold Brew was also one heck of an experience and amazing flavor. Ask the barista for their available selection of Pour Over Coffee as they acquire specialty beans for it every month 🔥\nThe community built by Balay is just the organized chaos I need in my life. Grateful for the people I meet and mingle with here. 💖",
+        "time": 1684648085,
+        "translated": false
+      },
+      {
+        "author_name": "Rahallee Kein Corpuz",
+        "author_url": "https://www.google.com/maps/contrib/114483447391244533576/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtb04ElzgYXfsfOMW1QKf8VuC5CfL8BYHSJ3mPGKlmZQ0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Good coffee super friendly barista",
+        "time": 1687834469,
+        "translated": false
+      },
+      {
+        "author_name": "Will",
+        "author_url": "https://www.google.com/maps/contrib/116893131063511845817/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgyt_keO8kXHefhknbBPN9U8MmyctSnF6G6EHAJ8XlBA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Great place for coffee! If you're into coffee crawls and roadside coffee pickups, this is a great place for it, they provide excellent coffee service, and the staff is very knowledgeable about their coffee too. Try their nitro brew, you won't regret it.",
+        "time": 1647346410,
+        "translated": false
+      },
+      {
+        "author_name": "Mel Bacala",
+        "author_url": "https://www.google.com/maps/contrib/115231808233026674679/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4LVxiabU4ivirEPl50kSJMs3gfzLZGpZ8vSVcRrI-j1s=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "a month ago",
+        "text": "When in Davao, look for lokal brands such as Balay. It's a hole in the wall coffee experience you must not miss.",
+        "time": 1691385550,
+        "translated": false
+      },
+      {
+        "author_name": "aijei arcena",
+        "author_url": "https://www.google.com/maps/contrib/112411173736212185921/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjLYj-jMIydkh1iDQeH3vGn5orsaygspy4egUCOC-U=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "The people and the experience is what makes me a loyal customer of Balay. a true place for every ginoo out there who loves coffee, and to make friends with everyone else.",
+        "time": 1666199983,
+        "translated": false
+      }
+    ],
+    "serves_beer": false,
+    "serves_wine": false,
+    "takeout": true,
+    "types": ["cafe", "store", "food", "point_of_interest", "establishment"],
+    "url": "https://maps.google.com/?cid=17957312509761919434",
+    "user_ratings_total": 18,
+    "utc_offset": 480,
+    "vicinity": "20E Teodoro Palma Gil Street, Poblacion District, Davao City",
+    "website": "https://www.instagram.com/balay.dvo/"
+  },
+  "status": "OK"
+}

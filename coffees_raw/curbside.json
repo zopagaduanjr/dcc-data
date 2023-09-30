@@ -1,0 +1,306 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [
+      {
+        "long_name": "Phase I",
+        "short_name": "Phase I",
+        "types": ["subpremise"]
+      },
+      {
+        "long_name": "Marfori Heights",
+        "short_name": "Marfori Heights",
+        "types": ["premise"]
+      },
+      { "long_name": "77", "short_name": "77", "types": ["street_number"] },
+      {
+        "long_name": "Topaz Street",
+        "short_name": "Topaz St",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Poblacion District",
+        "short_name": "Poblacion District",
+        "types": ["sublocality_level_1", "sublocality", "political"]
+      },
+      {
+        "long_name": "Davao City",
+        "short_name": "Davao City",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Davao del Sur",
+        "short_name": "Davao del Sur",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Davao Region",
+        "short_name": "Davao Region",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "Philippines",
+        "short_name": "PH",
+        "types": ["country", "political"]
+      },
+      { "long_name": "8000", "short_name": "8000", "types": ["postal_code"] }
+    ],
+    "adr_address": "Phase I, Marfori Heights, <span class=\"street-address\">77 Topaz St</span>, <span class=\"extended-address\">Poblacion District</span>, <span class=\"locality\">Davao City</span>, <span class=\"postal-code\">8000</span> <span class=\"region\">Davao del Sur</span>, <span class=\"country-name\">Philippines</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": { "date": "2023-10-01", "day": 0, "time": "2000" },
+          "open": { "date": "2023-10-01", "day": 0, "time": "0800" }
+        },
+        {
+          "close": { "date": "2023-10-02", "day": 1, "time": "2000" },
+          "open": { "date": "2023-10-02", "day": 1, "time": "0700" }
+        },
+        {
+          "close": { "date": "2023-10-03", "day": 2, "time": "2000" },
+          "open": { "date": "2023-10-03", "day": 2, "time": "0700" }
+        },
+        {
+          "close": { "date": "2023-10-04", "day": 3, "time": "2000" },
+          "open": { "date": "2023-10-04", "day": 3, "time": "0700" }
+        },
+        {
+          "close": { "date": "2023-10-05", "day": 4, "time": "2000" },
+          "open": { "date": "2023-10-05", "day": 4, "time": "0700" }
+        },
+        {
+          "close": { "date": "2023-10-06", "day": 5, "time": "2000" },
+          "open": { "date": "2023-10-06", "day": 5, "time": "0700" }
+        },
+        {
+          "close": { "date": "2023-09-30", "day": 6, "time": "2000" },
+          "open": { "date": "2023-09-30", "day": 6, "time": "0700" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 8:00 PM",
+        "Tuesday: 7:00 AM – 8:00 PM",
+        "Wednesday: 7:00 AM – 8:00 PM",
+        "Thursday: 7:00 AM – 8:00 PM",
+        "Friday: 7:00 AM – 8:00 PM",
+        "Saturday: 7:00 AM – 8:00 PM",
+        "Sunday: 8:00 AM – 8:00 PM"
+      ]
+    },
+    "dine_in": true,
+    "formatted_address": "Phase I, Marfori Heights, 77 Topaz St, Poblacion District, Davao City, 8000 Davao del Sur, Philippines",
+    "geometry": {
+      "location": { "lat": 7.082319699999998, "lng": 125.6023548 },
+      "viewport": {
+        "northeast": { "lat": 7.083651680291502, "lng": 125.6037305302915 },
+        "southwest": { "lat": 7.080953719708497, "lng": 125.6010325697085 }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "AtCurbside",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": { "day": 0, "time": "2000" },
+          "open": { "day": 0, "time": "0800" }
+        },
+        {
+          "close": { "day": 1, "time": "2000" },
+          "open": { "day": 1, "time": "0700" }
+        },
+        {
+          "close": { "day": 2, "time": "2000" },
+          "open": { "day": 2, "time": "0700" }
+        },
+        {
+          "close": { "day": 3, "time": "2000" },
+          "open": { "day": 3, "time": "0700" }
+        },
+        {
+          "close": { "day": 4, "time": "2000" },
+          "open": { "day": 4, "time": "0700" }
+        },
+        {
+          "close": { "day": 5, "time": "2000" },
+          "open": { "day": 5, "time": "0700" }
+        },
+        {
+          "close": { "day": 6, "time": "2000" },
+          "open": { "day": 6, "time": "0700" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 8:00 PM",
+        "Tuesday: 7:00 AM – 8:00 PM",
+        "Wednesday: 7:00 AM – 8:00 PM",
+        "Thursday: 7:00 AM – 8:00 PM",
+        "Friday: 7:00 AM – 8:00 PM",
+        "Saturday: 7:00 AM – 8:00 PM",
+        "Sunday: 8:00 AM – 8:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110094944397295251287\">Vishnu Teja Reddy</a>"
+        ],
+        "photo_reference": "ATJ83zj2VvzirWnPWBxAm0Vz8CYDqHQVspyKSS_hiqcIATgwCdx5HXwKrbadjJqN9QE1EhY7RkUHjUtKox91iZG8i6Zi2jeboDcrAVIVemkFyjxi-UZbPcxI5dF_kVNMYKgQDdgEAz3Rc4jSGTUmpUyyfX90TRMEmEZAo5sfr9BKyM3T7Njh",
+        "width": 4032
+      },
+      {
+        "height": 2436,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101406466708003281634\">AtCurbside</a>"
+        ],
+        "photo_reference": "ATJ83zg9C6Iq5gesRIuZHTaT38AR8xUQsKCZfLzR9W4bqcviCSIvSOLllv5Wxe1znt0pWuzc_wV_iIki7FbcDo1peIPU3_dfBx9kwJIoVz1tIEDEZnTOUSJX2F5cSCIbpaes4AMViEkbeKTR4JWzrjnWXB_-mvlHruJiTVbmRww3bxzsIQjv",
+        "width": 2436
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100165764206427599404\">DheenaDayalan</a>"
+        ],
+        "photo_reference": "ATJ83zhC5_95cEc7zkWySNmeOIXzDqBmTy_LQZxz0NHccHFd4tqCf7WvDQ3-FI5xBStdCYlsn5pTs4XU0x4dFIh0O3KvXGWa22xUdcc24NSV5ka4vz5K5lm72nZvJ4XD7FvNvTK3YQcByDpsbbbXNWf0moPNpSvprE0rMa-WbVqddO-TMQqR",
+        "width": 3000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110094944397295251287\">Vishnu Teja Reddy</a>"
+        ],
+        "photo_reference": "ATJ83ziZaXevNwb9zxP5S6v6vfIoqEPqClBchjOq5-CIugkFbKHTljeKswEXAcF6mynl-M7oCJLa6sfF_WjuWtEungWmzij3TTp-GjsIzAov-BEdeZDeYPRzmcZJS5u8ZG_IuXORJenXqOr4MnIieiThPH7ccFFCld_cmiJak1Joda8lgqW_",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101406466708003281634\">AtCurbside</a>"
+        ],
+        "photo_reference": "ATJ83zi4XilGg5bfBkZSLV1B3ufTg0vEG2xdosPQPg_o0GWku04yXC-4rFn8R40tp97wJOffIUKg2fOOaBryLEQhB1DXJy-UFWrugwjjKVBHv8AtbyB3AmsTfVjtHTih7UZGZ-mJkrqDzlDY02c6w033keN1GJWTTTjCBL1K3ac0ynDfzDLt",
+        "width": 3024
+      },
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112553599034742170789\">Premkumar Nallasamy</a>"
+        ],
+        "photo_reference": "ATJ83zhEVaDM2LsdPo2PdtGiKsSjpu022WlnbjUr8FmQXJauZGBaoVuV4ne9RV6DuMuZ-UXTbPW4s7UxYDeb76K3aZdE7zcvPGqF22nDZ6DVrVZICrQ-dcdsG8un6m53ax4Avd5vkJmHVr70YbnEYHAAmDU95OjeG_N00zbMwMiM-iaz86L5",
+        "width": 3472
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110094944397295251287\">Vishnu Teja Reddy</a>"
+        ],
+        "photo_reference": "ATJ83zihtzH2EF3x9CD8udjyJUfk5aFdC2CJkpLeJk1r_fN3h1_p67QkIBVRm63mpNm_MMN8gKM1AtRXVS-bi4sfzoEKaJEHF83xjeUGuXgL5vfBXi5jTcE6r6N_VPv5jnzjwRdJgQWtqHn-S-3kRKWd7Ov4RtABwjSpMXcYmV5IGT1ud77l",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101406466708003281634\">AtCurbside</a>"
+        ],
+        "photo_reference": "ATJ83zj-9M9Z75D19_eX1aDIGZVbsncNXS4NlV73tGu61l7kFJXuFxrxAs93SNO6OTpzGR-PjCeYlbeUUwMcb0gP4TMcKCqSRv5W6LGMBsMUS4uRvehnBBeO6Qy1NHmQEW0PUzUdYh_ugUqdvbMwuUaCcCTfpduL-pNA56_3ND1sGDbK1cWF",
+        "width": 3024
+      },
+      {
+        "height": 3418,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110094944397295251287\">Vishnu Teja Reddy</a>"
+        ],
+        "photo_reference": "ATJ83zjdxr5cFcW3xzvzSrPit0ypfqJQlQQq2GygNdDiOdsRYTTRuPNdww7MsdUH20EN7GDqt8g2ZhP9NzF9tqH3HMNRlvVNYpkds8RS5qoU5qYtUBm830nrt2jsGhBFLPBGlTI1WdphQ7fBvmXArjpq-oFa8J6SBZELO43ekQ85Mn-QsqXw",
+        "width": 3023
+      },
+      {
+        "height": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101406466708003281634\">AtCurbside</a>"
+        ],
+        "photo_reference": "ATJ83zgnOLgF0z-QTiqFnR3cebwkupNeS0lB7Fb-Qq4iInYcvrsHNUGlYxijnwh6nK0Laj7Lrav9f1v1NcyXbN8YlxJViUnhcGEN85LsDbPbeh9rR2-WMivDZr9yy-l59p9OJG4AVuX3Ia1d4qIKVBhdIES4ugfF7XPLZg8z5cIQy40saJRd",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJD07FFYxt-TIRRnF48ELf2yI",
+    "plus_code": {
+      "compound_code": "3JJ2+WW Davao City, Davao del Sur, Philippines",
+      "global_code": "6QV73JJ2+WW"
+    },
+    "rating": 4.7,
+    "reference": "ChIJD07FFYxt-TIRRnF48ELf2yI",
+    "reviews": [
+      {
+        "author_name": "SY T",
+        "author_url": "https://www.google.com/maps/contrib/103728639540111072908/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWelyDTUrdJhvQ52qS9OOZ2VYLX34udb_buWSf1GALt6X0=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "a week ago",
+        "text": "The place is a bit far off from the busy streets as it's located in a residential area. When we got there, there was no signage in sight to tell you that you're at the cafe.\n\nThe cafe is really small inside as It can only accommodate 2 people. As for their alfresco seating, it can also only accommodate approximately five maybe six people so that's something to consider when you want to get something to drink here.\n\nIn terms of their drinks, I ordered their vegan horchata since I wanted to know what horchata tastes like and as for my boyfriend, he ordered their chocolate milk. Horchata is a bit of an acquired taste, but I personally liked it. It tastes kind of like soy milk. As for the chocolate milk, I also liked it since the sweetness was balanced out by the bitter flavor of chocolate. Will try to order their coffees next time.\n\nLastly, I recommend getting there milk cake. It's my favorite from their line of pastries!\n\nOverall, would still recommend.",
+        "time": 1695106069,
+        "translated": false
+      },
+      {
+        "author_name": "Brian Jheric Canja",
+        "author_url": "https://www.google.com/maps/contrib/100798190749671747488/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIThVIwnd3rbaeuucvi0BcD1fcb9QRYz0hN8LjzFhkmD8=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Curbside Coffee is a hidden gem that brings convenience and quality together. The coffee itself is exceptional, with a range of flavorful brews that cater to all tastes. The friendly staff ensures that each order is prepared with care and delivered with a smile. Whether you're in a rush or simply enjoy the convenience, Curbside Coffee is a must-visit for a quick and satisfying caffeine fix.",
+        "time": 1689567933,
+        "translated": false
+      },
+      {
+        "author_name": "Vishnu Teja Reddy",
+        "author_url": "https://www.google.com/maps/contrib/110094944397295251287/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVD006VwzNUQXAtDuvgyX3VpFE3lIthIPaUmKU3UmEnivI=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "a month ago",
+        "text": "\"At Curb Side\" coffee shop is a hidden gem in Davao City! Their Spanish cold brew is a delightful blend of flavors, and the Signature milk cake is simply divine. It's the perfect spot to relax and indulge in some delicious treats. Highly recommended! ☕️🍰",
+        "time": 1692767323,
+        "translated": false
+      },
+      {
+        "author_name": "Avy Silva",
+        "author_url": "https://www.google.com/maps/contrib/112974736196278537263/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrKBR7AzWvDvHcnOOkyyesFCJiLpjOhzowyeLOnszK1bQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "@atcurbside is a delightful surprise that I got to experience during one of my rides in my hometown. The street is quite serendipitous for me as it was where I had spent most of my childhood years, and you bet this place now holds a special spot in my heart.\n\nVerdict\n🍰All of their pastries are incredibly delicious, and I'm not even a cake person! I love their Mango Charlotte and Milk Cake. You'd think they're super sweet, but are actually balanced in taste and serving size. (But tbh, I could eat a whole Milk Cake by myself)\n☕I've only ever tried their Spanish Cold Brew Latte (for the coffee-based drinks) and as they put it, it's a good introductory caffeinated drink for people who are new to coffee. It is quite refreshing and has enough caffeine to get me through the day.\n🍵Their homemade tea is just as refreshing. Cleanses your palate well while enjoying all the cakes and quesadillas.\n🍕Their beef quesadilla is not heavily marinated with powdered mixes and spices, it tastes just right. I love how each bite doesn't come with any guilt.\n🍨Their affogato is a perfect cold dessert, with the nuttiness of the coffee blending well with their ice cream. I am a fan.\n\nApart from the location and food, the owners (who run the entire place), are accommodating and friendly. You can get a sense of their pride and passion, in the work that they do, with their scrumptious food and refreshing drinks you\n\nThey don't exactly have any parking space, nor bike racks, but you can park at your own risk (which isn't that risky really, lol)\n\nLocation: 77 Topaz St., Marfori, Davao City\nThey also have pop-ups at Woodridge Gate 2, Ma-a on Wednesdays and Saturdays\n(But best to always check their IG page for announcements, in case of changes with their schedule)\n\nP.S. I chanced upon their pop-up in December 2021, but they were already closing then, so I ended up buying their portafilter and steaming pitcher keychains instead. :D",
+        "time": 1659138726,
+        "translated": false
+      },
+      {
+        "author_name": "Brigitte Ventures",
+        "author_url": "https://www.google.com/maps/contrib/112042174688661451457/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhAfoGnL5eLeecEvR_yw4ClEv5n2eoqrCHXV8ZDED35iw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Wonderful coffee shop in my Marfori Heights. It’s a micro cafe but there’s nothing tiny about this place when it comes to coffee and their service! Exceptional customer service — T, E, & J are the best! This place is my absolute fave in the city. They’re vegan Spanish latte is a must try.",
+        "time": 1684116219,
+        "translated": false
+      }
+    ],
+    "takeout": true,
+    "types": ["cafe", "food", "point_of_interest", "store", "establishment"],
+    "url": "https://maps.google.com/?cid=2511846695784444230",
+    "user_ratings_total": 25,
+    "utc_offset": 480,
+    "vicinity": "Phase I, Marfori Heights, 77 Topaz Street, Davao City"
+  },
+  "status": "OK"
+}

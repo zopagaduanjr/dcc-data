@@ -1,0 +1,289 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [
+      { "long_name": "91-73", "short_name": "91-73", "types": ["premise"] },
+      {
+        "long_name": "Teodoro Palma Gil Street",
+        "short_name": "Teodoro Palma Gil St",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Poblacion District",
+        "short_name": "Poblacion District",
+        "types": ["sublocality_level_1", "sublocality", "political"]
+      },
+      {
+        "long_name": "Davao City",
+        "short_name": "Davao City",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Davao del Sur",
+        "short_name": "Davao del Sur",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Davao Region",
+        "short_name": "Davao Region",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "Philippines",
+        "short_name": "PH",
+        "types": ["country", "political"]
+      }
+    ],
+    "adr_address": "91-73, <span class=\"street-address\">Teodoro Palma Gil St</span>, <span class=\"extended-address\">Poblacion District</span>, <span class=\"locality\">Davao City</span>, <span class=\"region\">Davao del Sur</span>, <span class=\"country-name\">Philippines</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": true,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "date": "2023-10-01", "day": 0, "time": "1800" },
+          "open": { "date": "2023-10-01", "day": 0, "time": "0900" }
+        },
+        {
+          "close": { "date": "2023-10-03", "day": 2, "time": "1800" },
+          "open": { "date": "2023-10-03", "day": 2, "time": "1000" }
+        },
+        {
+          "close": { "date": "2023-10-04", "day": 3, "time": "1800" },
+          "open": { "date": "2023-10-04", "day": 3, "time": "1000" }
+        },
+        {
+          "close": { "date": "2023-10-05", "day": 4, "time": "1800" },
+          "open": { "date": "2023-10-05", "day": 4, "time": "1000" }
+        },
+        {
+          "close": { "date": "2023-10-06", "day": 5, "time": "1800" },
+          "open": { "date": "2023-10-06", "day": 5, "time": "1000" }
+        },
+        {
+          "close": { "date": "2023-09-30", "day": 6, "time": "1800" },
+          "open": { "date": "2023-09-30", "day": 6, "time": "1000" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "91-73, Teodoro Palma Gil St, Poblacion District, Davao City, Davao del Sur, Philippines",
+    "geometry": {
+      "location": { "lat": 7.0845086, "lng": 125.617435 },
+      "viewport": {
+        "northeast": { "lat": 7.085839780291503, "lng": 125.6187990802915 },
+        "southwest": { "lat": 7.083141819708498, "lng": 125.6161011197085 }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Darkk Coffee Co.",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "day": 0, "time": "1800" },
+          "open": { "day": 0, "time": "0900" }
+        },
+        {
+          "close": { "day": 2, "time": "1800" },
+          "open": { "day": 2, "time": "1000" }
+        },
+        {
+          "close": { "day": 3, "time": "1800" },
+          "open": { "day": 3, "time": "1000" }
+        },
+        {
+          "close": { "day": 4, "time": "1800" },
+          "open": { "day": 4, "time": "1000" }
+        },
+        {
+          "close": { "day": 5, "time": "1800" },
+          "open": { "day": 5, "time": "1000" }
+        },
+        {
+          "close": { "day": 6, "time": "1800" },
+          "open": { "day": 6, "time": "1000" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117365481332374383629\">Darkk Coffee Co.</a>"
+        ],
+        "photo_reference": "ATJ83zjSAM_sz0dJeHbfVaS5TvUQpL8dkTK2JGOaYw51yoTeodMR19Ru4MP0RV0UwJwybztKxPnAgXNDsKlx0qjzqQEes8hEk3RLIsesaiMbkPu31ZkvJZyDWugnkRrPGUAZja-vdNzFvCH1APHCbHxHOPO0teDTLaHSgxad5uNouJsTzkUL",
+        "width": 4032
+      },
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117365481332374383629\">Darkk Coffee Co.</a>"
+        ],
+        "photo_reference": "ATJ83ziLqOgJwL-ijj_yARzlyXAE71KWS5pO67KQtHPQ8Oiyd7yNIq8CbXKqWX25YpWThtduRjfO02EE6YI4MrXnvofRaRr6_v9UFUf4hPfc0Py8MMNgGvBspi1MXlr8N8kclktlC7VDlNy0rStjrylMSsfxZGnrGpYek04CKQm8SdVnQXs9",
+        "width": 669
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117365481332374383629\">Darkk Coffee Co.</a>"
+        ],
+        "photo_reference": "ATJ83zgAMNfF9RfSNHwWQc4AEJMUQLl9_pn6yTUtH4ThavWqs0MFguBiTM4uElqOY5Sa9bG24u9D5yEy-WMyX6t_i60YYc4xLFHxMS28I8FA4cJzuZ0ZjZMnTxrFzOp8zjVcdVIHpHADYdsdfmqNIHxcn2PeAYRXMBNYcjOA3Sw-4b_uotEC",
+        "width": 3024
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117365481332374383629\">Darkk Coffee Co.</a>"
+        ],
+        "photo_reference": "ATJ83zhvulDI4m6VakmBEFIlxX2Hx1JiMLO_W79Pn1zhyq4iX-m57RTx_uWb8e7IUhiQLChiVgB_JFu4kBffTL5rSACnMfh5W7T6vZ3TArMkGwzpVvga5qJPdc-V9IgoCwH58QJMT1bRsKHk6FQnYzKJh9CyiQJJaQk9IaR_nPSi2hkSBKW9",
+        "width": 3120
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117365481332374383629\">Darkk Coffee Co.</a>"
+        ],
+        "photo_reference": "ATJ83zgM3lkZR0BLVjVbbXrGpXewME0BaTwAyuMihVAZ04YDXBB_G8toV3OAyl2ZvG22oLazAVi_q7KW1FBEiX94E_DZ2auAf8qkuT9DQMXyyzSz2xPcbfy5ki8Rsqb_BLD6jTSqHY10HLPv5zhOZ4iWV-7JmClAy82oV6hKG2t4-CmDYKje",
+        "width": 3120
+      },
+      {
+        "height": 4812,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117365481332374383629\">Darkk Coffee Co.</a>"
+        ],
+        "photo_reference": "ATJ83zjlDhMNgJRff9tV1mxVVV01LCSVKoemklHeOQ-doahaTor3E6KWgHe2UYkRHqeGJ0ahQcye13UXr2ofTsVGFtV_OYsptN9y805fofaX9RsRe21ka6usc3WcozmNXtNGU406-SzpPQhlGXeXJHQtWOQ7c3-Fdb9ocTHlyQ69tqJgHSmw",
+        "width": 3718
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117365481332374383629\">Darkk Coffee Co.</a>"
+        ],
+        "photo_reference": "ATJ83zifw3oT3xy1IgzXt78YLhqwDeGdx8rTirnpYXeGrU76C2cqlvXPzR5YwB8x6YAwD_KSI_AC7pPiqXEjxJo8F-lVjAvLad7ttY_sntPC5r8P2ca8FA-30WGmxT6V6xjMsPe2-q5OP_6f0mHcaPyG5pWh2vopPaMu-RqYMjb8KClgQhvY",
+        "width": 3024
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117365481332374383629\">Darkk Coffee Co.</a>"
+        ],
+        "photo_reference": "ATJ83zjtUsF1OyBvIdeAfO-BB4F80pbOCWemsKizP1t-pCzbRAbJjJ78xJToYqZ9xouRk8EleMRf-vWcr_-VLU2jCO9FteRefQHET8ZLkz6nhDOqQZ5f7RK-agxgqLcNcpX0f3M3CUkQR64TQRhxLYXaz8ErB3q1ZpAHsz57GBicctK64jd8",
+        "width": 1536
+      },
+      {
+        "height": 2892,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117365481332374383629\">Darkk Coffee Co.</a>"
+        ],
+        "photo_reference": "ATJ83zjY6kcoFWTtEb2PRm8aj_OZ9EwBXXdPmQKg7uU4UzURo-Mccp7QaIEtbrUlXI4R5i72bW_8hthF4MF4EdBJ4-6syFODbNCOCW4J2PAMnTi7AG-bAcKBXFmvMH7_3ahZpIIpLR7XvNvsPBCDpto0lSLrpugnO8-Jw_qrYwATADvQQZt0",
+        "width": 2892
+      },
+      {
+        "height": 2016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117365481332374383629\">Darkk Coffee Co.</a>"
+        ],
+        "photo_reference": "ATJ83zi67_ybKaaOGWYJQa1NUqyIMhPi4XAPpfTQzVEX8LRnd4yqr0PxNgPtWEW_RdYnFEetMoOdahEH7PHDFrVKK0GCG8YzaNrYhOu3GDj6utPOjBtHVIUICfPMH3ZOU-QdtgogvNOzxO1P27kmRsf8tckGdc4gdjx8MzyFwJ8Wsd2yuw_Q",
+        "width": 944
+      }
+    ],
+    "place_id": "ChIJe6SdBIRt-TIR-4zaykLAQKA",
+    "plus_code": {
+      "compound_code": "3JM8+RX Davao City, Davao del Sur, Philippines",
+      "global_code": "6QV73JM8+RX"
+    },
+    "rating": 4.7,
+    "reference": "ChIJe6SdBIRt-TIR-4zaykLAQKA",
+    "reviews": [
+      {
+        "author_name": "John Paulo Nakane (Nax)",
+        "author_url": "https://www.google.com/maps/contrib/113462303810254815591/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4OfUYeom3NrTE0J4EZ-4jJyyL1TiI2G5P6-YyW-A2wNI=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "a little nook along the road...this place gives off great vibes for that quick coffee fix. tried the mocha and was very impressed with its taste and kick to it.",
+        "time": 1693193558,
+        "translated": false
+      },
+      {
+        "author_name": "Jun Relly Domaoan",
+        "author_url": "https://www.google.com/maps/contrib/115943217517590307301/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLg28HP1GdlzyaOubFGE3bZLCQzjiR57OYc-4JmpWoa=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Unique flavor of coffee. Artisanal.\nCool Merch , great aesthetics",
+        "time": 1674598904,
+        "translated": false
+      },
+      {
+        "author_name": "Jan Jan Bariñan",
+        "author_url": "https://www.google.com/maps/contrib/113500747849406807256/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfJ0kBuRRFF4MvH49SubbcZy4WJ7qFiH79RQ_5qBE0_fE=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Good selection of coffee. Mr Dark is definitely a must try coffee. Good setup in a quiet neighborhood too.",
+        "time": 1640682175,
+        "translated": false
+      },
+      {
+        "author_name": "Den Al",
+        "author_url": "https://www.google.com/maps/contrib/110469274655320579600/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYHjPuG_LKnZogdoo_LifHTQfuMtlMP90RP8xfWEov=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "The Best Coffee in Davao City\nCoffee at its finest\nFriendly barista/owner\nVery affordable\nI seldom give 5 stars review and this shop deserve it!",
+        "time": 1636200426,
+        "translated": false
+      },
+      {
+        "author_name": "Sherwin Jay Silva",
+        "author_url": "https://www.google.com/maps/contrib/115708605469978282676/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7-BJHqnGB0qnlRfA32LTbKvu0yucYrIFjUiigSXsukwTL=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Accommodating owner and his Mr. Dark coffee is a must try for coffee enthisiasts like me.",
+        "time": 1637722190,
+        "translated": false
+      }
+    ],
+    "takeout": true,
+    "types": ["cafe", "store", "food", "point_of_interest", "establishment"],
+    "url": "https://maps.google.com/?cid=11547440837681646843",
+    "user_ratings_total": 14,
+    "utc_offset": 480,
+    "vicinity": "91-73, Teodoro Palma Gil Street, Davao City"
+  },
+  "status": "OK"
+}

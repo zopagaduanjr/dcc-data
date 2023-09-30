@@ -1,0 +1,79 @@
+{
+  "AtCurbside": {
+    "name": "AtCurbside",
+    "geometry": {
+      "location": { "lat": 7.082319699999998, "lng": 125.6023548 },
+      "viewport": {
+        "northeast": { "lat": 7.083651680291502, "lng": 125.6037305302915 },
+        "southwest": { "lat": 7.080953719708497, "lng": 125.6010325697085 }
+      }
+    },
+    "elevation": 16.04643440246582
+  },
+  "Cafe Prelaya by The Joaquins’ Cheesecakes": {
+    "name": "Cafe Prelaya by The Joaquins’ Cheesecakes",
+    "geometry": {
+      "location": { "lat": 7.081040299999999, "lng": 125.6076352 },
+      "viewport": {
+        "northeast": { "lat": 7.082423880291502, "lng": 125.6089569802915 },
+        "southwest": { "lat": 7.079725919708498, "lng": 125.6062590197085 }
+      }
+    },
+    "elevation": 8.237552642822266
+  },
+  "Darkk Coffee Co.": {
+    "name": "Darkk Coffee Co.",
+    "geometry": {
+      "location": { "lat": 7.0845086, "lng": 125.617435 },
+      "viewport": {
+        "northeast": { "lat": 7.085839780291503, "lng": 125.6187990802915 },
+        "southwest": { "lat": 7.083141819708498, "lng": 125.6161011197085 }
+      }
+    },
+    "elevation": 6.45668888092041
+  },
+  "FOURTH STREET CAFE": {
+    "name": "FOURTH STREET CAFE",
+    "geometry": {
+      "location": { "lat": 7.074315700000001, "lng": 125.6169638 },
+      "viewport": {
+        "northeast": { "lat": 7.075666030291502, "lng": 125.6183300302915 },
+        "southwest": { "lat": 7.072968069708498, "lng": 125.6156320697085 }
+      }
+    },
+    "elevation": 6.199999809265137
+  },
+  "Hid'n Coffee": {
+    "name": "Hid'n Coffee",
+    "geometry": {
+      "location": { "lat": 7.090085600000001, "lng": 125.6146544 },
+      "viewport": {
+        "northeast": { "lat": 7.091424080291503, "lng": 125.6159796802915 },
+        "southwest": { "lat": 7.088726119708499, "lng": 125.6132817197085 }
+      }
+    },
+    "elevation": 7.885401725769043
+  },
+  "MYLK Cafe": {
+    "name": "MYLK Cafe",
+    "geometry": {
+      "location": { "lat": 7.0817159, "lng": 125.6016812 },
+      "viewport": {
+        "northeast": { "lat": 7.083097730291501, "lng": 125.6030645802915 },
+        "southwest": { "lat": 7.080399769708497, "lng": 125.6003666197085 }
+      }
+    },
+    "elevation": 14.06391334533691
+  },
+  "Balay Juice & Coffee Co.": {
+    "name": "Balay Juice & Coffee Co.",
+    "geometry": {
+      "location": { "lat": 7.081566699999999, "lng": 125.6142682 },
+      "viewport": {
+        "northeast": { "lat": 7.083022180291501, "lng": 125.6155615302915 },
+        "southwest": { "lat": 7.080324219708496, "lng": 125.6128635697085 }
+      }
+    },
+    "elevation": 6.636610507965088
+  }
+}

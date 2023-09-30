@@ -1,0 +1,308 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [
+      {
+        "long_name": "Values School Building",
+        "short_name": "Values School Building",
+        "types": ["point_of_interest", "establishment"]
+      },
+      {
+        "long_name": "Marfori Heights",
+        "short_name": "Marfori Heights",
+        "types": ["premise"]
+      },
+      {
+        "long_name": "Ruby Street",
+        "short_name": "Ruby St",
+        "types": ["route"]
+      },
+      {
+        "long_name": "Poblacion District",
+        "short_name": "Poblacion District",
+        "types": ["sublocality_level_1", "sublocality", "political"]
+      },
+      {
+        "long_name": "Davao City",
+        "short_name": "Davao City",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Davao del Sur",
+        "short_name": "Davao del Sur",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Davao Region",
+        "short_name": "Davao Region",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "Philippines",
+        "short_name": "PH",
+        "types": ["country", "political"]
+      },
+      { "long_name": "8000", "short_name": "8000", "types": ["postal_code"] }
+    ],
+    "adr_address": "Values School Building, Marfori Heights, <span class=\"street-address\">Ruby St</span>, <span class=\"extended-address\">Poblacion District</span>, <span class=\"locality\">Davao City</span>, <span class=\"postal-code\">8000</span> <span class=\"region\">Davao del Sur</span>, <span class=\"country-name\">Philippines</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": true,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "date": "2023-10-01", "day": 0, "time": "2100" },
+          "open": { "date": "2023-10-01", "day": 0, "time": "0700" }
+        },
+        {
+          "close": { "date": "2023-10-02", "day": 1, "time": "2100" },
+          "open": { "date": "2023-10-02", "day": 1, "time": "0700" }
+        },
+        {
+          "close": { "date": "2023-10-03", "day": 2, "time": "2100" },
+          "open": { "date": "2023-10-03", "day": 2, "time": "0700" }
+        },
+        {
+          "close": { "date": "2023-10-04", "day": 3, "time": "2100" },
+          "open": { "date": "2023-10-04", "day": 3, "time": "0700" }
+        },
+        {
+          "close": { "date": "2023-10-05", "day": 4, "time": "2100" },
+          "open": { "date": "2023-10-05", "day": 4, "time": "0700" }
+        },
+        {
+          "close": { "date": "2023-10-06", "day": 5, "time": "2100" },
+          "open": { "date": "2023-10-06", "day": 5, "time": "0700" }
+        },
+        {
+          "close": { "date": "2023-09-30", "day": 6, "time": "2100" },
+          "open": { "date": "2023-09-30", "day": 6, "time": "0700" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 9:00 PM",
+        "Tuesday: 7:00 AM – 9:00 PM",
+        "Wednesday: 7:00 AM – 9:00 PM",
+        "Thursday: 7:00 AM – 9:00 PM",
+        "Friday: 7:00 AM – 9:00 PM",
+        "Saturday: 7:00 AM – 9:00 PM",
+        "Sunday: 7:00 AM – 9:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "Values School Building, Marfori Heights, Ruby St, Poblacion District, Davao City, 8000 Davao del Sur, Philippines",
+    "geometry": {
+      "location": { "lat": 7.0817159, "lng": 125.6016812 },
+      "viewport": {
+        "northeast": { "lat": 7.083097730291501, "lng": 125.6030645802915 },
+        "southwest": { "lat": 7.080399769708497, "lng": 125.6003666197085 }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "MYLK Cafe",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "day": 0, "time": "2100" },
+          "open": { "day": 0, "time": "0700" }
+        },
+        {
+          "close": { "day": 1, "time": "2100" },
+          "open": { "day": 1, "time": "0700" }
+        },
+        {
+          "close": { "day": 2, "time": "2100" },
+          "open": { "day": 2, "time": "0700" }
+        },
+        {
+          "close": { "day": 3, "time": "2100" },
+          "open": { "day": 3, "time": "0700" }
+        },
+        {
+          "close": { "day": 4, "time": "2100" },
+          "open": { "day": 4, "time": "0700" }
+        },
+        {
+          "close": { "day": 5, "time": "2100" },
+          "open": { "day": 5, "time": "0700" }
+        },
+        {
+          "close": { "day": 6, "time": "2100" },
+          "open": { "day": 6, "time": "0700" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 9:00 PM",
+        "Tuesday: 7:00 AM – 9:00 PM",
+        "Wednesday: 7:00 AM – 9:00 PM",
+        "Thursday: 7:00 AM – 9:00 PM",
+        "Friday: 7:00 AM – 9:00 PM",
+        "Saturday: 7:00 AM – 9:00 PM",
+        "Sunday: 7:00 AM – 9:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1350,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102197039889446705685\">MYLK Cafe</a>"
+        ],
+        "photo_reference": "ATJ83zj0_hIBV6jrA6Rxk3HtQrhYRHtINQKXU4Je_GpRjm7pGhkbEl0rOznaf9joTcUs83u9oB11RNp9fGYDwVKf-6giCrRwRZYx1g2cVBmNLfy7_q8NooSDudnAGciGmRkdx1qeKzW1NxLEklD45lMQiCKwn8yodaFR_cccr8t-OpSCFPy9",
+        "width": 1013
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104648330340861849784\">Art Uy</a>"
+        ],
+        "photo_reference": "ATJ83zhtVXxUFBzUPb6GFO7rDZg7rhmWKJwG8eChUv0TtymVFWl7X0DXbnbl0LyEHVa3EaiqnRNiBf4B4-UUxNJ4RN7OGI2F9SkJQjdbocamZBP3aiB-NnRguZJunBEYmx5z2z_tZAvll1cStpYXuISUS2Ma0sIX0erJoeasgjqGaizAM7Gi",
+        "width": 4000
+      },
+      {
+        "height": 1350,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102197039889446705685\">MYLK Cafe</a>"
+        ],
+        "photo_reference": "ATJ83zhWVE_iAWlWfdZkF9ExZPZfe4TJdv4LyP09NQ1lu20nUeGeF3IB5vIUVvTG3AULUiGDPAOnKW92pzDo0Vd58JJvK2Dnr3QTX1R2Q6DqmulcuhGsnKVvRGMWAjV7klISoRE9PZ_JdIUM6_M-2v7lYpgRjapa_ttszgD6yETGD8WutKU-",
+        "width": 1013
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102197039889446705685\">MYLK Cafe</a>"
+        ],
+        "photo_reference": "ATJ83zjYUEif5KftlQ7ZUP8xXCjUi3pTPJv_OrCkyzQhiGTiW5Fk7F4yCCpSp8fBVOR2x-sBhg2K_IDmyLf-C1UXEhN0-KMGQC5DG9YVFb6JA1MneK8v1Mj1jLP_hazA0Wgyzxb9cAg2jWeMSxJTsjkdiKC8toDO8zRZSzVQRUtNjmmX9Y5e",
+        "width": 1583
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104648330340861849784\">Art Uy</a>"
+        ],
+        "photo_reference": "ATJ83zgBUw-LDkTbOSg_7fulMUp4-DKsODDS3oAMn1CeCxSpoL-OLlBC46Tvprcr10AadvEzH_QkkHmVNie1dl4GB8sgGqnMXvFqNV1tJ_CLhSwH1wltMmP9juWHRs8wF8CuSkNc8tvb_ckTwjESjZ_ih6Eb05zjRqXX2XqTutwhXuNlQ65G",
+        "width": 3000
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102197039889446705685\">MYLK Cafe</a>"
+        ],
+        "photo_reference": "ATJ83zi4-WyyXgiyZFeBl90xffgxHrEjEs0TNs1XFSrjZH4RhJLXD96NkSOh67kldYJvetlM0_R17OnxIki0enm8EcyEKgbINPeSQowEbbcOpu2MTa9uze_YwBWRHjojzSi-Rj9c57FKLafBFtpWbOuqhEvomSNKx9cm185pjfn-sSvHwJAD",
+        "width": 1583
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102197039889446705685\">MYLK Cafe</a>"
+        ],
+        "photo_reference": "ATJ83zhUirisgk8TP2J2CBDK7N8RWIFYz8yKjtDOtqHnJMQTwHPoVt_bzv37K546Lg8qC16S2nDq55SLiaAAFJ1u_ZC8syoJOUABLw3xi0N5wX_-AgcjQzIolywa6-sLIeocmFtuopc8RfKN99ObD7sFvCIRe9QtN6GB6Ef_7PruZJ2H4yGz",
+        "width": 1582
+      },
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102197039889446705685\">MYLK Cafe</a>"
+        ],
+        "photo_reference": "ATJ83zhk9lOpCaDVCEEls0SbofjclANFTX34_r6LcYg1l3C8FcQbbUCAS8JuxeaWIrKvghYH2BSjTLjTXeUEcsribzWb6eAgdfgfcdCPYfEkB5yX-KFzvxr51DiD6EoPNmvQpkZgCxiowCd6OwxGk4qZmER2dXmkJrSfwltbbtlx-g6b8iDj",
+        "width": 1582
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110094944397295251287\">Vishnu Teja Reddy</a>"
+        ],
+        "photo_reference": "ATJ83zhzmncYPAD3IP0T40bWryHPiKT6eFAyZ2GS7gQkfMlbuM8PlqT4eRTkvzJ0Nr5M8iq070NvXYmZXyo8kCxvpC06jSSh8rFYGbTahAX9OiIikSe1-jpQSYe03Q8DoXgD-_fIZKafaaAsHUG47vWdhY120mAhL-5YD0d4ch30WLINmpiG",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109683007223279607456\">Andrew dela Serna</a>"
+        ],
+        "photo_reference": "ATJ83zg80ewwSpEOa8P_csK7Y_lG8L_2qKcO2X55mvZ_03U8DTbIPnglT_Mgf7nSeKHJxeOIJvui-VBx2sKrHH67jkculC3gFFY-DD0febSzBkMk3biEwLcKMMBCOwK1l4kWH2_BD5mN_ZiMSnlywiUoR8sYTonVtiw0bcpD4YyIdcfrulXF",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJfbgc_t5t-TIRZHs6kWbFoIU",
+    "plus_code": {
+      "compound_code": "3JJ2+MM Davao City, Davao del Sur, Philippines",
+      "global_code": "6QV73JJ2+MM"
+    },
+    "rating": 4.9,
+    "reference": "ChIJfbgc_t5t-TIRZHs6kWbFoIU",
+    "reviews": [
+      {
+        "author_name": "Karthi Keyan",
+        "author_url": "https://www.google.com/maps/contrib/106408891724599627592/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQ8B8cjpMLaLuWxZmHbvz62K6wMZHRK_uDYuQX6zN39g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "Unquestionably, the best vegan coffee shop in the area. The atmosphere is relaxing inside. They have wide range of drinks to choose from and also great food. I would recommend - Iced vanilla bean, Spanish cold brew, matcha, Smokey ham and grilled cheese. Trust me, you will love the experience and would come back for more.",
+        "time": 1693897499,
+        "translated": false
+      },
+      {
+        "author_name": "Andrew dela Serna",
+        "author_url": "https://www.google.com/maps/contrib/109683007223279607456/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3qCDaDauKfk7MeiSxBbdqcwcxGwANEZ7s0ad8od0GKxdl=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "An Instagram-worthy cafe that actually serves good drinks.  Try out their Iced Matcha or Purple Latte. You won’t be disappointed!",
+        "time": 1680878735,
+        "translated": false
+      },
+      {
+        "author_name": "Dan Thomas",
+        "author_url": "https://www.google.com/maps/contrib/109064732435996584878/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsIvs1sum3lpjAenV6jOPMa1338RBE0bedYlVzKlk5f7M=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Aesthetically pleasing interior, drinks are delicious, not a coffee drinker myself but there are good alternatives such as the purple latte or matcha, happy to find a place that uses pure ceremonial matcha",
+        "time": 1681138270,
+        "translated": false
+      },
+      {
+        "author_name": "Karla Cathleen Gomez",
+        "author_url": "https://www.google.com/maps/contrib/116139434109799780732/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXf5WI9M0agtCOUUTJcqUT-MeWLam0L_brvRSBx6oaF1z8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "As a vegan it's comforting to know that there is a cafe wherein I need not to worry about the coffee I am drinking. I am no longer limited to just americano whenever I want a coffee fix because I am assured that everything they use from plant milk, creams, flavor powders to syrups are all certified 100% plantbased vegan. Plus, as someone recently watching my carb intake, they offer sugar-free keto options for their lattes. I find the prices reasonable because it sure beats having to pay much more for milk substitutions in other coffee shops. Delectable vegan plantbased food offerings are available too. Must try brownies and cookies to go with a nice warm cuppa.",
+        "time": 1675640118,
+        "translated": false
+      },
+      {
+        "author_name": "Art Uy",
+        "author_url": "https://www.google.com/maps/contrib/104648330340861849784/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9O18MWy9Op9fAbVvpExkT-Ay7bXNxJmnd49wj4eKnEHk=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "I tried their Mocha and I like the taste 'coz it is not the typical 'Mocha' flavor. :)",
+        "time": 1694265051,
+        "translated": false
+      }
+    ],
+    "serves_brunch": true,
+    "takeout": true,
+    "types": ["cafe", "food", "store", "point_of_interest", "establishment"],
+    "url": "https://maps.google.com/?cid=9628913047631985508",
+    "user_ratings_total": 10,
+    "utc_offset": 480,
+    "vicinity": "Values School Building, Marfori Heights, Ruby Street, Davao City"
+  },
+  "status": "OK"
+}

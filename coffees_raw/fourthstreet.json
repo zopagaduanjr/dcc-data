@@ -1,0 +1,300 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [
+      {
+        "long_name": "3JF8+PQG",
+        "short_name": "3JF8+PQG",
+        "types": ["plus_code"]
+      },
+      {
+        "long_name": "Poblacion District",
+        "short_name": "Poblacion District",
+        "types": ["sublocality_level_1", "sublocality", "political"]
+      },
+      {
+        "long_name": "Davao City",
+        "short_name": "Davao City",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Davao del Sur",
+        "short_name": "Davao del Sur",
+        "types": ["administrative_area_level_2", "political"]
+      },
+      {
+        "long_name": "Davao Region",
+        "short_name": "Davao Region",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "Philippines",
+        "short_name": "PH",
+        "types": ["country", "political"]
+      },
+      { "long_name": "8000", "short_name": "8000", "types": ["postal_code"] }
+    ],
+    "adr_address": "Fourth Street Cafe, Narra Street Barangay, 3JF8+PQG, <span class=\"extended-address\">Poblacion District</span>, <span class=\"locality\">Davao City</span>, <span class=\"postal-code\">8000</span> <span class=\"region\">Davao del Sur</span>, <span class=\"country-name\">Philippines</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "date": "2023-10-01", "day": 0, "time": "2300" },
+          "open": { "date": "2023-10-01", "day": 0, "time": "0630" }
+        },
+        {
+          "close": { "date": "2023-10-02", "day": 1, "time": "2300" },
+          "open": { "date": "2023-10-02", "day": 1, "time": "0630" }
+        },
+        {
+          "close": { "date": "2023-10-03", "day": 2, "time": "2300" },
+          "open": { "date": "2023-10-03", "day": 2, "time": "0630" }
+        },
+        {
+          "close": { "date": "2023-10-04", "day": 3, "time": "2300" },
+          "open": { "date": "2023-10-04", "day": 3, "time": "0630" }
+        },
+        {
+          "close": { "date": "2023-10-05", "day": 4, "time": "2300" },
+          "open": { "date": "2023-10-05", "day": 4, "time": "0630" }
+        },
+        {
+          "close": { "date": "2023-10-06", "day": 5, "time": "2300" },
+          "open": { "date": "2023-10-06", "day": 5, "time": "0630" }
+        },
+        {
+          "close": { "date": "2023-09-30", "day": 6, "time": "2300" },
+          "open": { "date": "2023-09-30", "day": 6, "time": "0630" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:30 AM – 11:00 PM",
+        "Tuesday: 6:30 AM – 11:00 PM",
+        "Wednesday: 6:30 AM – 11:00 PM",
+        "Thursday: 6:30 AM – 11:00 PM",
+        "Friday: 6:30 AM – 11:00 PM",
+        "Saturday: 6:30 AM – 11:00 PM",
+        "Sunday: 6:30 AM – 11:00 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "Fourth Street Cafe, Narra Street Barangay, 3JF8+PQG, Poblacion District, Davao City, 8000 Davao del Sur, Philippines",
+    "formatted_phone_number": "0916 260 5477",
+    "geometry": {
+      "location": { "lat": 7.074315700000001, "lng": 125.6169638 },
+      "viewport": {
+        "northeast": { "lat": 7.075666030291502, "lng": 125.6183300302915 },
+        "southwest": { "lat": 7.072968069708498, "lng": 125.6156320697085 }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "international_phone_number": "+63 916 260 5477",
+    "name": "FOURTH STREET CAFE",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": { "day": 0, "time": "2300" },
+          "open": { "day": 0, "time": "0630" }
+        },
+        {
+          "close": { "day": 1, "time": "2300" },
+          "open": { "day": 1, "time": "0630" }
+        },
+        {
+          "close": { "day": 2, "time": "2300" },
+          "open": { "day": 2, "time": "0630" }
+        },
+        {
+          "close": { "day": 3, "time": "2300" },
+          "open": { "day": 3, "time": "0630" }
+        },
+        {
+          "close": { "day": 4, "time": "2300" },
+          "open": { "day": 4, "time": "0630" }
+        },
+        {
+          "close": { "day": 5, "time": "2300" },
+          "open": { "day": 5, "time": "0630" }
+        },
+        {
+          "close": { "day": 6, "time": "2300" },
+          "open": { "day": 6, "time": "0630" }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:30 AM – 11:00 PM",
+        "Tuesday: 6:30 AM – 11:00 PM",
+        "Wednesday: 6:30 AM – 11:00 PM",
+        "Thursday: 6:30 AM – 11:00 PM",
+        "Friday: 6:30 AM – 11:00 PM",
+        "Saturday: 6:30 AM – 11:00 PM",
+        "Sunday: 6:30 AM – 11:00 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110094944397295251287\">Vishnu Teja Reddy</a>"
+        ],
+        "photo_reference": "ATJ83zgzw-JEDMPiCNBeZ3aMOkoSkyNxqNInEVZs92ZvZDykntV-rTKI1ZtDz9q-IgLYNLAJryGTZJvu5d_HJSR6lVv0R8mVr6O2b0brekG4KccDgxhJ1GfEOHA-Yi2KnMMrRJ9F0iqLRU2gHA30NXDTk_hZZwZjIe1K67xDrRVYRyGhRnuU",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104457421599308990038\">Mr. Manager</a>"
+        ],
+        "photo_reference": "ATJ83zgEHJ0N8Q2FFp-B4wzWDStKZK2RAhBklUjCLJBSZlI-0nPdeAXkzdHrpY8wDxcJ0AdN7QHXSnzaIgIlRU82y8bpvX36CBjX_bbFSTqTL04zxIVKFoWuSCrGINL-w-8iFz9r7LO00s6Lx3q65XPnGqPGi2t4tSklhvSKDujBoaxZV5aX",
+        "width": 3024
+      },
+      {
+        "height": 9248,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112688317862707100574\">Alec Apollo Vergara</a>"
+        ],
+        "photo_reference": "ATJ83zim3_sMGVbt3OCXyIbKVlsA4peOrynn_bekWdZxClho8NH7Od97-_TrZ1pgRWegVuHSEeagBS_wXceQjif0OjcgQE2oJicb-IwUChz9cwFd7BpbjKTCmx8LdslUrT2g6-H_99LyOKdp3J10gaVaA1qdXit95UfuqAonkOowBBOXiQHj",
+        "width": 6944
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103037149661454740897\">Gian Angelo Gianan</a>"
+        ],
+        "photo_reference": "ATJ83zjjpXlipeGU1wmKsf5g0rhkn8al5o02Hg6QDzFGWEdiC08rHYUKDHmxvRTGcGYXxpbVtUGPid0owxFm13Lsd_rpYMAMJ_5-EIaIzmg7gNHXvdMZyFAmRz5OwgulgxSUKSp4RP6KQGfrFQ78r3pkQLZoY2hSExG4haNDI0i4dFEEfBSC",
+        "width": 4032
+      },
+      {
+        "height": 2992,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103210216066270690912\">Hwang H</a>"
+        ],
+        "photo_reference": "ATJ83zjA9i_CG3h3mDDFpf694lLjMzxdKEpg8tf0Oz52x7I28VgHRjgCRa0CqSsOiqxDAgn73AYuBZuMSrni5JHG-zzeYtJZxplUekgybyKWzGoihQAWfZ0y_YvI_9KQHdMUBQeCOQ1BeGwj2VetvTY0KdJShUXkF6P-I9Uy6wm-F-LMQQFH",
+        "width": 2992
+      },
+      {
+        "height": 2853,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110094944397295251287\">Vishnu Teja Reddy</a>"
+        ],
+        "photo_reference": "ATJ83zh9lPTF2m5XrOSt8iDgupy7Fsrn8hm0E50LG7Ued-zFtUCd1EYJNX1m2iPOECxjEjAEu209LjAWJgMoNyFhM5_JeHnrdWyz25RQSjwUPTWGfpGorR2yBten7E9Ek4_N2Izq6nZC_ltERzyaLfPsJkqMPonQPgXlJquDfeFSCM3DXONp",
+        "width": 2967
+      },
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115307643411043624912\">jeniii</a>"
+        ],
+        "photo_reference": "ATJ83zi7U6_yv0FRrV5c4ZP4L1vfKw6D59IBH4Hzs3-za1eF1Fw8EIXyudhUCyC1gRkCF9DcdQmV42gZFJ--rybi1IwjxxbGov029oRtBLQfutlzAGXRlDJiFT7IWQLkwZ6m-BPxG1ZURB_ihmW28oYi_hgNP9t_Q10hynfpi4hx4MAyMayD",
+        "width": 3456
+      },
+      {
+        "height": 5472,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113542771109741637043\">Perry Paul Lamanilao</a>"
+        ],
+        "photo_reference": "ATJ83zjuIE9khTpi46YrdDkXCz_1HlM0IrWHdJxN-HkkdtT38cxQKeMFj3M0edm8pHSgBK1gSU0utgoMJveuL_bc9Jd_lTQmBQNqRRmHbQ0a5OZZiCWYi5nAIYMqJa0sg1CQaEGkdLxsF1klpoIpMG4sH2gVL7oDZFRq9RP0daDfKlq8rv9i",
+        "width": 7296
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110094944397295251287\">Vishnu Teja Reddy</a>"
+        ],
+        "photo_reference": "ATJ83zgld8PWUaLjuMSWoOQNHbIuZwFtdPSFgDg427wAW8wCLjWdwRzGHNBPjkcXmhW_CH-3PpxJABl1AcduVtClgzNxi7teWPrDGv6niizt90G8CgiXavvcXBwO7MicD7NzC8vz2-8ObZ39eXY0DhoMlXuaxfvkIy1b740F10B_DKmrwDDS",
+        "width": 4032
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110237617876451779938\">Leilanie Sagun</a>"
+        ],
+        "photo_reference": "ATJ83zgjyFM_Uj80WXYPAi21XNfzjwUPNu8JtRUvL9WUDCC_8vlrHp6Ta1e87czoErv65mHNdIIxzrkqFVSFfcag_NXERjDD6xtilAc6hPCVUSv7C_s6TdgzwokBo8jDuVH5P19sB-MOZ6eo6_1GUuldNRV0bh1SOHTpfy2x73qk6sW193wp",
+        "width": 1084
+      }
+    ],
+    "place_id": "ChIJMyUeY4Nt-TIRT3Uht5eQ34Q",
+    "rating": 4.6,
+    "reference": "ChIJMyUeY4Nt-TIRT3Uht5eQ34Q",
+    "reviews": [
+      {
+        "author_name": "SY T",
+        "author_url": "https://www.google.com/maps/contrib/103728639540111072908/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWelyDTUrdJhvQ52qS9OOZ2VYLX34udb_buWSf1GALt6X0=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "a month ago",
+        "text": "First of all, thank God for a coffeeshop that opens before 9am. The place is very good if you come here before lunch time as the place is alfresco. I probably wouldn't recommend coming here during lunchtime though as the heat from the outside radiates inside.\n\nTheir aesthetic is very clean and minimalistic, which is also translated to their coffee menu as I have a hard time ordering their coffee because of the unusual labeling. In terms of the functionality of the space, it's a bit uncomfortable because of the seats. They don't really have backrests so if your just planning for a quick coffee stop, or if your planning to kill time alone while waiting for your friends or family, then this is the place to go.\n\nAs for their coffee, I ordered their white coffee which I liked as it had the strong coffee flavor which was not overpowered by the milk. My boyfriend ordered their mocha, which was also good. A perfect blend of coffee and chocolate.\n\nWould recommend!",
+        "time": 1691553848,
+        "translated": false
+      },
+      {
+        "author_name": "Kyla G",
+        "author_url": "https://www.google.com/maps/contrib/104526622295715764018/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-Z0u9Hi35b4fa6_RP9deGjMSP_G7Zi3MN5AXAb4St=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "We were in Davao last February 2023 and this was listed as one of the brunch places nearby. Unfortunately, when we got there, we were informed that they no longer serve food. Instead, we just tried their Spanish Latte and Hot Chocolate. We got to chat with who I presume is the owner and he mentioned that they are a specialty coffee shop. I liked their Spanish Latte, although I would've loved it more if it were a bit stronger. The vibe of the coffee shop is very clean and minimalist. It's perfect to have your morning coffee. They also have a small outdoor area if you want to have more privacy. It's conducive for dates and studying. I would suggest for them to bring back their food items and maybe some desserts to pair with their coffee. And also maybe they need more fans, especially during the summer. Overall, this is one of the top coffee shops that I've tried in Davao who serve well-made coffee.",
+        "time": 1681702121,
+        "translated": false
+      },
+      {
+        "author_name": "Jill Patrick Fulleros",
+        "author_url": "https://www.google.com/maps/contrib/111480488792340718907/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvej8pJwuzuPc_GKUGVLmGIAAqqjg_EMPZ4yDDbOhoCzg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "I am amazed with this cafe's concept. No tables. Just benches. It's refreshing to think that people buying coffee here just lounge at benches. You can either catch a conversation with a random person in the cafe or just sit quietly over a cup of affogato.\n\nTheir coffee is really good, by the way.",
+        "time": 1687845691,
+        "translated": false
+      },
+      {
+        "author_name": "Jecho Carlos (cryzereye)",
+        "author_url": "https://www.google.com/maps/contrib/101777935207948832670/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsjEntJMnzhzNoVsu7VkigFlqgEh8sb3Z0m0gDvv4dp10L=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Bought:\nMorning - Iced Spanish Latte + Summer\nAfter Lunch - Summer\n\nSummer is god-tier. I personally think that it would be better with citrusy beans, but their current beans is already a great one.\n\nOpen space area but quiet. Kudos on the experimental drinks",
+        "time": 1691748925,
+        "translated": false
+      },
+      {
+        "author_name": "Anish Thakkar (Doc Thakkar)",
+        "author_url": "https://www.google.com/maps/contrib/100632513839405797964/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsYq2txA4sHmOzPKfdlidluoMtXkDxjlSbsvLpk44XLiU=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Heard great things on google, and they are all correct. The barista takes his time to make sure everything comes out well. Beans are sourced locally, and I got the iced mocha for 100 pesos. They have clean water on tap, which I appreciated after my workout.\n\nThe mocha was delicious and well-balanced. So glad I made the trip out here, and you should too!",
+        "time": 1676444572,
+        "translated": false
+      }
+    ],
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_wine": false,
+    "takeout": true,
+    "types": ["cafe", "food", "store", "point_of_interest", "establishment"],
+    "url": "https://maps.google.com/?cid=9574530314099848527",
+    "user_ratings_total": 223,
+    "utc_offset": 480,
+    "vicinity": "3JF8+PQG, Fourth Street Cafe, Narra Street Barangay, Davao City",
+    "website": "http://www.facebook.com/fourthstreetcafedvo",
+    "wheelchair_accessible_entrance": true
+  },
+  "status": "OK"
+}
