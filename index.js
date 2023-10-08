@@ -1,5 +1,6 @@
 var http = require("http");
 const { Client } = require("@googlemaps/google-maps-services-js");
+const { decode } = require("@googlemaps/polyline-codec");
 require("dotenv").config();
 
 const client = new Client({});
@@ -63,4 +64,55 @@ async function search(placeName) {
   searchElevation(location);
 }
 
-search("VNL.DVO");
+async function callComputeRoutes(
+  destinationWaypoint,
+  originWaypoint,
+  intermediateWaypoints
+) {
+  // Construct request
+  const https = require("https");
+  var options = {
+    hostname: "routes.googleapis.com",
+    port: 443,
+    path: "/directions/v2:computeRoutes",
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "X-Goog-Api-Key": apiKey,
+      "X-Goog-FieldMask": "routes",
+    },
+  };
+
+  var postData = JSON.stringify({
+    origin: originWaypoint,
+    destination: destinationWaypoint,
+    intermediates: intermediateWaypoints,
+    travelMode: "DRIVE",
+    optimizeWaypointOrder: true,
+  });
+
+  var req = https.request(options, (res) => {
+    var body = "";
+    res.on("data", function (chunk) {
+      body += chunk;
+    });
+    res.on("end", function () {
+      console.log(body);
+      pbcopy(body);
+    });
+  });
+
+  req.on("error", (e) => {
+    console.error(e);
+  });
+
+  req.write(postData);
+  req.end();
+}
+
+function decodePolyline(data) {
+  const encoded = data;
+  var zed = decode(encoded);
+  console.log(zed);
+  pbcopy(JSON.stringify(zed));
+}

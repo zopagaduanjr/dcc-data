@@ -1,0 +1,2159 @@
+{
+  "routes": [
+    {
+      "legs": [
+        {
+          "distanceMeters": 4897,
+          "duration": "681s",
+          "staticDuration": "681s",
+          "polyline": {
+            "encodedPolyline": "igfj@avr}VuFyC_@jBm@fBS~@SdA_@hBRNCJ@TDJpAhB`@t@Jf@A`@CJ_@hAg@dBg@`BQf@Gh@D`@DNRvAFf@P~ATvC@L@L\\xDHb@T|CL^LnA@t@XdDBj@@ZC~@?H{ApJI`@Gb@Kl@EVOp@Ef@DRRVbEvA^NvAb@h@ZJPPf@@lDBXGJPdEHl@JXnC`FBDf@hANE`@MrBc@|@ONEvASz@MVEh@Gr@Ip@IlA]n@a@lGcFh@a@jAm@v@a@j@Yr@]\\QfB{@p@[lCoAdAg@jAm@`B{@jA{@`@]`IqHn@q@lEkE`CwB~@m@d@Q`@KzDm@zDk@tFw@j@K"
+          },
+          "startLocation": {
+            "latLng": {
+              "latitude": 7.0822857,
+              "longitude": 125.6024083
+            }
+          },
+          "endLocation": {
+            "latLng": {
+              "latitude": 7.0636913,
+              "longitude": 125.5924673
+            }
+          },
+          "steps": [
+            {
+              "distanceMeters": 162,
+              "staticDuration": "49s",
+              "polyline": {
+                "encodedPolyline": "igfj@avr}VuFyC"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0822857,
+                  "longitude": 125.6024083
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0835244999999993,
+                  "longitude": 125.603185
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head northeast on Topaz St toward Pearl St"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.2 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 63,
+              "staticDuration": "10s",
+              "polyline": {
+                "encodedPolyline": "_ofj@{zr}V_@jB"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0835244999999993,
+                  "longitude": 125.603185
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0836803999999995,
+                  "longitude": 125.6026381
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto Pearl St"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "63 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 200,
+              "staticDuration": "34s",
+              "polyline": {
+                "encodedPolyline": "_pfj@owr}Vm@fBS~@SdA_@hB"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0836803999999995,
+                  "longitude": 125.6026381
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.084270000000001,
+                  "longitude": 125.60092410000001
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "NAME_CHANGE",
+                "instructions": "Continue onto SM De Erio Ave"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.2 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 15,
+              "staticDuration": "4s",
+              "polyline": {
+                "encodedPolyline": "usfj@wlr}VRN"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.084270000000001,
+                  "longitude": 125.60092410000001
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0841651999999993,
+                  "longitude": 125.60084280000001
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left to stay on SM De Erio Ave"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "15 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 865,
+              "staticDuration": "163s",
+              "polyline": {
+                "encodedPolyline": "asfj@glr}VCJ@TDJpAhB`@t@Jf@A`@CJ_@hAg@dBg@`BQf@Gh@D`@DNRvAFf@P~ATvC@L@L\\xDHb@T|C"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0841651999999993,
+                  "longitude": 125.60084280000001
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0835004999999995,
+                  "longitude": 125.59342729999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right onto Gold St/SM De Erio Ave"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.9 km"
+                },
+                "staticDuration": {
+                  "text": "3 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 94,
+              "staticDuration": "10s",
+              "polyline": {
+                "encodedPolyline": "{nfj@}}p}VL^LnA@t@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0835004999999995,
+                  "longitude": 125.59342729999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0833534,
+                  "longitude": 125.5925965
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "NAME_CHANGE",
+                "instructions": "Gold St/SM De Erio Ave turns slightly left and becomes Ma-a Bridge"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "94 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 1268,
+              "staticDuration": "154s",
+              "polyline": {
+                "encodedPolyline": "}mfj@wxp}VXdDBj@@ZC~@?H{ApJI`@Gb@Kl@EVOp@Ef@DRRVbEvA^NvAb@h@ZJPPf@@lDBXGJPdEHl@JXnC`FBDf@hA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0833534,
+                  "longitude": 125.5925965
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0807609000000005,
+                  "longitude": 125.58274519999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "NAME_CHANGE",
+                "instructions": "Continue onto Eden St\nPass by the gas station (on the right in 1.2 km)"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "1.3 km"
+                },
+                "staticDuration": {
+                  "text": "3 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 2230,
+              "staticDuration": "257s",
+              "polyline": {
+                "encodedPolyline": "w}ej@e{n}VNE`@MrBc@|@ONEvASz@MVEh@Gr@Ip@IlA]n@a@lGcFh@a@jAm@v@a@j@Yr@]\\QfB{@p@[lCoAdAg@jAm@`B{@jA{@`@]`IqHn@q@lEkE`CwB~@m@d@Q`@KzDm@zDk@tFw@j@K"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0807609000000005,
+                  "longitude": 125.58274519999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0636913,
+                  "longitude": 125.5924673
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left after Davao Convenience Store (on the left)\nDestination will be on the left"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "2.2 km"
+                },
+                "staticDuration": {
+                  "text": "4 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            }
+          ],
+          "localizedValues": {
+            "distance": {
+              "text": "4.9 km"
+            },
+            "duration": {
+              "text": "11 mins"
+            },
+            "staticDuration": {
+              "text": "11 mins"
+            }
+          }
+        },
+        {
+          "distanceMeters": 2258,
+          "duration": "438s",
+          "staticDuration": "438s",
+          "polyline": {
+            "encodedPolyline": "asbj@}wp}VTEbAOxGcARCMaACQmBoMo@kEfASzB[xB[rDi@hMoBPCnB]|JyAzCe@^G|@Ub@PTFPRb@VbFzBdEtBp@Z{@pBLv@z@xF"
+          },
+          "startLocation": {
+            "latLng": {
+              "latitude": 7.0636913,
+              "longitude": 125.5924673
+            }
+          },
+          "endLocation": {
+            "latLng": {
+              "latitude": 7.0510056999999993,
+              "longitude": 125.59500979999999
+            }
+          },
+          "steps": [
+            {
+              "distanceMeters": 213,
+              "staticDuration": "50s",
+              "polyline": {
+                "encodedPolyline": "asbj@}wp}VTEbAOxGcA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0636913,
+                  "longitude": 125.5924673
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0618308999999995,
+                  "longitude": 125.59291710000001
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head south on Don Julian Rodriguez Sr. Ave/Ma-a Rd toward Davao City-Junction Digos Section Rd/Davao-Cotabato Rd/Gen. Douglas MacArthur Hwy"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.2 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 438,
+              "staticDuration": "92s",
+              "polyline": {
+                "encodedPolyline": "mgbj@wzp}VRCMaACQmBoMo@kE"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0618308999999995,
+                  "longitude": 125.59291710000001
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0626114,
+                  "longitude": 125.59670089999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto Davao City-Junction Digos Section Rd/Davao-Cotabato Rd/Gen. Douglas MacArthur Hwy"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.4 km"
+                },
+                "staticDuration": {
+                  "text": "2 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 983,
+              "staticDuration": "168s",
+              "polyline": {
+                "encodedPolyline": "ilbj@krq}VfASzB[xB[rDi@hMoBPCnB]|JyAzCe@^G|@U"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0626114,
+                  "longitude": 125.59670089999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.054022,
+                  "longitude": 125.5988075
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right after 7-Eleven 1949 UM MATINA (on the right)"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "1.0 km"
+                },
+                "staticDuration": {
+                  "text": "3 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 23,
+              "staticDuration": "6s",
+              "polyline": {
+                "encodedPolyline": "sv`j@q_r}Vb@P"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.054022,
+                  "longitude": 125.5988075
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0538352,
+                  "longitude": 125.5987206
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right onto ABS-CBN-Quimpo Blvd Diversion Rd"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "23 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 356,
+              "staticDuration": "75s",
+              "polyline": {
+                "encodedPolyline": "ou`j@__r}VTFPRb@VbFzBdEtBp@Z"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0538352,
+                  "longitude": 125.5987206
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0510766999999994,
+                  "longitude": 125.59710960000001
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "STRAIGHT",
+                "instructions": "Continue straight onto Ecoland Dr"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.4 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 245,
+              "staticDuration": "47s",
+              "polyline": {
+                "encodedPolyline": "gd`j@}tq}V{@pBLv@z@xF"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0510766999999994,
+                  "longitude": 125.59710960000001
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0510056999999993,
+                  "longitude": 125.59500979999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right onto 6th St\nDestination will be on the right"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.2 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            }
+          ],
+          "localizedValues": {
+            "distance": {
+              "text": "2.3 km"
+            },
+            "duration": {
+              "text": "7 mins"
+            },
+            "staticDuration": {
+              "text": "7 mins"
+            }
+          }
+        },
+        {
+          "distanceMeters": 4281,
+          "duration": "800s",
+          "staticDuration": "800s",
+          "polyline": {
+            "encodedPolyline": "yc`j@ygq}V{@yFMw@z@qBJUwFqCiEwB}@[]@UGc@Q[W]UgD}AmGuCu@a@y@{@{@eBYkAIgAKaBQuBEi@BSCw@e@aG[mDSi@Ow@Mm@_@mA{@uAQYa@m@_AaA[]iBcBmAeAuAiAIUOO_CwA}@g@YQ[WIGk@i@SWi@o@Y[IKcAcBEGs@cBw@kCCIUaACQKUc@q@uAcBwBqCqAcBw@eAyAiBa@e@OUqDuEMHaAz@iAz@[]sIp@mALiAJCgDkHTkHLBlBoAD"
+          },
+          "startLocation": {
+            "latLng": {
+              "latitude": 7.0510056999999993,
+              "longitude": 125.59500979999999
+            }
+          },
+          "endLocation": {
+            "latLng": {
+              "latitude": 7.0743193999999994,
+              "longitude": 125.6170127
+            }
+          },
+          "steps": [
+            {
+              "distanceMeters": 245,
+              "staticDuration": "42s",
+              "polyline": {
+                "encodedPolyline": "yc`j@ygq}V{@yFMw@z@qB"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0510056999999993,
+                  "longitude": 125.59500979999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0510766999999994,
+                  "longitude": 125.59710960000001
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head east on 6th St toward 2nd St"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.2 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 371,
+              "staticDuration": "97s",
+              "polyline": {
+                "encodedPolyline": "gd`j@}tq}VJUwFqCiEwB}@[]@UG"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0510766999999994,
+                  "longitude": 125.59710960000001
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0538352,
+                  "longitude": 125.5987206
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto Ecoland Dr"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.4 km"
+                },
+                "staticDuration": {
+                  "text": "2 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 717,
+              "staticDuration": "152s",
+              "polyline": {
+                "encodedPolyline": "ou`j@__r}Vc@Q[W]UgD}AmGuCu@a@y@{@{@eBYkAIgAKaBQuBEi@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0538352,
+                  "longitude": 125.5987206
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0577193,
+                  "longitude": 125.6032677
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "NAME_CHANGE",
+                "instructions": "Continue onto ABS-CBN-Quimpo Blvd Diversion Rd/Quimpo Blvd"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.7 km"
+                },
+                "staticDuration": {
+                  "text": "3 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 310,
+              "staticDuration": "34s",
+              "polyline": {
+                "encodedPolyline": "wmaj@m{r}VBSCw@e@aG[mDSi@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0577193,
+                  "longitude": 125.6032677
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0581532,
+                  "longitude": 125.60601790000001
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "NAME_CHANGE",
+                "instructions": "ABS-CBN-Quimpo Blvd Diversion Rd/Quimpo Blvd turns slightly right and becomes Bolton Bridge"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.3 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 1695,
+              "staticDuration": "266s",
+              "polyline": {
+                "encodedPolyline": "mpaj@sls}VOw@Mm@_@mA{@uAQYa@m@_AaA[]iBcBmAeAuAiAIUOO_CwA}@g@YQ[WIGk@i@SWi@o@Y[IKcAcBEGs@cBw@kCCIUaACQKUc@q@uAcBwBqCqAcBw@eAyAiBa@e@OUqDuE"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0581532,
+                  "longitude": 125.60601790000001
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0675498999999995,
+                  "longitude": 125.61780519999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "NAME_CHANGE",
+                "instructions": "Continue onto Quezon Blvd"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "1.7 km"
+                },
+                "staticDuration": {
+                  "text": "4 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 111,
+              "staticDuration": "29s",
+              "polyline": {
+                "encodedPolyline": "ekcj@ivu}VMHaAz@iAz@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0675498999999995,
+                  "longitude": 125.61780519999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0683222,
+                  "longitude": 125.61716249999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto Emilio Jacinto St"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.1 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 22,
+              "staticDuration": "5s",
+              "polyline": {
+                "encodedPolyline": "_pcj@gru}V[]"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0683222,
+                  "longitude": 125.61716249999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0684588999999995,
+                  "longitude": 125.61730700000001
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right onto Aurora Quezon St"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "22 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 277,
+              "staticDuration": "53s",
+              "polyline": {
+                "encodedPolyline": "{pcj@esu}VsIp@mALiAJ"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0684588999999995,
+                  "longitude": 125.61730700000001
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0709231,
+                  "longitude": 125.616931
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto Guerrero"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.3 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 93,
+              "staticDuration": "19s",
+              "polyline": {
+                "encodedPolyline": "g`dj@ypu}VCgD"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0709231,
+                  "longitude": 125.616931
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0709352,
+                  "longitude": 125.61777289999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right onto D. Ponce St"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "93 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 335,
+              "staticDuration": "68s",
+              "polyline": {
+                "encodedPolyline": "k`dj@avu}VkHTkHL"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0709352,
+                  "longitude": 125.61777289999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0739446999999993,
+                  "longitude": 125.61758669999998
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto Chavez St"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.3 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 60,
+              "staticDuration": "20s",
+              "polyline": {
+                "encodedPolyline": "csdj@}tu}VBlB"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0739446999999993,
+                  "longitude": 125.61758669999998
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0739167,
+                  "longitude": 125.6170434
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left at the 2nd cross street onto Ramon Magsaysay Ave"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "60 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 45,
+              "staticDuration": "15s",
+              "polyline": {
+                "encodedPolyline": "_sdj@oqu}VoAD"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0739167,
+                  "longitude": 125.6170434
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0743193999999994,
+                  "longitude": 125.6170127
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right onto Narra St\nDestination will be on the left"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "45 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            }
+          ],
+          "localizedValues": {
+            "distance": {
+              "text": "4.3 km"
+            },
+            "duration": {
+              "text": "13 mins"
+            },
+            "staticDuration": {
+              "text": "13 mins"
+            }
+          }
+        },
+        {
+          "distanceMeters": 4674,
+          "duration": "763s",
+          "staticDuration": "763s",
+          "polyline": {
+            "encodedPolyline": "oudj@iqu}VgELEsBkHR_B@YEkAyAqAaBwD}EgEqF}DgFCAAQsBqCcAkAOSaBwBc@k@_@g@c@e@_@i@{@cAU[}KuNkCcD{CwD_BuBuCoDmA}AeB{B{BkCeAaAkA_AyCaCIIy@g@_FuD_GqE[WuBcBiIkGcW}RcD}BkL{IkA}@`AaANAL?JCf@W"
+          },
+          "startLocation": {
+            "latLng": {
+              "latitude": 7.0743193999999994,
+              "longitude": 125.6170127
+            }
+          },
+          "endLocation": {
+            "latLng": {
+              "latitude": 7.1031106999999993,
+              "longitude": 125.6443961
+            }
+          },
+          "steps": [
+            {
+              "distanceMeters": 111,
+              "staticDuration": "25s",
+              "polyline": {
+                "encodedPolyline": "oudj@iqu}VgEL"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0743193999999994,
+                  "longitude": 125.6170127
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0753165,
+                  "longitude": 125.616937
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head north on Narra St toward T.Monteverde St"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.1 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 64,
+              "staticDuration": "17s",
+              "polyline": {
+                "encodedPolyline": "w{dj@{pu}VEsB"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0753165,
+                  "longitude": 125.616937
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0753461,
+                  "longitude": 125.61751670000001
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right at the 1st cross street onto T.Monteverde St"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "64 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 167,
+              "staticDuration": "34s",
+              "polyline": {
+                "encodedPolyline": "}{dj@otu}VkHR"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0753461,
+                  "longitude": 125.61751670000001
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0768479,
+                  "longitude": 125.61741799999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left at the 1st cross street onto Chavez St"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.2 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 1035,
+              "staticDuration": "196s",
+              "polyline": {
+                "encodedPolyline": "ieej@{su}V_B@YEkAyAqAaBwD}EgEqF}DgFCAAQsBqCcAkAOSaBwBc@k@_@g@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0768479,
+                  "longitude": 125.61741799999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0829787,
+                  "longitude": 125.62418599999998
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "NAME_CHANGE",
+                "instructions": "Continue onto Lapu-Lapu St\nPass by ALBEA Auto Parts Center (on the left)"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "1.0 km"
+                },
+                "staticDuration": {
+                  "text": "3 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 3196,
+              "staticDuration": "426s",
+              "polyline": {
+                "encodedPolyline": "skfj@e~v}Vc@e@_@i@{@cAU[}KuNkCcD{CwD_BuBuCoDmA}AeB{B{BkCeAaAkA_AyCaCIIy@g@_FuD_GqE[WuBcBiIkGcW}RcD}BkL{IkA}@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0829787,
+                  "longitude": 125.62418599999998
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.1038467,
+                  "longitude": 125.6439224
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "NAME_CHANGE",
+                "instructions": "Continue onto R. Castillo St"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "3.2 km"
+                },
+                "staticDuration": {
+                  "text": "7 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 101,
+              "staticDuration": "65s",
+              "polyline": {
+                "encodedPolyline": "anjj@oyz}V`AaANAL?JCf@W"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.1038467,
+                  "longitude": 125.6439224
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.1031106999999993,
+                  "longitude": 125.6443961
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right\nDestination will be on the right"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.1 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            }
+          ],
+          "localizedValues": {
+            "distance": {
+              "text": "4.7 km"
+            },
+            "duration": {
+              "text": "13 mins"
+            },
+            "staticDuration": {
+              "text": "13 mins"
+            }
+          }
+        },
+        {
+          "distanceMeters": 4628,
+          "duration": "781s",
+          "staticDuration": "781s",
+          "polyline": {
+            "encodedPolyline": "mijj@o|z}VTKfAi@RElADBq@}@HYFE@{Ap@GBu@f@SBC?SDA@eAv@IL~AlAjL~IbDzBtDtClQfN|LnJ\\V|FpEbFpDt@l@HF~AhAzCdCp@p@JHdC|CzC|DrCnDzAnBjH`JrFfH~C`ETXVZBXEVFf@ABKZIHoClB{B`BuAhAqAbAqAfAsAbARZbBvBhB|BfElFUTq@h@kAz@jDnE"
+          },
+          "startLocation": {
+            "latLng": {
+              "latitude": 7.1031106999999993,
+              "longitude": 125.6443961
+            }
+          },
+          "endLocation": {
+            "latLng": {
+              "latitude": 7.0844667,
+              "longitude": 125.61747050000001
+            }
+          },
+          "steps": [
+            {
+              "distanceMeters": 116,
+              "staticDuration": "45s",
+              "polyline": {
+                "encodedPolyline": "mijj@o|z}VTKfAi@RElAD"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.1031106999999993,
+                  "longitude": 125.6443961
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.1021519000000009,
+                  "longitude": 125.6446739
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head southeast"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.1 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 27,
+              "staticDuration": "12s",
+              "polyline": {
+                "encodedPolyline": "mcjj@e~z}VBq@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.1021519000000009,
+                  "longitude": 125.6446739
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.1021326,
+                  "longitude": 125.64491790000001
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "27 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 231,
+              "staticDuration": "84s",
+              "polyline": {
+                "encodedPolyline": "icjj@w_{}V}@HYFE@{Ap@GBu@f@SBC?SDA@eAv@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.1021326,
+                  "longitude": 125.64491790000001
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.1039511,
+                  "longitude": 125.64400839999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.2 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 3120,
+              "staticDuration": "442s",
+              "polyline": {
+                "encodedPolyline": "unjj@azz}VIL~AlAjL~IbDzBtDtClQfN|LnJ\\V|FpEbFpDt@l@HF~AhAzCdCp@p@JHdC|CzC|DrCnDzAnBjH`JrFfH~C`ETXVZ"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.1039511,
+                  "longitude": 125.64400839999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.083622,
+                  "longitude": 125.6247963
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_SHARP_LEFT",
+                "instructions": "Sharp left onto R. Castillo St"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "3.1 km"
+                },
+                "staticDuration": {
+                  "text": "7 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 28,
+              "staticDuration": "6s",
+              "polyline": {
+                "encodedPolyline": "sofj@_bw}VBXEV"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.083622,
+                  "longitude": 125.6247963
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0836291,
+                  "longitude": 125.624551
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_SLIGHT_RIGHT",
+                "instructions": "Slight right to stay on R. Castillo St"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "28 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 480,
+              "staticDuration": "79s",
+              "polyline": {
+                "encodedPolyline": "uofj@m`w}VFf@ABKZIHoClB{B`BuAhAqAbAqAfAsAbA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0836291,
+                  "longitude": 125.624551
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0867230999999995,
+                  "longitude": 125.62169369999998
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "STRAIGHT",
+                "instructions": "Continue straight onto Dacudao Ave"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.5 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 369,
+              "staticDuration": "65s",
+              "polyline": {
+                "encodedPolyline": "_cgj@qnv}VRZbBvBhB|BfElF"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0867230999999995,
+                  "longitude": 125.62169369999998
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0845902,
+                  "longitude": 125.61913109999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto Vinzon St"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.4 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 107,
+              "staticDuration": "22s",
+              "polyline": {
+                "encodedPolyline": "uufj@q~u}VUTq@h@kAz@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0845902,
+                  "longitude": 125.61913109999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0853344,
+                  "longitude": 125.6185115
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right onto Nicasio Torres St"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.1 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 150,
+              "staticDuration": "26s",
+              "polyline": {
+                "encodedPolyline": "izfj@uzu}VjDnE"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0853344,
+                  "longitude": 125.6185115
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0844667,
+                  "longitude": 125.61747050000001
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left at the 2nd cross street onto Teodoro Palma Gil St\nDestination will be on the right"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.2 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            }
+          ],
+          "localizedValues": {
+            "distance": {
+              "text": "4.6 km"
+            },
+            "duration": {
+              "text": "13 mins"
+            },
+            "staticDuration": {
+              "text": "13 mins"
+            }
+          }
+        },
+        {
+          "distanceMeters": 830,
+          "duration": "160s",
+          "staticDuration": "160s",
+          "polyline": {
+            "encodedPolyline": "}tfj@etu}VkDoEiAx@eAz@iA|@kAz@gA|@iAz@kAz@gAz@iA|@y@|@_CfBGBm@b@i@\\"
+          },
+          "startLocation": {
+            "latLng": {
+              "latitude": 7.0844667,
+              "longitude": 125.61747050000001
+            }
+          },
+          "endLocation": {
+            "latLng": {
+              "latitude": 7.0900536999999995,
+              "longitude": 125.61460699999999
+            }
+          },
+          "steps": [
+            {
+              "distanceMeters": 150,
+              "staticDuration": "23s",
+              "polyline": {
+                "encodedPolyline": "}tfj@etu}VkDoE"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0844667,
+                  "longitude": 125.61747050000001
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0853344,
+                  "longitude": 125.6185115
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head northeast on Teodoro Palma Gil St toward Nicasio Torres St"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.2 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 680,
+              "staticDuration": "137s",
+              "polyline": {
+                "encodedPolyline": "izfj@uzu}ViAx@eAz@iA|@kAz@gA|@iAz@kAz@gAz@iA|@y@|@_CfBGBm@b@i@\\"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0853344,
+                  "longitude": 125.6185115
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0900536999999995,
+                  "longitude": 125.61460699999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left at the 1st cross street onto Nicasio Torres St\nDestination will be on the right"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.7 km"
+                },
+                "staticDuration": {
+                  "text": "2 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            }
+          ],
+          "localizedValues": {
+            "distance": {
+              "text": "0.8 km"
+            },
+            "duration": {
+              "text": "3 mins"
+            },
+            "staticDuration": {
+              "text": "3 mins"
+            }
+          }
+        },
+        {
+          "distanceMeters": 445,
+          "duration": "103s",
+          "staticDuration": "103s",
+          "polyline": {
+            "encodedPolyline": "ywgj@ibu}VvAaAFC~BgBx@}@hA}@hEtFNK"
+          },
+          "startLocation": {
+            "latLng": {
+              "latitude": 7.0900536999999995,
+              "longitude": 125.61460699999999
+            }
+          },
+          "endLocation": {
+            "latLng": {
+              "latitude": 7.0871789,
+              "longitude": 125.6149346
+            }
+          },
+          "steps": [
+            {
+              "distanceMeters": 258,
+              "staticDuration": "62s",
+              "polyline": {
+                "encodedPolyline": "ywgj@ibu}VvAaAFC~BgBx@}@hA}@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0900536999999995,
+                  "longitude": 125.61460699999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0882746999999995,
+                  "longitude": 125.61609829999998
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head southeast on Nicasio Torres St toward Veloso St"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.3 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 176,
+              "staticDuration": "32s",
+              "polyline": {
+                "encodedPolyline": "ulgj@sku}VhEtF"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0882746999999995,
+                  "longitude": 125.61609829999998
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0872585,
+                  "longitude": 125.61487369999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right onto Lacson St"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.2 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 11,
+              "staticDuration": "9s",
+              "polyline": {
+                "encodedPolyline": "kfgj@}cu}VNK"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0872585,
+                  "longitude": 125.61487369999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0871789,
+                  "longitude": 125.6149346
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left at the 1st cross street onto Cervantes St\nDestination will be on the right"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "11 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            }
+          ],
+          "localizedValues": {
+            "distance": {
+              "text": "0.4 km"
+            },
+            "duration": {
+              "text": "2 mins"
+            },
+            "staticDuration": {
+              "text": "2 mins"
+            }
+          }
+        },
+        {
+          "distanceMeters": 1233,
+          "duration": "299s",
+          "staticDuration": "299s",
+          "polyline": {
+            "encodedPolyline": "{egj@idu}VOJfEtFnDjEVf@R^v@dBe@Ry@\\GDdD~HNXRZrBpAJJVHd@FzAVZLPNhChDrAcAhBfC"
+          },
+          "startLocation": {
+            "latLng": {
+              "latitude": 7.0871789,
+              "longitude": 125.6149346
+            }
+          },
+          "endLocation": {
+            "latLng": {
+              "latitude": 7.0811094999999993,
+              "longitude": 125.60758080000001
+            }
+          },
+          "steps": [
+            {
+              "distanceMeters": 11,
+              "staticDuration": "3s",
+              "polyline": {
+                "encodedPolyline": "{egj@idu}VOJ"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0871789,
+                  "longitude": 125.6149346
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0872585,
+                  "longitude": 125.61487369999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head northwest on Cervantes St toward Lacson St"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "11 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 436,
+              "staticDuration": "117s",
+              "polyline": {
+                "encodedPolyline": "kfgj@}cu}VfEtFnDjEVf@R^v@dB"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0872585,
+                  "longitude": 125.61487369999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0848773,
+                  "longitude": 125.6117522
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left at the 1st cross street onto Lacson St"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.4 km"
+                },
+                "staticDuration": {
+                  "text": "2 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 66,
+              "staticDuration": "16s",
+              "polyline": {
+                "encodedPolyline": "owfj@mpt}Ve@Ry@\\GD"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0848773,
+                  "longitude": 125.6117522
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0854025,
+                  "longitude": 125.61147270000001
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right onto Daang Maharlika Hwy/J.P. Laurel Ave"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "66 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 565,
+              "staticDuration": "118s",
+              "polyline": {
+                "encodedPolyline": "wzfj@unt}VdD~HNXRZrBpAJJVHd@FzAVZLPNhChD"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0854025,
+                  "longitude": 125.61147270000001
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0820579,
+                  "longitude": 125.6079173
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto Surveryor St"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.6 km"
+                },
+                "staticDuration": {
+                  "text": "2 mins"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 60,
+              "staticDuration": "14s",
+              "polyline": {
+                "encodedPolyline": "{efj@oxs}VrAcA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0820579,
+                  "longitude": 125.6079173
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0816357,
+                  "longitude": 125.6082606
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto Panganiban St"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "60 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 95,
+              "staticDuration": "31s",
+              "polyline": {
+                "encodedPolyline": "gcfj@szs}VhBfC"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0816357,
+                  "longitude": 125.6082606
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0811094999999993,
+                  "longitude": 125.60758080000001
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right at the 1st cross street onto Sputnik St\nDestination will be on the left"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.1 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            }
+          ],
+          "localizedValues": {
+            "distance": {
+              "text": "1.2 km"
+            },
+            "duration": {
+              "text": "5 mins"
+            },
+            "staticDuration": {
+              "text": "5 mins"
+            }
+          }
+        },
+        {
+          "distanceMeters": 872,
+          "duration": "172s",
+          "staticDuration": "172s",
+          "polyline": {
+            "encodedPolyline": "}_fj@kvs}VrAjBkA`Ak@t@y@pBk@pA}@`B_Ak@a@Qa@Ka@Ga@|B]jB[lBW~AtFxC"
+          },
+          "startLocation": {
+            "latLng": {
+              "latitude": 7.0811094999999993,
+              "longitude": 125.60758080000001
+            }
+          },
+          "endLocation": {
+            "latLng": {
+              "latitude": 7.0822857,
+              "longitude": 125.6024083
+            }
+          },
+          "steps": [
+            {
+              "distanceMeters": 75,
+              "staticDuration": "15s",
+              "polyline": {
+                "encodedPolyline": "}_fj@kvs}VrAjB"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0811094999999993,
+                  "longitude": 125.60758080000001
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0806942,
+                  "longitude": 125.60704430000001
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head southwest on Sputnik St toward Emilio Jacinto Ext"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "75 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 280,
+              "staticDuration": "46s",
+              "polyline": {
+                "encodedPolyline": "i}ej@_ss}VkA`Ak@t@y@pBk@pA}@`B"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0806942,
+                  "longitude": 125.60704430000001
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0821096,
+                  "longitude": 125.60497360000001
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right onto Emilio Jacinto Ext"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.3 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 104,
+              "staticDuration": "17s",
+              "polyline": {
+                "encodedPolyline": "effj@afs}V_Ak@a@Qa@Ka@G"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0821096,
+                  "longitude": 125.60497360000001
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0829372999999993,
+                  "longitude": 125.60538299999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right after Glambright (on the right)"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.1 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 251,
+              "staticDuration": "42s",
+              "polyline": {
+                "encodedPolyline": "kkfj@shs}Va@|B]jB[lBW~A"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0829372999999993,
+                  "longitude": 125.60538299999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0835244999999993,
+                  "longitude": 125.603185
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto Pearl St"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.3 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            },
+            {
+              "distanceMeters": 162,
+              "staticDuration": "52s",
+              "polyline": {
+                "encodedPolyline": "_ofj@{zr}VtFxC"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 7.0835244999999993,
+                  "longitude": 125.603185
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 7.0822857,
+                  "longitude": 125.6024083
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto Topaz St\nDestination will be on the right"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.2 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "DRIVE"
+            }
+          ],
+          "localizedValues": {
+            "distance": {
+              "text": "0.9 km"
+            },
+            "duration": {
+              "text": "3 mins"
+            },
+            "staticDuration": {
+              "text": "3 mins"
+            }
+          }
+        }
+      ],
+      "distanceMeters": 24118,
+      "duration": "4193s",
+      "staticDuration": "4193s",
+      "polyline": {
+        "encodedPolyline": "igfj@avr}VuFyC_@jBm@fBS~@SdA_@hBRNCJ@TDJpAhB`@t@Jf@A`@CJ_@hAg@dBg@`BQf@Gh@D`@DNRvAFf@P~ATvC@L@L\\xDHb@T|CL^LnA@t@XdDBj@@ZC~@?H{ApJI`@Gb@Kl@EVOp@Ef@DRRVbEvA^NvAb@h@ZJPPf@@lDBXGJPdEHl@JXnC`FBDf@hANE`@MrBc@|@ONEvASz@MVEh@Gr@Ip@IlA]n@a@lGcFh@a@jAm@v@a@j@Yr@]\\QfB{@p@[lCoAdAg@jAm@`B{@jA{@`@]`IqHn@q@lEkE`CwB~@m@d@Q`@KzDm@zDk@tFw@j@KTEbAOxGcARCMaACQmBoMo@kEfASzB[xB[rDi@hMoBPCnB]|JyAzCe@^G|@Ub@PTFPRb@VbFzBdEtBp@Z{@pBLv@z@xF{@yFMw@z@qBJUwFqCiEwB}@[]@UGc@Q[W]UgD}AmGuCu@a@y@{@{@eBYkAIgAKaBQuBEi@BSCw@e@aG[mDSi@Ow@Mm@_@mA{@uAQYa@m@_AaA[]iBcBmAeAuAiAIUOO_CwA}@g@YQ[WIGk@i@SWi@o@Y[IKcAcBEGs@cBw@kCCIUaACQKUc@q@uAcBwBqCqAcBw@eAyAiBa@e@OUqDuEMHaAz@iAz@[]sIp@mALiAJCgDkHTkHLBlBoADgELEsBkHR_B@YEkAyAqAaBwD}EgEqF}DgFCAAQsBqCcAkAOSaBwBc@k@_@g@c@e@_@i@{@cAU[}KuNkCcD{CwD_BuBuCoDmA}AeB{B{BkCeAaAkA_AyCaCIIy@g@_FuD_GqE[WuBcBiIkGcW}RcD}BkL{IkA}@`AaANAL?JCf@WTKfAi@RElADBq@}@HYFE@{Ap@GBu@f@SBC?SDA@eAv@IL~AlAjL~IbDzBtDtClQfN|LnJ\\V|FpEbFpDt@l@HF~AhAzCdCp@p@JHdC|CzC|DrCnDzAnBjH`JrFfH~C`ETXVZBXEVFf@ABKZIHoClB{B`BuAhAqAbAqAfAsAbARZbBvBhB|BfElFUTq@h@kAz@jDnEkDoEiAx@eAz@iA|@kAz@gA|@iAz@kAz@gAz@iA|@y@|@_CfBGBm@b@i@\\vAaAFC~BgBx@}@hA}@hEtFNKOJfEtFnDjEVf@R^v@dBe@Ry@\\GDdD~HNXRZrBpAJJVHd@FzAVZLPNhChDrAcAhBfCrAjBkA`Ak@t@y@pBk@pA}@`B_Ak@a@Qa@Ka@Ga@|B]jB[lBW~AtFxC"
+      },
+      "description": "Eden St and Don Julian Rodriguez Sr. Ave/Ma-a Rd",
+      "viewport": {
+        "low": {
+          "latitude": 7.0510056999999993,
+          "longitude": 125.58274519999999
+        },
+        "high": {
+          "latitude": 7.1040019,
+          "longitude": 125.64491790000001
+        }
+      },
+      "optimizedIntermediateWaypointIndex": [7, 6, 2, 4, 1, 3, 5, 0],
+      "localizedValues": {
+        "distance": {
+          "text": "24.1 km"
+        },
+        "duration": {
+          "text": "1 hour 10 mins"
+        },
+        "staticDuration": {
+          "text": "1 hour 10 mins"
+        }
+      },
+      "routeLabels": ["DEFAULT_ROUTE"]
+    }
+  ]
+}
